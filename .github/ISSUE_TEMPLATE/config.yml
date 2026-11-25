@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Watch and recreate the videos on SandBase Lab / 在 SandBase Lab 观看并复刻
+    url: https://www.sandbase.ai/lab/ai-videos/magi-2?utm_source=github&utm_medium=issue&utm_campaign=awesome-magi-2
+    about: Full-size playback and prompts for MAGI-2 videos. / MAGI-2 视频大屏播放与提示词。
+  - name: Run MAGI-2 / 调用 MAGI-2
+    url: https://www.sandbase.ai/model/sandai/magi-2/text-to-video/text-to-video?utm_source=github&utm_medium=issue&utm_campaign=awesome-magi-2
+    about: Model page with pricing and API access on SandBase. / SandBase 模型页：价格与 API。
