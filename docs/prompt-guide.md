@@ -35,7 +35,7 @@ Realistic human skin is the known weak spot in this set. In an image-to-video te
 ## Settings
 
 - **Duration.** The list price scales with duration: 0.08 per second, with a default of 5 seconds, per SandBase inspect. Ask for the length you need.
-- **Output budget.** The API example in this list uses `max_tokens: 128000`. SandBase's model data does not list a limit for this model, so check the [model page][model] before raising it.
+- **Format.** 1080p only; aspect ratio 16:9, 9:16, 1:1, 4:3, 3:4 or 21:9; native audio is on by default.
 
 ## A prompt to start from
 
@@ -47,7 +47,7 @@ Rules: [what must not happen, and the one allowed exception with its timing].
 Mixed styles: [which parts are drawn, which are photoreal].
 ```
 
-Fill it in, then try it on the [Lab text arena][arena] or with the API in the [tutorial](tutorial.md).
+Fill it in, then try it on the [Lab video arena][arena] or with the API in the [tutorial](tutorial.md).
 
 ---
 
@@ -60,5 +60,5 @@ Quotes are short excerpts credited to their authors; follow the links for full p
 [cris]: https://x.com/criscxuan/status/2125504100670530040
 [joshesye]: https://x.com/joshesye/status/2125557298135245012
 [john-i2v]: https://x.com/johnAGI168/status/2125578530272821680
-[arena]: https://www.sandbase.ai/arena/text?models=sandai%2Fmagi-2%2Ftext-to-video&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2
+[arena]: https://www.sandbase.ai/arena/text-to-video?models=sandai%2Fmagi-2%2Ftext-to-video&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2
 [model]: https://www.sandbase.ai/model/sandai/magi-2/text-to-video?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2

@@ -35,7 +35,7 @@ MAGI-2 是 Sand.ai 的视频模型，2026 年 11 月 24 日发布。下面的写
 ## 参数设置
 
 - **时长。** 标价随时长变化：每秒 0.08，默认 5 秒（来自 SandBase inspect）。按你需要的长度提需求。
-- **输出预算。** 本列表的 API 示例使用 `max_tokens: 128000`。SandBase 的模型数据未列出该模型的上限，提高前请先查看[模型页][model]。
+- **画面。** 仅 1080p；画幅可选 16:9、9:16、1:1、4:3、3:4、21:9；默认生成原生音轨。
 
 ## 可以直接用的提示词
 
@@ -47,7 +47,7 @@ MAGI-2 是 Sand.ai 的视频模型，2026 年 11 月 24 日发布。下面的写
 混合风格：[哪些部分是画出来的，哪些是写实的]。
 ```
 
-填好以后，可以到 [Lab 文本竞技场][arena] 试一试，或按[教程](tutorial.md)用 API 调用。
+填好以后，可以到 [Lab 视频竞技场][arena] 试一试，或按[教程](tutorial.md)用 API 调用。
 
 ---
 
@@ -60,5 +60,5 @@ MAGI-2 是 Sand.ai 的视频模型，2026 年 11 月 24 日发布。下面的写
 [cris]: https://x.com/criscxuan/status/2125504100670530040
 [joshesye]: https://x.com/joshesye/status/2125557298135245012
 [john-i2v]: https://x.com/johnAGI168/status/2125578530272821680
-[arena]: https://www.sandbase.ai/arena/text?models=sandai%2Fmagi-2%2Ftext-to-video&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2
+[arena]: https://www.sandbase.ai/arena/text-to-video?models=sandai%2Fmagi-2%2Ftext-to-video&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2
 [model]: https://www.sandbase.ai/model/sandai/magi-2/text-to-video?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2

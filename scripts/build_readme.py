@@ -37,7 +37,7 @@ def reading(loc):
 def links(loc):
     lang = 'lang=zh-CN&' if loc == 'zh-CN' else ''
     return {
-        'name': CFG['name'], 'short': CFG['short'], 'model_id': MODEL_ID, 'html_out': CFG['html_out'],
+        'name': CFG['name'], 'short': CFG['short'], 'model_id': MODEL_ID, 'html_out': CFG.get('html_out', ''),
         'guide_patterns': CFG['guide_patterns'], 'repo_url': CFG['repo_url'],
         'not_affiliated': CFG['not_affiliated'][loc],
         'lab_stats': lab(loc=loc, content='stats'), 'lab_quickstart': lab(loc=loc, content='quickstart'),
