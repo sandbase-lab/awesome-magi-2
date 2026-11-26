@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 18 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
+共 27 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的帖子把提示词放在回复里，或放在外部链接中，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
-- [短片](#short-film) (1)
+- [短片](#short-film) (3)
 - [音乐视频](#music-video) (1)
 - [动画](#anime) (4)
-- [动作](#action) (3)
-- [广告](#ad) (1)
-- [测试对比](#comparison) (5)
-- [模型展示](#showcase) (3)
+- [动作](#action) (7)
+- [广告](#ad) (2)
+- [测试对比](#comparison) (6)
+- [模型展示](#showcase) (4)
 
 <a id="short-film"></a>
 
@@ -88,6 +88,36 @@ Ultra-realistic, photorealistic, natural human movement, realistic facial expres
 AUDIO
 
 ONLY natural breathing, footsteps, clothing movement, wind, birds chirping and subtle environmental sounds. Include realistic kissing and embrace sounds. ABSOLUTELY NO BACKGROUND MUSIC OR MUSICAL SCORE.
+```
+
+### 带有时间戳提示的三段式叙事短片
+
+[@MaAyyoub](https://x.com/MaAyyoub/status/2125673356015927750) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125673356015927750/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125673356015927750?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+I wrote each 30s MAGI-2 prompt shot by shot with timestamps: beach at 0s, rooftop at 8s, city street at 16s. The cuts landed where I wrote them, and the vocals came out of the same generation, already on their lips.
+
+Two stills from my first clip kept the couple identical across three separate generations.
+
+Created with MAGI-2 at Higgsfield
+
+Prompts for all three generations below 👇
+```
+
+### 可爱的3D宠物动画短片系列
+
+[@Dheepanratnam](https://x.com/Dheepanratnam/status/2125701889702457524) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125701889702457524/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125701889702457524?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Cute pets animation series - episode 1
+30s short - ref + prompt 👇🧵
+
+2 character  reference image + text prompt
+full voice acting, synced sound effects
+Family 3D animation
+
+AI animation space got a serious contender 
+Created with MAGI-2 on Higgsfield
 ```
 
 <a id="music-video"></a>
@@ -318,6 +348,134 @@ Sound: a howling wall of grass-rush and wind pitching with every bank and drop, 
 Global style lock: photoreal cinematic FPV; the camera stays low, the animals stay grounded, nothing rises into the sky; the climax escalates rather than resolves, no directed ending; the prey NEVER turns to face the predator or camera while running; EVERY background animal REACTS and keeps moving — nothing stands still as the chase passes; the river persists thro…
 ```
 
+### 使用MAGI-2模型制作的电影动作片段
+
+[@aanggaamc](https://x.com/aanggaamc/status/2125654127535665301) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125654127535665301/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125654127535665301?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Trying out MAGI-2 on @renoiseai @renoiseaijp 
+
+30-second cinematic action, 1080p resolution, insane camera movements, and high-speed combat — all at a more affordable price compared to other AI video models.
+
+More creative freedom. Longer sequences. Lower generation costs. Prompt below : 
+
+Try MAGI-2 now on @renoiseai 
+
+#Renoise #RenoiseCPP #MAGI2 #AIVideo #AIFilmmaking #CinematicAI #GenerativeAI
+```
+
+### 高速连续的FPV无人机追逐镜头
+
+[@abulu8](https://x.com/abulu8/status/2125719013473014266) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125719013473014266/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125719013473014266?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Testing with 4 references! 🙌 
+
+That vertical dive down the scree chute was INSANE! 🐆💀 Honestly the model is good.
+
+Created with MAGI-2 on @higgsfield_ai @higgsfield
+
+Prompt 👇
+
+One CONTINUOUS FPV drone shot, no cuts, one unbroken take, EXTREME real-time speed. Never reverses. NO slow motion except one half-second beat at the reveal, then an instant snap back to full speed. Photoreal point-blank framing. DOWNHILL LOCK: the whole chase runs DOWN the mountainside, top to bottom — NOTHING rises into the sky, ever. The camera flies LOW, inches off rock and scree, and its every altitude change is a DROP, ledge after ledge down to the gully. NO ESCAPE, no fade to black.
+
+REFERENCES: terrain and route = @Image1 (cliff ledges, scree chute, snow gully). Snow leopard = @Image4, blue sheep = @Image2, ibex = @Image3 — animals' look only, no grey backdrops, no labels.
+
+CINEMATIC CAPTURE: real FPV drone footage — ultra-wide 14mm lens, barrel distortion, 180-degree shutter, heavy motion blur on fast pans, fine grain, lens flares, grit and snow hitting the lens. Golden-hour light under a bruised storm sky, one low gold shaft raking the cliffs. Grade: slate, ochre and snow-white, documentary contrast — BBC nature documentary from a racing drone, NOT a game engine.
+
+The shot opens ALREADY at full speed on the golden cliff ledges, skimming rock inches behind the snow leopard as it tears along a narrow ledge, ringed tail swinging for balance. Ahead — seen ONLY from behind and flank, NEVER its face — the blue sheep bolts along the ledge and DROPS off its edge to the ledge below; the leopard drops after it and the camera DIVES with them, ledge after ledge, choughs scattering around the lens. The sheep hits the top of the scree chute and plunges straight down it; the leopard follows, and the camera tips into a VERTICAL DIVE down the chute behind them, loose stones breaking free and pouring down alongside in a growing rockslide. On the grassy slope beside the chute an ibex herd — a few big curved-horn males, females and young, close to the lens — bolts sideways away from the falling rocks, the camera swerving past their flanks and back onto the leopard's tail. The chute pours out into the snow gully. THE ENTIRE CLIMAX HAPPENS HERE, IN THE SNOW AND STREAM. THE REVEAL: half-second slow motion — the snow leopard at full stretch in its final lunge, low and flat over the snow, huge furry paws out, seen from behind — then an INSTANT SNAP back to full speed. The paws hook the sheep's flank at an angle; both crash sideways into the snow and the stream, powder and water erupting, the camera driving THROUGH the burst, orbiting tight and low as they thrash. The jaws lock at the throat; the leopard pins the sheep, the camera circling recklessly close. It plants its feet over the body, flanks heaving, breath steaming, and lets rip a RASPING SNOW LEOPARD YOWL — a harsh wail breaking into a snarl and hiss, teeth bared, NOT a lion's roar. The rockslide's tail spills into the gully around them, a bearded vulture drops past the camera, the ibex herd scrambles across the far slope, the camera arcing around the snarling leopard as the runtime runs out mid-chaos.
+
+Sound: howling wind pitching with every drop, clattering scree, a rumbling rockslide, a driving score — dropping to one breath of near-silence at the slow-motion reveal, then a MASSIVE concussive snow-and-water impact, then sustained escalating chaos: thrashing snow and water, ragged panting, snarls, the rasping yowl, ibex hooves, vulture wings, the score building to the final frame.
+
+Global style lock: photoreal cinematic FPV; the chase only goes DOWN, nothing rises into the sky; the climax escalates rather than resolves, no directed ending; the blue sheep NEVER turns to face the predator or camera while running; EVERY background animal REACTS and keeps moving as the chase passes; the gully persists through the climax; no lion roar, no distortion, no subtitles, no watermarks. 16:9.
+```
+
+### 紫色闪电特效的电影级动作场景
+
+[@Gwsubsa](https://x.com/Gwsubsa/status/2125723926001225871) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125723926001225871/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125723926001225871?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+When purple thunder takes over the battlefield. ⚡
+Made with MAGI-2 on Higgsfield.
+
+Prompt : 
+DURATION: Exactly 15 seconds
+FORMAT: 16:9, 4K, 60fps
+GENRE: Action blockbuster
+VISUAL: Ultra-photorealistic live-action, ARRI Alexa 65, IMAX cinematic scale, anamorphic cinematography, physically realistic VFX.
+CHARACTER REFERENCE LOCK — IMAGE 1
+Use the uploaded female portrait as the absolute facial identity reference.
+Transform the illustrated character into a believable real human actress while preserving her recognizable facial characteristics:
+Identical face shape and facial proportions.
+Same expressive almond-shaped eyes.
+Same nose, lips and natural facial details.
+Distinctive short black bob haircut with straight bangs.
+Same hair length, silhouette and fringe.
+Natural realistic skin texture, visible pores and subtle skin imperfections.
+She is an adult woman with a fearless, confident expression.
+WARDROBE: Black fitted tactical action jacket, black combat trousers, black boots and fingerless tactical gloves. Functional, elegant, athletic. No armor, no crown, no fantasy costume.
+Her weapon is a long metallic staff infused with brilliant purple electrical energy.
+Her face, hairstyle, body proportions and outfit must remain identical throughout the entire sequence.
+ENVIRONMENT
+A vast golden alpine grassland surrounded by autumn trees, natural rock formations and towering snow-covered mountains beneath dramatic golden-hour sunlight.
+Fourteen identical-design hell monsters attack her. Charred black muscular bodies, enormous horns, dorsal spikes, glowing red eyes, molten-red cracks and massive claws.
+ACTION SEQUENCE
+0.0–3.0s — PURPLE LIGHTNING BLITZ
+START MID-BATTLE!
+Ground-level wide shot. Fourteen monstrous creatures charge toward the woman through the golden grass.
+She instantly disappears in a violent purple lightning flash.
+WHIP PAN!
+She materializes between the monsters, spinning her staff through three consecutive devastating strikes: horizontal smash, diagonal reversal, overhead crushing blow.
+Each impact launches monsters backward with realistic body momentum.
+Purple lightning illuminates her face. Grass, dirt and rocks explode outward.
+3.0–5.5s — TELEPORTATION COMBAT
+Aggressive 180-degree camera orbit.
+Three monsters attack simultaneously.
+She teleports behind the first, dodges the second monster’s enormous claw, then leaps above the third.
+Mid-air, she performs a powerful spinning staff strike.
+Six translucent purple spectral staffs materialize around her, intercepting incoming monsters with synchronized strikes.
+She lands in a low sliding stance, dragging her staff across the ground.
+A semicircular purple energy shockwave blasts through the surrounding enemies.
+5.5–8.0s — DIMENSIONAL RUPTURE
+Extreme close-up of her determined eyes.
+She drives her staff into the earth.
+BOOM!
+Purple electrical fractures spread across the ground. Rocks rise into the air. Grass bends outward under the pressure.
+Twelve spectral staffs materialize in a rotating formation around her.
+She pulls her weapon upward and swings horizontally.
+A gigantic purple dimensional rift tears open across the battlefield.
+Monsters are violently pulled into the rupture, disintegrating into black smoke and glowing particles.
+Camera rapidly pushes toward the rift, then whip-pans back to her.
+8.0–11.5s — TWELVE STAFF EXECUTION
+A massive horned monster leaps directly toward her.
+She instantly teleports through its attack, appearing behind its back.
+Twelve spectral staffs orbit her at incredible speed.
+She performs a rapid three-direction teleportation combo:
+LEFT — horizontal lightning strike.
+RIGHT — diagonal crushing strike.
+ABOVE — devastating aerial downward strike.
+Simultaneously, the spectral staffs fire concentrated purple lightning projectiles at the remaining monsters.
+Multiple explosions illuminate the mountains.
+She launches vertically into the sky, leaving a spiraling purple lightning trail.
+11.5–15.0s — DIVINE THUNDER ANNIHILATION
+EXTREME LOW-ANGLE SHOT!
+Al…
+```
+
+### 校园走廊中的超能力动作场景
+
+[@Gwsubsa](https://x.com/Gwsubsa/status/2125726369917350176) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125726369917350176/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125726369917350176?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+They should've never disturbed her. 🌀
+Created with MAGI-2 on Higgsfield.
+
+Prompt :
+In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+
+#MAGI2 #Higgsfield
+```
+
 <a id="ad"></a>
 
 ## 广告
@@ -336,6 +494,36 @@ Global style lock: photoreal cinematic FPV; the camera stays low, the animals st
 用的是 MAGI-2，适合服装上新、产品宣发。
 
 提示词 + 完整拆解我放评论区了，想复刻的可以直接抄。
+```
+
+### 使用MAGI-2制作的产品演示视频
+
+[@0x_rody](https://x.com/0x_rody/status/2125700589103591916) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125700589103591916/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125700589103591916?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+This is just crazy...
+
+A studio would quote you around $10k for a video like this. 
+
+I made it in @renoiseai with MAGI-2 for under $10.
+
+here's how:
+
+1. upload one real photo of your product so the model keeps its exact shape
+
+2. describe the result, not the vibe: what's in frame, camera move, length. the agent turns it into a shot list
+
+3. add 2-3 style references (thermal cam, wireframe, neon line art). MAGI-2 takes up to 20
+
+4. time the camera in seconds: "slow orbit, push in on the chrome, cut to wireframe at 4s"
+
+5. ask for sound in the same prompt, it comes out synced
+
+6. if one shot is off, fix just that part instead of regenerating everything
+
+I'll drop the exact prompt and link in the comments
+
+save this for your next product video
 ```
 
 <a id="comparison"></a>
@@ -405,6 +593,15 @@ Prompt 👇🐾：
 （第一段：seedance2.5; 第二段：MAGI-2；）终于出来个能打的视频模型了！！
 ```
 
+### 使用Seedance和MAGI-2生成人物
+
+[@bywind_art](https://x.com/bywind_art/status/2125613368514093279) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125613368514093279/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125613368514093279?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+好想要一个这样的女朋友啊！！
+Prompt 👇📷： （第一段：seedance2.5; 第二段：MAGI-2；）稍微差一点意思但是也很好！！
+```
+
 ### 风筝在多种艺术风格间的连续变换
 
 [@Dheepanratnam](https://x.com/Dheepanratnam/status/2125658296052813844) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125658296052813844/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125658296052813844?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
@@ -462,4 +659,21 @@ I even forgot to post today, as I got lost in it... 😆
 More coming up, stay tuned.
 
 Prompt below 👇
+```
+
+### 视频角色的设计展示
+
+[@maxescu](https://x.com/maxescu/status/2125709346759929957) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125709346759929957/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125709346759929957?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+WOW!
+
+MAGI-2 hits different.
+
+Character Design: 
+Midjourney + Nano Banana 2.1
+
+Video: Made in Higgsfield
+
+Prompt below:
 ```
