@@ -2,16 +2,16 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 37 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
+共 46 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的帖子把提示词放在回复里，或放在外部链接中，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
-- [短片](#short-film) (9)
-- [音乐视频](#music-video) (1)
-- [动画](#anime) (6)
-- [动作](#action) (6)
+- [短片](#short-film) (13)
+- [音乐视频](#music-video) (2)
+- [动画](#anime) (7)
+- [动作](#action) (8)
 - [广告](#ad) (2)
-- [测试对比](#comparison) (6)
+- [测试对比](#comparison) (7)
 - [模型展示](#showcase) (7)
 
 <a id="short-film"></a>
@@ -437,6 +437,124 @@ Created with MAGI-2 at @higgsfield
 Prompt: Create a 15-second cinematic 2D animated dark-folklore sequence featuring a blind swordsman, a mysterious girl with a crimson umbrella, and an ancient shadow creature. Set in a rain-soaked Japanese village with hand-painted gouache textures, bold silhouettes, and a dark midnight-blue palette. The story unfolds through atmospheric camera movements, supernatural shadows, a dramatic katana strike, and an unexpected final twist. Maintain consistent characters, fluid 2D animation, and cinematic sound design throughout.
 ```
 
+### 地铁站内的惊悚恐怖场景
+
+[@john_my07](https://x.com/john_my07/status/2125795305920880995) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125795305920880995/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125795305920880995?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Horror struck an American railway station at night, and suddenly it was chaos everywhere!
+
+Made with MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt:
+A young American woman wearing a black leather jacket, a denim skirt, and black boots waits alone on a nearly empty New York City subway platform late at night. The station has a gritty American urban atmosphere, with old tiled walls, metal benches, flickering fluorescent lights, and a few American commuters scattered across the platform.
+
+Suddenly, her eyes turn completely milky white, dark veins spread across her face, and she begins laughing uncontrollably. Her expression becomes increasingly disturbing. As a subway train approaches, she suddenly drops to all fours and crawls unnaturally toward terrified American passengers. People scream and desperately run away. One male commuter escapes into a narrow maintenance corridor, but she suddenly appears directly behind him, moving unnaturally while dragging her fingers along the walls. He turns around in terror as the station lights begin flickering violently. The lights completely go out as the last train pulls away. In the darkness, her two pale white eyes slowly appear inside the train's final rear window, staring directly into the camera.
+
+STYLE: Photorealistic American zombie horror, authentic New York City subway environment, cinematic 4K, realistic American-looking characters and passengers, handheld documentary-style camera, natural human movements, terrifying facial expressions, creepy uncontrollable laughter, flickering fluorescent lights, atmospheric shadows, realistic film grain, intense suspense and immersive horror sound design.
+
+NEGATIVE: Cartoon, anime, obvious CGI, excessive gore, unrealistic movements, inconsistent character appearances, changing outfits, distorted faces, subtitles, text, logos, or watermark. No background music, no narration.
+```
+
+### 一名女子走在巴黎雨天的早晨
+
+[@Ciri_ai](https://x.com/Ciri_ai/status/2125795679201304780) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125795679201304780/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125795679201304780?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+THE ART OF NOT CARING. ☕🇫🇷
+
+A little elegance, a little chaos, and absolutely no effort.
+
+Created with MAGI-2 at @higgsfield 
+
+Prompt: THE GENTLEWOMAN 02 — THE ART OF NOT CARING. CLIP 2: THE CITY BOWS DOWN. Create the second 15-second cinematic deadpan physical-comedy sequence in the same rainy Paris morning, visually continuous with clip 1. Use the character-sheet image as the strict identity, face, hair, wardrobe and prop reference; same woman, same charcoal-black long coat, dark outfit and boots. Coffee cup stays in her LEFT hand; CLOSED matte-black umbrella stays in her RIGHT hand at all times and never opens. In five elegant, fast, readable vignettes: 1) she rescues a street artist's easel from tipping by nudging its support back into place with the closed umbrella; 2) a paper bag of birdseed slips, scattering pigeons; she calmly rights the bag and guides it back to the owner; 3) a waiter struggles with a wobbling silver serving tray; she catches and steadies the edge using the umbrella handle without taking the tray; 4) at a grand Paris hotel entrance, a suitcase wheel is stuck in a cobblestone gap; she uses the umbrella tip to free it with one precise movement; 5) close-up as she continues walking, finally allowing the faintest satisfied smile, then returns to her perfectly neutral expression. Finish with a doorman giving her a small respectful nod as she passes. Understated visual comedy, believable physics, soft overcast light, wet reflective Paris streets, refined European fashion-film cinematography, smooth tracking and clean cuts. No dialogue, no captions, no text, no hand switching, no umbrella opening, no extra props in her hands.
+```
+
+### 沿海村庄的夏日下午纪实
+
+[@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2125803088523231600) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125803088523231600/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125803088523231600?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Some summer days feel like a beautiful little dream. 
+
+Made using MAGI-2 on @higgsfield
+#HiggsfieldPartner
+
+Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video capturing a spontaneous summer afternoon in a quiet coastal village on Jeju Island, South Korea. Make it feel like a nostalgic vacation recording filmed by a close friend, not a professional production.
+
+CHARACTER CONSISTENCY
+
+One young Korean woman in her early 20s throughout the entire video. Natural beauty, realistic skin texture, expressive dark-brown eyes and long wavy dark-brown hair in a loose half-up hairstyle.
+
+She wears an ivory linen shirt over a sage-green camisole, light-wash denim shorts, white canvas sneakers, a tan woven crossbody bag, silver jewelry and black sunglasses resting on her head. Maintain identical facial features, hairstyle, proportions and outfit in every scene.
+
+LOCATION & ATMOSPHERE
+
+A peaceful Jeju fishing village with volcanic stone walls, colorful fishing boats, narrow coastal roads, flower stalls, traditional houses, green fields and sparkling ocean views. Warm summer sunlight, gentle sea breeze and distant volcanic hills.
+
+30-SECOND STORY
+
+- 00:00–00:05: She walks out of a blue wooden gate carrying breakfast, smiles at the camera and walks along a charming stone-walled road.
+- 00:05–00:10: At a tiny flower stall, she picks up delicate white flowers, playfully poses beside her face and laughs when the camera zooms too close.
+- 00:10–00:15: At a fishing harbor, she excitedly waves at a fisherman on a colorful boat. The camera quickly pans and briefly loses focus.
+- 00:15–00:20: A strong sea breeze blows her hair across her face. She catches her slipping sunglasses, laughs and says, "Not today!"
+- 00:20–00:25: Sitting on a volcanic stone wall overlooking the ocean, she enjoys a pastry, places a little flower behind her ear and smiles peacefully.
+- 00:25–00:30: She walks toward a wooden pier, turns back, waves and says, "See you tomorrow!" The camera accidentally tilts toward the sparkling ocean before abruptly cutting to black.
+
+CAMERA & VISUAL STYLE
+
+Authentic early-2000s consumer DV camcorder footage. Handheld movement, imperfect framing, accidental zooms, autofocus hunting, exposure shifts, faded colors, subtle digital noise, interlacing artifacts and natural motion blur. No cinematic stabilization, drone shots or professional camera movements.
+
+AUDIO & REALISM
+
+Natural synchronized dialogue, ocean waves, seagulls, coastal wind, footsteps, distant boats and genuine laughter. No music, narration, subtitles or watermarks.
+
+IMPORTANT CONTINUITY
+
+Keep the same woman, face, outfit and accessories across all six scenes. Natural expressions, believable movements, realistic wind and ocean physics. All scenes remain in the same Jeju village and afternoon.
+
+Avoid face distortion, duplicated characters, extra fingers, outfit changes, artificial beauty filters, exaggerated expressions, CGI appearance and overly polished cinematography.
+
+Overall feeling: A beautiful forgotten summer memory captured on an old family camcorder — warm, imperfect, intimate and genuinely magical.
+```
+
+### 烛光下的三次约会场景
+
+[@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2125805598239269190) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125805598239269190/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125805598239269190?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+3 dates. 3 dresses. 3 men 🕯️ Same heroine in every shot, real candlelight, real acting. All at $0.08 a second.
+Created with MAGI-2 at Higgsfield
+Animation prompts below 👇 You'll definitely need this
+
+📌 PROMPT ( Video Episode 1):
+
+STRICT RULE: Absolutely no music, only diegetic sounds.
+Realism cinematic, real skin with pores and small marks, natural eyes, people and set lit only by this place's named sources: the tall candle burning on every table, lighting each face softly from below and in front, the far corners of the room and the gaps between the tables left dark; 1990 Kodak 35mm colour-negative film grade with softly faded shadows, soft halation around every flame and clearly visible organic film grain; still air with a faint haze.
+Framed on the rule of thirds, with a light anamorphic lens character: softly oval out-of-focus highlights in the background, and a fine 35mm film grain.
+Image reference 1 (location Restaurant Dining Room): the Restaurant Dining Room 100% as in the reference.
+Image reference 2 (character Stella): Stella, face, hair, body and clothes 100% as in the reference.
+Image reference 3 (character Brad): Brad, face, hair, body and clothes 100% as in the reference.
+Image reference 4 (character Tony): Tony, face, hair, body and clothes 100% as in the reference.
+Image reference 5 (prop Brick Phone): the Brick Phone 100% as in the reference.
+Image reference 6 (prop Newspaper): the Newspaper 100% as in the reference.
+Continuity: Stella is clean and unchanged from the reference, with no stain, mark or damage; Brad is clean and unchanged from the reference, with no stain, mark or damage; Tony is clean and unchanged from the reference, with no stain, mark or damage.
+In frame only: Stella, Brad, Tony and the background diners. Every other table is taken by elegant diners in 1990 evening wear who eat, talk and raise glasses, the whole room filled with their soft, wordless murmur and the clink of glasses and cutlery, and two waiters in white jackets pass far behind, always soft and out of focus, never near the leads; the grand piano closed. Stella and Brad sit face to face at the small candlelit table for two in the middle of the room, Stella screen left, Brad screen right, an arm's length apart across the table. Tony works the room behind them and comes to the table in S4 and S6. The brick phone stays at Brad's right ear the whole clip. The newspaper, folded and clean with no marks on it, and its gold lipstick stay in the pocket of Stella's long black wool coat, hung on a brass coat stand by the curtained arch, until S10. Eyelines never at the camera.
+Opening: diners moving between the tables; Brad seated, the brick phone at his ear; Stella seated across from him, her chin on her hand, an arm's length away.
+Brad speaks aloud 1 time between 1.3s and 3.5s and never again; silent before 1.3s and from 3.5s to the end.
+Tony speaks aloud 1 time between 7.8s and 10.0s and never again; silent before 7.8s and from 10.0s to the end.
+Stella speaks aloud 2 times between 10.4s and 17.9s and never again; silent before 10.4s and from 17.9s to the end.
+The background diners never speak a clear word in this clip.
+Performance: naturalistic screen acting, as in a serious drama shot on film; small, real reactions in the eyes, brows, mouth and jaw, nothing exaggerated.
+Stella is out to leave this date without one awkward word; once Tony brings the fake call she walks out toward her next date, with willpower.
+Brad is out to close his deal on the phone, rocking and turning in his chair, and never once looks at Stella, with persistence.
+Tony is out to rescue the lady as he has done before; he brings the fake call with a straight face, with perseverance.
+Pace: loud and comic at the start, then sly and quick; every shot opens in motion, a beat only where a line lands.
+S1 0.0-1.2s · wide, high, from the far end of the room, slow push-in · diners at every table lift glasses and lean in to talk, a waiter in a white jacket crosses the aisle; i…
+```
+
 <a id="music-video"></a>
 
 ## 音乐视频
@@ -455,6 +573,52 @@ Prompt: Create a 15-second cinematic 2D animated dark-folklore sequence featurin
 画质、卡点、转场、人物连贯性、动静结合的都很完美。
 
 prompt 如下：
+```
+
+### 派对散场后的唯美圣诞音乐短片
+
+[@harboriis](https://x.com/harboriis/status/2125802832838512782) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125802832838512782/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125802832838512782?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+The party may be over, but the magic is just beginning
+
+A little music, a little mischief, and a Christmas night of her own.
+
+Made with MAGI-2 on @higgsfield 
+
+Prompt:
+Create a 30-second cinematic Christmas music video titled in concept “The Party Starts After Midnight.” No on-screen titles or subtitles.
+
+CHARACTER & WARDROBE
+Use the supplied character reference for consistent facial identity, chestnut-brown tousled hair, and natural makeup. Outdoors, she wears a long charcoal wool coat and a loosely wrapped burgundy scarf. Underneath: a cherry-red crewneck sweater, an oxblood satin knee-length skirt, sheer black tights, and burgundy kitten heels. Her chest remains fully covered.
+
+STORY & CAMERA
+
+0–5 seconds — A snowy arrival.
+A quiet city street at night, fresh snow settling on parked cars and the awning of an old apartment building. Begin at pavement level: her burgundy heels step through a thin dusting of snow, a small cream gift box swinging from her hand. Track backward as she approaches. Tilt gently upward to reveal her face, snowflakes caught in her hair. She glances at a glowing upstairs window with a knowing half-smile.
+
+5–10 seconds — From winter blue to tungsten gold.
+Follow close behind her through the heavy front door. The doorframe briefly fills the image, creating a natural transition into the apartment. Cold street light gives way to warm amber lamps. She pauses in the doorway: the party is over. A crooked paper crown, abandoned ribbon, and an almost-empty plate of cherries remain beside a softly glowing Christmas tree.
+
+10–16 seconds — A little private mischief.
+Medium shot, a slow lateral dolly as she slips off her coat and tosses it over a chair. Cut to a close-up of her fingers placing a record on the turntable. The needle drops on the musical downbeat. She steals the last cherry from the plate, looking briefly toward the camera as if she has been caught.
+
+16–24 seconds — Her own after-party.
+A gently handheld camera follows as she dances alone across the parquet floor, small spontaneous steps rather than choreography. Her satin skirt catches the lamplight. She picks up a trailing gift ribbon and lets it drift through her fingers. Cut between an intimate face close-up, her heels pivoting beside an unopened present, and a restrained quarter-circle camera move around her as she mouths the song’s chorus.
+
+24–30 seconds — A secret shared with the street.
+She walks to the tall window and draws a small star in the condensation with one fingertip. Shift focus from the star to her reflection, with Christmas lights behind her. Cut outside: framed through the window, she is a small warm figure dancing inside while snow falls in the foreground. Slowly pull back. Just before the end, she notices the camera and gives a tiny wave.
+
+VISUAL LANGUAGE
+An intimate 1990s Christmas fashion film photographed on 35mm color negative. Fine organic grain, softly resolved detail, gentle highlight halation, subtle exposure breathing, natural motion blur, and rich warm shadows. Cool blue snow outside; tobacco brown, burgundy, muted gold, and warm ivory inside. Practical lamps and Christmas lights motivate the lighting. Keep skin natural and fabric tactile.
+
+Alternate patient tracking shots with playful, music-led insert cuts. Camera movement should feel physically grounded and emotionally motivated. Preserve the apartment layout, character identity, and wardrobe across every shot. Let snow melt naturally on her coat and hair after she enters.
+
+SOUND & MOOD
+A playful English-language Christmas pop MV with vintage soul warmth. Brief footsteps crunching in snow, the front door closing, and the record needle dropping blend into the music. Her performance feels like a private celebration accidentally witnessed: witty, relaxed, and quietly magnetic.
+
+AVOID
+Digital hyper-sharpness, HDR, plastic skin, heavy fog filters, fake distressed borders, excessive scratches, frantic orbit shots, floating camera moves, exaggerated dancing,
 ```
 
 <a id="anime"></a>
@@ -728,6 +892,33 @@ cut13:
 環境音：皿がカウンターに置かれる音、街のざわめき。
 ```
 
+### 争夺最后一个餐包的动漫对决
+
+[@airina_xyz](https://x.com/airina_xyz/status/2125789673348034738) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125789673348034738/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125789673348034738?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+The final Thanksgiving dinner roll deserves an epic anime showdown.
+
+This test explores synchronized character actions, dynamic perspectives, consistent eyelines and the contrast between action choreography and deadpan comedy.
+
+Created with MAGI-2 at Higgsfield.
+
+Prompt:
+
+Style: High-energy hand-drawn action anime
+20-second spectacular hand-drawn anime comedy. Two adult siblings, a woman with short black hair wearing a burgundy sweater and a man with messy brown hair wearing a green sweater, notice the final golden dinner roll at the Thanksgiving table. Treat their competition with the intensity of an epic anime confrontation.
+00:00–00:02: Extreme close-up of a single golden dinner roll beneath a dramatic shaft of light.
+00:02–00:04: Split-screen close-up of both siblings' eyes widening simultaneously.
+00:04–00:06: Dynamic low-angle shot as both reach toward the breadbasket.
+00:06–00:08: Slow-motion close-up of their fingertips approaching the roll from opposite directions.
+00:08–00:10: Overhead shot with dramatic anime speed lines surrounding the table.
+00:10–00:12: Their fingers almost touch the roll.
+00:12–00:14: A third hand calmly enters the frame and takes it.
+00:14–00:17: Reverse shot revealing their cheerful grandfather casually eating the roll.
+00:17–00:20: Both siblings stare in complete disbelief as he asks, "What?"
+Maintain identical anime character designs, coherent hand positions, table geography and screen direction. Elaborate action framing, exaggerated anticipation and an abrupt comedic contrast. SFX: dramatic whooshes, heartbeat, bread crunch and synchronized dialogue. No music.
+```
+
 <a id="action"></a>
 
 ## 动作
@@ -846,6 +1037,71 @@ Fast choreography is one of the things I wanted to test here: movement, timing, 
 Prompt in the comment below.
 
 Created with MAGI-2 at Higgsfield
+```
+
+### 雨夜未来的机器人战斗
+
+[@VirgowatiShema](https://x.com/VirgowatiShema/status/2125794173051953252) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125794173051953252/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125794173051953252?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Magi-2 has officially landed on Higgsfield 🔥
+
+Testing how far I can push physical action and mechanical movement with MAGI-2. The weight, momentum, camera movement and rain interaction are the details I wanted to see.  
+
+Prompt :
+A cinematic ultra-realistic battle in a rain-soaked futuristic city at night. A sleek silver humanoid combat robot with glowing blue eyes faces a massive mechanical beast made of dark industrial metal. Heavy rain falls through neon reflections on the wet street. The two machines sprint toward each other, leap simultaneously, collide in mid-air, exchange several fast mechanical strikes, then slide across the wet pavement and rise into a dramatic final face-off. Realistic metal surfaces, detailed mechanical joints, believable weight and physics, dynamic handheld camera, low-angle tracking shots, fast cinematic cuts, dramatic rim lighting, volumetric rain, sharp reflections, intense but non-graphic action, ultra HD, 1080p, extremely sharp colors, cinematic realism, 16:9.
+
+Created with MAGI-2 at Higgsfield
+```
+
+### 骑士举盾抵挡地狱三头犬攻击
+
+[@AwajiAqua](https://x.com/AwajiAqua/status/2125795267643589086) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125795267643589086/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125795267643589086?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+噂のMAGI2でMidjourneyV8.2の世界を完全再現！
+Midjourneyでアクションシーンを作るなら、MAGI2＋Depth Mapが最適解というのが私の見立て。
+いいところも、注意するところも全部書いておいたから、MAGI2を試す前に是非見てね。
+Created with MAGI-2 at Higgsfield
+
+▼アクアが見てほしいところ
+・カメラは先に3Dの灰色の箱で組んで、深度マップ9コマ（3×3）にして渡しただけ。咆哮→炎→突進→盾で受ける、の4カットが1本の中でつながって出た
+・ケルベロスが石段を駆け下りる道筋も、下絵の通り
+・盾は最後まで騎士の左腕のまま。光の壁もちゃんと盾の紋章から広がる
+・咆哮も炎も石が割れる音も、映像と一緒に生成（後から音は足してない）
+・1080p
+
+▼ハマったところ（同じことをやる人へ）
+最初の2本は、1カット目でケルベロスが熊みたいに後ろ脚で立ち上がっちゃった。
+文で「四つ足のまま」と何度書いても、0〜4秒だけ直らない。
+
+原因は文じゃなくて深度マップの方。
+真正面から撮ると、横に長い胴が「縦に長い箱＝立っている物」に見えてたの。
+1カット目のカメラを斜め前に変えて、胴の長さが見える下絵にしたら、15秒ずっと四つ足になった✨
+
+→ 巨大な四つ足の生き物は、下絵で胴の長さが見える角度から撮るのがコツ！
+
+▼Prompt（そのまま使えるように全文を貼るね）
+Inputs: @Image1 = my key art of the ruin and the Cerberus / @Image2 = the knight's character sheet / @Image3 = 3x3 depth-map grid rendered from a gray-box previs
+Settings: 16:9 / 1080p / 15s / audio on / prompt enhance off
+
+@Image1 defines the location, the Cerberus, the hounds and the art style (not the camera framing). @Image2 defines Leon only.
+
+@Image3 is a 3x3 grid of linear depth maps of this exact shot (white = near, black = far), in time order from top-left to bottom-right. Use it only for depth, layout, occlusion, the Cerberus's four-legged body and its path down the steps, camera positions and the relative scale. Do not show any grayscale image, panel borders or the grid.
+
+A 15-second high-fantasy action shot in four cuts at a sunlit ancient ruin: a giant three-headed Cerberus, a four-legged wolf beast, roars, breathes violet-black flame, gallops down the stone steps on all four legs and is knocked back by the golden light wall of Leon's shield.
+
+Style lock: the exact look of @Image1, a painting: dreamlike, ultra-detailed, semi-photoreal high fantasy, ancient ivory-and-gold ruins with two giant robed stone statues holding staffs on either side of wide stone steps, waterfalls behind, soft golden morning haze, sun shafts and glittering mist. Keep this painterly-photoreal finish, its color grade and its fine detail in every frame.
+
+The Cerberus from @Image1: one giant three-headed wolf beast with long flowing white-silver fur, a crown of spiked golden horns on each head, glowing amber eyes, dark black-iron armor plates with gold trim on its back, shoulders and legs, and a faint pale-blue crystal glow in its chest. Its body is horizontal like a wolf's, carried on four thick legs. Scale: 5 meters at the shoulder and 10 meters long. Leon's head reaches only the height of its elbow, and one of its paws is as wide as Leon's shoulders.
+
+Leon from @Image2: a young knight with short brown hair, silver plate armor with sapphire-blue panels and a gold sun emblem on the chest, a royal-blue cape, a large silver kite shield with a golden sunburst crest (no face) strapped to his LEFT forearm, and a longsword in his RIGHT hand. The shield stays on his left arm in every shot.
+
+The hounds: wolf-sized black iron-furred hounds with red eyes.
+
+[0s-4s | Roar] Wide low three-quarter shot from the front right of the steps, so the whole length of the Cerberus's body and all four legs are visible: it stands on all four paws planted at the top of the stone steps between the two statues, lowers its shoulders like a wolf about to pounce, stretches its three necks forward and roars with all three jaws wide open; the black hounds at the foot of the steps scatter to the left and right; chunks of stone fall from the arch behind it. Camera: slow dolly in.
+[4s-7s | Flames] Low-angle medium shot of the three heads, the front legs and chest visible below them: the heads swing down, jaws open wide, and pour out three streams of violet-black flame that roll down the steps; the fur ripples in the heat wave. Camera: slow push in.
+[7s-11s | Charge] Over Leon's right shoulder: the Cerberus bounds down the steps in a low four-legged gallop like a giant wolf, front paws landing halfway down so the steps crack and burst, and charges straight at Leon, growing until its body fills the frame; dust and stone fragments fly toward the camera. Camera: locked behind Leo…
 ```
 
 <a id="ad"></a>
@@ -986,6 +1242,27 @@ Created with MAGI-2 on @Higgsfield, 1080p straight out.
 
 I gave it five timestamps and five looks. It gave me one continuous shot that changes art style every six seconds and keeps the subject locked the whole way. 
 Prompt in the comments 👇
+```
+
+### 三款AI视频模型的情绪戏横向对比
+
+[@nanyuan0412](https://x.com/nanyuan0412/status/2125801037558870158) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125801037558870158/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125801037558870158?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+这是三款模型的情绪戏的一个横向对比，如果不看答案
+
+兄弟们光凭肤质、微表情递进和最后那句台词的声音，能对号入座猜出哪条是 Seedance 2.5、哪条是 可灵 4.0、哪条是新出的 MAGI-2 吗？（全在 @renoiseai 工作台一键生成）
+
+关键promp
+
+【12 秒 6 层细腻微表情表演时间轴（单一连续过肩镜头，不切镜）】
+0–2.5 秒｜【特写（CU）｜受伤失神、强忍破碎】过肩特写紧锁女主角面部。她微微仰头直视前景沉默的男主，清澈深棕眼眸在细银框镜片后泛红蓄满一层薄泪，下眼睑微红，嘴唇极轻地微张、呼吸轻浅发颤，目光里满是压抑的委屈、不舍与难以置信，眼神牢牢停留在他脸上不曾移开。
+2.5–4.5 秒｜【特写（CU）｜咽下委屈、强挤懂事苦笑】她极轻地咽下一口气，双唇轻轻抿住，眼尾肌肉微微牵动，强忍酸涩在嘴角缓慢牵起一抹极其克制、温柔却满是心酸的苦笑；笑意完全没有抵达通红发亮的眼底，挤出微笑的刹那，右眼下眼睑边缘盈出一滴晶莹泪珠正欲滑落。
+4.5–6.5 秒｜【特写（CU）｜镜片下悄悄拭泪 → 故作轻松露齿一笑】她迅速抬起修长白皙的右手，指尖极轻巧体面地从细银框眼镜下缘探入，用指背温柔飞快地拭去右眼角与颧骨上那抹湿润泪痕（动作轻缓不碰歪眼镜，严禁手掌穿模镜框）；手放下的同时，她故作轻松洒脱地向男主展开一个略微露齿的明朗微笑，鼻尖微红，眼神透着令人心疼的强撑懂事。
+6.5–9.5 秒｜【镜头极缓后拉半步至中近景（MCU）｜笑意褪去、平静说出告别】那抹勉强撑起的露齿笑意在半秒内缓缓收敛平复，她轻轻向后微退半步（摄影机同步极柔和地微拉至中近景，完整露出黑色大方领与锁骨四叶银钻吊坠），迎着他沉默的目光深深吸进一口极轻的气，眼神流露彻底接受现实后的疲惫与释然，嘴唇自然轻启，用极轻柔、克制、尾音带一丝极细微气声哽咽的中文说出唯一一句台词：“那我走了。”（发音清晰自然，口型严格对应四个中文字，绝不夸张嘶吼）。
+9.5–12 秒｜【中近景（MCU）｜礼貌微颔首 → 垂眸转身离去】说完最后一个字，她极其克制地抿唇浅浅点了一下头，随后彻底移开视线、缓缓垂下眼帘，黑长直发顺着肩头滑落微遮侧脸，她轻缓转向画面左侧（向镜头外侧身离去），在留白与夜风余韵中平滑收束。
+
+猜完之后可以去长文里面看看案例 02 看看自己有没有猜对 ⬇️
 ```
 
 <a id="showcase"></a>
