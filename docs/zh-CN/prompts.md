@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 57 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
+共 73 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的帖子把提示词放在回复里，或放在外部链接中，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
-- [短片](#short-film) (19)
+- [短片](#short-film) (26)
 - [音乐视频](#music-video) (2)
-- [动画](#anime) (8)
-- [动作](#action) (8)
+- [动画](#anime) (10)
+- [动作](#action) (12)
 - [广告](#ad) (4)
-- [测试对比](#comparison) (7)
-- [模型展示](#showcase) (9)
+- [测试对比](#comparison) (9)
+- [模型展示](#showcase) (10)
 
 <a id="short-film"></a>
 
@@ -396,51 +396,6 @@ masterpiece, highest quality，1970 年代香港武侠片质感。
 全场只有两件兵器。剑在 11—16.5 秒钉在木柱上，由柳寒霜亲手拔回。铁棍在 23 秒被劈成两半，此后熊霸天手持两截短棍，28 秒…
 ```
 
-### 雨夜中伫立的塞勒涅
-
-[@Maxime887812](https://x.com/Maxime887812/status/2125775505878393082) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125775505878393082/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125775505878393082?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-Created with MAGI-2 at Higgsfield
-Selene in the rain, one take from MAGI-2. I asked for a slow push-in with rain beading on her coat and neon reflecting in her eyes, and the generated sound came with it: rain, city hum and a distant siren, no editing needed.
-```
-
-### 骑士从马上坠落并被接住的场景
-
-[@Gwsubsa](https://x.com/Gwsubsa/status/2125780053917376894) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125780053917376894/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125780053917376894?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-An exhausted knight, a slow fall from his horse, and someone there to catch him. 
-
-Trying to make the horse movement, the knights fall, and that catching moment feel like one continuous, natural cinematic scene.
-
-Created with MAGI-2 at Higgsfield.
-
-Prompt :
-Create a 15-second, 16:9 horizontal, ultra-realistic live-action medieval atmosphere film. Show one simple and emotionally clear action: an exhausted knight slowly falls from his horse, and his beloved catches him.
-QUALITY LOCK: Preserve premium photorealistic cinematic quality throughout the entire video. Detailed steel armor, realistic horse anatomy, natural fabric movement, soft diffused overcast lighting, misty atmosphere, stable anatomy, subtle film grain, realistic motion blur, and smooth professional camera movement. Do not reduce, blur, simplify, or stylize the image.
-The knight wears a complete enclosed medieval helmet throughout the entire video. The visor is fully lowered, locked, and opaque. His face, eyes, skin, and hair must never be visible. He wears scratched plate armor, chainmail, dark clothing, and a faded burgundy cape.
-The entire image uses a consistent overcast gray-blue color grade with light drizzle, pale fog, wet grass, and low contrast. No bright sunlight, no dramatic color changes.
-SHOT 1 — 0.0–3.0s
-Wide cinematic landscape shot of a misty medieval meadow with wet grass, dark red roses, bare trees, and distant Gothic ruins. The exhausted knight slowly rides a tired dark horse through the fog. The composition emphasizes the lonely atmosphere and surrounding landscape.
-SHOT 2 — 3.0–6.0s
-Side-tracking medium-wide shot following the horse walking slowly through the meadow. The knight's posture gradually becomes weaker and his upper body begins to lean slightly. His faded burgundy cape moves naturally and drags lightly across the wet grass. His fully enclosed helmet remains securely in place.
-SHOT 3 — 6.0–9.0s
-Near a ruined stone chapel, his beloved appears through the mist and walks toward the horse. The horse gradually slows and stops beside her. She gently reaches toward the knight's armored arm, preparing to support him.
-SHOT 4 — 9.0–12.0s
-The exhausted knight gradually loses his balance and slides gently from the saddle. His beloved catches and supports him, guiding his weight down carefully onto the wet grass. The movement is slow, realistic, emotionally restrained, and dignified. No sudden fall, no awkward movement, no violence.
-SHOT 5 — 12.0–15.0s
-The horse lowers its head and stands quietly close beside them. The woman cradles and supports the knight, holding his sealed helmet close against her shoulder as he rests. Pale mist slowly thickens around the three figures. The camera gently settles into a wide emotional composition. End with quiet grief and stillness.
-BACKGROUND MUSIC STYLE:
-Original slow medieval elegy, approximately 52 BPM, minor key. Felt piano, solo cello, low viola, soft sustained strings, and a distant dark harmonic texture. Very sparse opening, gradual emotional swelling, then a fragile unresolved ending. No vocals, lyrics, choir, heroic brass, trailer drums, or sudden climax.
-SOUND DESIGN:
-Wet horse hooves, light rain, wet grass movement, saddle leather, armor creaks, chainmail movement, horse breathing, quiet human breathing, and one distant church bell. Sounds should be natural, subtle, cinematic, and spatially consistent.
-STRICT NEGATIVE CONSTRAINTS:
-No dragon, battle, blood, gore, visible wounds, magic, modern objects, dialogue, text, logos, watermarks, bubble sound, water-drop sound effect, magical chime, synthetic whoosh, cartoon effect, UI sound, or digital transition sound.
-No exposed knight face, no visible eyes, no open visor, no helmet removal, no changing armor, no distorted anatomy, no extra limbs, no sudden movements, no unnatural horse movement, no abrupt cuts, no dramatic lighting changes.
-FORMAT: 16:9 horizontal landscape, 15 seconds, premium photorealistic live-action cinematic film, smooth continuous visua…
-```
-
 ### 盲人剑客的黑暗民间传说动画片段
 
 [@oggii_0](https://x.com/oggii_0/status/2125791629982437711) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125791629982437711/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125791629982437711?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
@@ -691,6 +646,299 @@ Created with MAGI-2 at @higgsfield
 Prompt: TITLE: THE LAST TRAIN HOME. Create a 30-second ultra-realistic live-action Korean zombie-apocalypse horror sequence. The protagonist is the same beautiful young adult Korean university student throughout: long straight black hair, natural Korean facial features, fitted white blouse, dark pleated skirt, black knee-high socks and casual sneakers. Preserve her exact face, hairstyle, body proportions and clothing. 00:00–00:04: Wide cinematic shot of an underground Seoul subway platform late evening. Fluorescent lights flicker, a few passengers wait silently. The girl rushes down the stairs clutching her backpack, looks behind her, terrified. A distant emergency announcement echoes. 00:04–00:08: She notices a male passenger standing motionless beside a vending machine, head tilted unnaturally, dark liquid at his mouth, fingers twitching. She steps backward. 00:08–00:12: He violently turns and charges. She screams and dodges; he crashes into the vending machine, drinks scatter, passengers flee. 00:12–00:17: A subway train arrives with metallic screech. She runs inside as terrified passengers push past. In the train window reflection, infected figures sprint down the platform. Doors close as infected passengers slam their hands against the glass. 00:17–00:22: Train moves. She collapses into a seat gasping. Across the carriage, an elderly passenger sits motionless staring at her. A child beside him points toward her backpack. 00:22–00:26: She turns. Her backpack moves by itself; scratching comes from inside. She unzips it slightly and a bloodied infected hand reaches out. She recoils. The elderly passenger raises his head, revealing completely black eyes. 00:26–00:30: Carriage lights switch off one by one. Emergency red lights illuminate her terrified face. She looks toward camera. Her nose bleeds, black veins spread from wrist toward neck, eyes turn completely black. She lunges directly toward camera. CUT TO BLACK. Native realistic audio: subway ambience, distant Korean announcements, footsteps, electrical buzzing, subway braking, door chimes, glass impacts, screams, heavy breathing, metallic rattling, infected growls, sudden silence. No background music. Photorealistic Korean zombie-horror movie, cinematic live action, practical infection makeup, detailed skin, realistic expressions and body movement, handheld camera, subway lighting, dramatic shadows, motion blur, suspenseful pacing, cinematic color grading. Negative: anime, cartoon, illustration, plastic skin, artificial CGI, excessive gore, graphic dismemberment, duplicated characters, face morphing, changing clothes, inconsistent identity, distorted anatomy, extra limbs, floating objects, impossible physics, subtitles, text, logos, watermarks.
 ```
 
+### 一名女子匆忙赶往机场乘机的全过程
+
+[@AIwithSynthia](https://x.com/AIwithSynthia/status/2125863211102802157) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125863211102802157/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125863211102802157?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Things I do in rush 🏃
+
+Made using MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt :
+
+ENVIRONMENT: Bedroom → bathroom → kitchen → apartment hallway → street → taxi → airport entrance → check-in counter → security check → departure lounge → boarding gate → jet bridge → airplane cabin → airplane window → hotel lobby → hotel room at night.
+
+MOOD ARC: Late wake-up → morning panic → high-pressure travel rush → near-missed flight → relief → peaceful journey → quiet exhaustion.
+
+SHOT SEQUENCE (30 beat-synced shots):
+
+* Shots 1–3: Alarm rings loudly. She suddenly wakes up, checks her phone, realizes she's running late, and jumps out of bed.
+
+* Shots 4–6: Rushes into the bathroom, brushes her teeth, washes her face, and quickly fixes her hair while checking the time.
+
+* Shots 7–9: Runs into the kitchen, grabs a quick breakfast and coffee, stuffs essentials into her handbag, and zips up her suitcase.
+
+* Shot 10: Changes to crop top and shorts , Grabs her passport and phone, rushes toward the apartment door, and almost forgets her suitcase.
+
+* Shot 11: Exits the apartment and jumps into a fast-moving taxi. Rain streaks slide across the windows as the city rushes past.
+
+* Shots 12–14: Runs through the busy airport terminal pulling her suitcase, checks the flashing departure board, and rushes toward the check-in counter.
+
+* Shots 15–16: Places her suitcase on the check-in scale, receives her boarding pass, and quickly heads toward security.
+
+* Shots 17–18: Places her belongings in security trays, walks through the scanner, collects everything, and hurries away.
+
+* Shots 19–20: Runs through the departure lounge, spots her boarding gate number, and finally sees the boarding announcement.
+
+* Shots 21–22: Reaches the boarding gate just in time, scans her boarding pass, and walks through the jet bridge.
+
+* Shots 23–24: Enters the airplane cabin, finds her window seat, stores her handbag, and fastens her seatbelt.
+
+* Shots 25–26: Looks through the airplane window as the aircraft takes off. Beautiful city lights shimmer beneath the clouds.
+
+* Shots 27–28: Arrives at the hotel at night, enters her room, and drops her suitcase beside the bed.
+
+* Shots 29–30: Falls face-first onto the hotel bed, exhausted, with her suitcase still half-open. She slowly turns toward the camera with a tired smile before closing her eyes.
+
+VISUAL STYLE & CAMERA: Fast cinematic tracking shots, energetic handheld camera movements, dynamic whip pans, smooth match cuts, close-up facial expressions, overhead airport shots, low-angle running shots, realistic motion blur, dramatic transitions, detailed environments, natural character movements, cinematic lighting, polished AAA 3D animated-film quality.
+
+TECHNICAL: 4K, 24fps, 16:9, 30 seconds, perfectly synchronized 145 BPM editing, consistent character identity, seamless transitions, realistic physics.
+
+NEGATIVE PROMPT: No subtitles, no on-screen text, no logos, no watermarks, no duplicate characters, no face distortion, no outfit inconsistencies, no flickering, no unnatural movements, no teleportation, no low-detail environments.
+```
+
+### 带对口型的戏剧性坠崖剧情短片
+
+[@johnAGI168](https://x.com/johnAGI168/status/2125868906971607273) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125868906971607273/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125868906971607273?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Created with MAGI-2 at Higgsfield 🎬
+
+Pulling off a 24s dramatic short drama straight from image-to-video is no joke: keeping character consistency and pacing tight across a cliff fall, clean readable text on the parachute, the sudden tears-to-laughter shift, and ending on a lip-synced sheep punchline with synced dialogue and foley.
+
+Prompt in the replies 👇
+```
+
+### 女子早晨忙碌日常的写实家庭录像
+
+[@john_my07](https://x.com/john_my07/status/2125869111775461507) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125869111775461507/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125869111775461507?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Her mornings are always quite busy.
+
+Made with MAGI-2 on @higgsfield
+
+The realism is quite interesting, especially at such affordable rates!
+
+#HiggsfieldPartner
+
+Prompt:
+Create a 30-second, 12-shot montage of candid, realistic home-video footage. Every shot must use a different angle or framing, with natural handheld movement, imperfect composition, subtle camera shake, delayed autofocus and gentle exposure changes. Authentic documentary feel, soft morning sunlight, realistic skin textures, warm muted colours and subtle film grain. Never look staged or overly cinematic.
+
+Character: The same woman from <<<image_1>>>, wearing an oversized pastel-blue cotton T-shirt and cream lounge shorts, barefoot, with loosely tied messy hair. Maintain exact facial identity and outfit throughout.
+
+Setting: A small, lived-in apartment with a connected kitchen and living room, half-open curtains, scattered cushions, unfinished tea, laundry and everyday clutter. A small playful dog wanders around.
+
+12-SHOT SEQUENCE:
+
+1. 0–2s: From the kitchen doorway, she stares blankly inside the open refrigerator, seemingly forgetting why she came. She slowly closes it and mutters something in Korean.
+
+2. 2–4s: Side angle. She pours cereal into a bowl, grabs the milk carton and discovers it's empty. She shakes it and gives it an annoyed look.
+
+3. 4–6s: Low floor-level shot. Her dog approaches carrying a sock. She tries to take it, but the dog backs away and starts a playful chase around the kitchen island.
+
+4. 6–8s: Over-the-shoulder shot. She retrieves the sock, only to notice the dog has stolen a dish towel. She looks at it in disbelief.
+
+5. 8–11s: Wide living-room shot. She sits folding laundry while calling the dog. It ignores her and lies on the clothes. She gives up and pets it.
+
+6. 11–13s: Close-up of her vibrating phone on the sofa. She picks it up and answers a friend's call.
+
+7. 13–16s: Side-profile handheld shot. Listening to her friend, she raises her eyebrows, responds in casual Korean and suddenly bursts into genuine laughter.
+
+8. 16–19s: Elevated handheld angle. Still on the call, she takes a sip of forgotten cold tea and immediately makes a disgusted expression.
+
+9. 19–21s: Behind-the-sofa angle. She places the cup on a crowded table, accidentally knocks a cushion over and catches it. She gives the camera an embarrassed smile.
+
+10. 21–24s: Medium-wide shot. She starts tidying the sofa, but the dog immediately jumps onto the freshly arranged cushions and settles down. She stares at it and laughs.
+
+11. 24–27s: Loud knocking at the apartment door. She freezes, looks at her messy clothes and untidy room, then turns toward the camera with a panicked expression. The dog barks excitedly.
+
+12. 27–30s: She hurriedly ends the phone call and rushes toward the entrance. Before leaving, she grabs the empty milk carton and accidentally puts it back inside the refrigerator instead of throwing it away. She notices her mistake, pauses awkwardly, then rushes out. The camera stays behind as the dog looks toward the doorway.
+
+Audio: No music. Only authentic apartment ambience, refrigerator hum, cereal pouring, milk carton rattling, dog footsteps and barking, phone vibration, faint friend conversation, natural Korean speech, genuine laughter, cup clinking, cushions rustling and loud door knocking. Accurate natural lip sync.
+
+Consistency and quality: Preserve the woman's identity, clothing, dog appearance and apartment layout across all shots. Natural body movement, believable interactions, spontaneous expressions and realistic timing. No exaggerated acting, artificial posing, slow motion, subtitles, on-screen text, logos, watermarks or duplicate characters. Never generate a reference sheet.
+```
+
+### 夜间随身执法记录仪拍摄的例行拦车检视
+
+[@weiinberg](https://x.com/weiinberg/status/2125873134322733507) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125873134322733507/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125873134322733507?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Routine stop. Nothing suspicious
+
+Made with MAGI-2 on @higgsfield 
+#HiggsfieldPartner 
+
+Prompt:
+
+16:9, 12 seconds, chest-mounted bodycam, wide fisheye lens with edge distortion, slightly overexposed highlights, compression artifacts, timestamp overlay in the corner reading 23:14:08. Setting: a dark suburban street at night, one flickering streetlight, a parked sedan with its engine running, breath fogging in the cold. 0-4s: The camera sways with walking steps toward the car, flashlight beam sweeping across the rear window, radio chatter crackling. 4-8s: The beam lands on the driver, a man in his 40s in a gray hoodie, who keeps his hands on the wheel and says, "I didn't do anything, man." Camera stays steady, hand briefly entering frame. 8-11s: The man's hands slowly rise off the wheel and his eyes flick to the passenger seat. 11-12s: The footage cuts abruptly to black. Audio: radio static, boots on asphalt, idling engine, tense breathing, no music.
+```
+
+### 体育赛事直播风格的感恩节晚餐
+
+[@airina_xyz](https://x.com/airina_xyz/status/2125907956541849634) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125907956541849634/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125907956541849634?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Thanksgiving dinner deserves professional sports coverage.
+
+This experiment combines broadcast-style cinematography, slow-motion replay, coherent object trajectories, rapid commentary and ensemble performances.
+
+Created with MAGI-2 at Higgsfield.
+
+Prompt:
+
+20-second absurdist Thanksgiving comedy filmed like a professional live sports broadcast. An original enthusiastic sports commentator wearing a navy blazer and a large headset provides dramatic commentary on an ordinary family passing dishes around the Thanksgiving dinner table. The family remains completely oblivious to the seriousness of the coverage.
+- 00:00–00:02: Extreme close-up of the commentator shouting, "Here comes the opening pass!"
+- 00:02–00:04: Slow-motion tracking shot of a grandmother passing a bowl of mashed potatoes across the table.
+- 00:04–00:06: Overhead shot following the bowl's trajectory between two relatives.
+- 00:06–00:08: The commentator excitedly announces, "Beautiful technique!"
+- 00:08–00:10: Macro shot of a guest catching a sliding breadbasket.
+- 00:10–00:12: A young adult reaches dramatically across the table for the gravy.
+- 00:12–00:14: Slow-motion replay of the gravy boat being intercepted by another relative.
+- 00:14–00:17: Close-up of the commentator shouting, "An incredible interception!"
+- 00:17–00:20: Wide reveal of the commentator sitting at the dinner table, talking into a spoon. His wife quietly says, "Please stop."
+Maintain consistent family members, table geography, dish trajectories and natural reactions. Authentic sports-broadcast framing, dramatic slow-motion replay and accurate lip-sync. No broadcaster logos or graphics. SFX: cutlery, dishes sliding, energetic commentary and awkward silence. No music.
+```
+
+### 发生在神秘十三层的悬疑惊悚短片
+
+[@Hope_Ai01](https://x.com/Hope_Ai01/status/2125920173903184107) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125920173903184107/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125920173903184107?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+You don’t choose the 13th floor it chooses you.
+
+Create it using MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt:
+GENRE: Cinematic mystery thriller
+DURATION: Exactly 30 seconds, 16:9, photorealistic live-action film look
+
+STYLE: Shot like a real feature film. Natural real-time motion at normal speed, NO slow motion, NO time-lapse. Handheld-steady cinematography, shallow depth of field, realistic skin texture, cold fluorescent lighting, subtle film grain. Moody teal and green color grade.
+
+CHARACTER (keep identical in every shot):
+Emma, 30-year-old woman, shoulder-length brown hair, beige trench coat, black work bag on her shoulder, tired but alert expression.
+
+SETTING: A modern 12-floor office building, late at night, empty and quiet.
+
+SHOT 1 (0-6s): Medium tracking shot. Emma walks quickly across the empty lobby, heels clicking on marble. She presses the elevator button, the doors open, she steps in and checks her phone. Natural walking speed.
+
+SHOT 2 (6-13s): Inside the elevator, close-up on the button panel: floors 1 to 12, and above them an extra glowing button labeled "13". Emma notices it, frowns, and says quietly: "This building only has twelve floors." She presses "Lobby". The elevator starts moving UP instead, the floor display counting 10... 11... 12... 13.
+
+SHOT 3 (13-20s): The elevator dings and stops. Doors open slowly at normal speed to a dim corridor with flickering lights. Emma hesitates, then steps out. Camera follows from behind as she walks down the hallway. Her footsteps echo. The elevator doors close behind her.
+
+SHOT 4 (20-26s): The corridor opens into an office floor that is an exact copy of her own workplace: same desks, same posters, same coffee mug. On the last desk, her own desk, a phone starts ringing. Emma approaches, looks at the phone screen. Close-up of her face reflecting the glow of the screen.
+
+SHOT 5 (26-30s): Close-up on the phone screen: caller ID reads "EMMA". Emma whispers: "That's... my number." Sudden cut to black. White text on screen: "THE 13TH FLOOR".
+
+AUDIO: Empty building ambience, fluorescent light hum, elevator ding, echoing footsteps, ringing phone, low tense cinematic score building slowly. English dialogue with natural voice, no music lyrics.
+
+AVOID: Slow motion, horror, ghosts, monsters, blood, cartoon look, slideshow effect, static images, face or outfit changes between shots.
+```
+
+### 雨天探索伦敦的英式喜剧短片
+
+[@AIwithkhan](https://x.com/AIwithkhan/status/2125945816229859418) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125945816229859418/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125945816229859418?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+A Day in London with Me 🥰
+
+Made using MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt :
+
+Create one 30-second ultra-photorealistic live-action British comedy short in 16:9 landscape, 60 fps. a stylish young woman spending an ordinary rainy day exploring central London. She is enjoying her coffee, admiring the city and casually going about her day. However, everywhere she goes, a ridiculous chain of unexpected accidents unfolds around her. Sometimes she accidentally causes the chaos; sometimes she becomes its unfortunate victim.
+
+The comedy should feel like a high-budget British comedy film, featuring perfectly timed visual gags, believable slapstick, realistic physics, natural human reactions and unexpected comedic payoffs.
+
+Make this short, cinematic and entertaining, with seven fast-paced London sequences, each lasting approximately 4 seconds. Maintain perfect character consistency throughout. Use seamless scene continuity within each location and hard cuts between locations. No dialogue, narration, subtitles or background music.
+```
+
+### 一名旅客在机场航站楼匆忙狂奔的喜剧短片
+
+[@Ciri_ai](https://x.com/Ciri_ai/status/2125995165311770639) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125995165311770639/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125995165311770639?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+POV: Your gate changes, and suddenly you're competing in the airport Olympics. ✈️😂
+
+Created with MAGI-2 at @higgsfield 
+
+Prompt: Create a 30-second cinematic, fast-paced travel-comedy sequence titled “THE WRONG TERMINAL”. One continuous story told through 30 quick, clearly readable beats.
+
+MAIN CHARACTER: One stylish young adult woman traveler, early 20s, expressive and athletic, wearing a cobalt-blue oversized travel jacket over a white fitted top, charcoal cargo trousers, white sneakers, small silver hoop earrings, and carrying a bright orange hard-shell carry-on suitcase with a distinctive white luggage tag. Keep her face, hairstyle, body proportions and outfit perfectly consistent in every shot. No other character should resemble her.
+
+STORY / 30 BEATS:
+1. Extreme close-up: airport departure app flashes a gate change on her phone; her confident smile vanishes.
+2. She looks up at an enormous terminal directory, eyes darting between arrows.
+3. Whip-pan to her orange suitcase as its wheels spin; she launches into a sprint.
+4. Low tracking shot: sneakers pound across a polished airport floor.
+5. Overhead shot: she weaves through a crowd with comic precision, suitcase trailing behind.
+6. A moving walkway carries her the wrong direction; she runs against it, barely progressing.
+7. Close-up: her hair lifts in the airflow; she gives the camera a determined, incredulous look.
+8. She steps off the walkway and nearly collides with a slow airport luggage trolley, swerving at the last second.
+9. Match cut: she rides an escalator two steps at a time, gripping the handrail and suitcase.
+10. At the upper level, she sees two identical corridor signs and hesitates.
+11. She chooses the left corridor; a quick push-in reveals a dead-end glass wall.
+12. She freezes, blinks, then pivots sharply and dashes back.
+13. A janitor's floor-polishing machine glides past; she sidesteps it in a playful near-miss.
+14. She spots a small airport shuttle train arriving beyond the glass.
+15. Side-tracking shot: she dashes through the doors as they begin to close, suitcase wheels rattling.
+16. Inside the shuttle, she catches her breath, then notices the suitcase tag has caught on the door handle.
+17. The doors open; she gently frees the tag and hops out.
+18. A wide reveal: the correct concourse stretches ahead, glowing with warm daylight.
+19. She checks the gate on her phone, then breaks into one final sprint.
+20. Long-lens tracking shot: she runs toward the gate while the boarding group is being called.
+21. The gate agent begins closing the stanchion; she raises her boarding pass high.
+22. Close-up: scanner flashes green; her shoulders drop in instant relief.
+23. She wheels the suitcase down the jet bridge, finally walking instead of running.
+24. Match cut to airplane cabin: she lifts the orange suitcase into the overhead bin with a satisfied little shove.
+25. She drops into the window seat and exhales, eyes closed.
+26. Cabin window close-up: aircraft taxiing past runway lights in soft evening glow.
+27. The plane lifts into a golden sunset; clouds glow peach and amber.
+28. A calm aerial view of the coastline and city lights far below.
+29. Cut to arrival: she steps into a beautiful modern hotel lobby at night, still in the same outfit, pulling the same suitcase.
+30. Final medium shot in the hotel elevator mirror: she gives herself a tiny exhausted victory salute, then leans her head against the wall with a relieved smile.
+
+VISUAL DIRECTION: High-end photorealistic live-action cinematic travel commercial with a playful comedy tone. Energetic handheld tracking, low-angle wheel and foot inserts, overhead crowd geometry, whip pans, push-ins, rack focus, speed-ramped transitions, brief natural motion blur, polished reflections, convincing airport architecture, believable crowd movement, realistic suitcase physics. Build a clear arc from confusion and frantic momentum to relief and quiet satisfaction. Use seamless match cuts and visual continuity between locations.
+…
+```
+
+### 女子与宠物狗的慵懒早晨蒙太奇
+
+[@oggii_0](https://x.com/oggii_0/status/2125996946049663370) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125996946049663370/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125996946049663370?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+My productivity left the chat before I even had breakfast. 😭
+
+Created with MAGI-2 at @higgsfield 
+
+Prompt: Create a 30-second, 12-shot montage titled “THE MOST UNPRODUCTIVE MORNING EVER”. Use the supplied reference image as the identity reference for the woman. Preserve her exact facial identity, facial features, natural proportions, eye shape and long dark hair. The reference is a three-frame photo collage of the same woman; use it only as a character identity reference, not as a layout or storyboard. Do not reproduce the collage. In the video she wears an oversized pastel-blue cotton T-shirt and cream lounge shorts, barefoot, with loosely tied messy hair.
+
+A small playful dog appears throughout. Keep the same small dog consistent in every shot. Setting: one small, lived-in apartment with connected kitchen and living room, half-open curtains, warm soft morning sunlight, scattered cushions, coffee table, slippers, blanket, laptop, snacks and everyday clutter. Keep apartment geography consistent.
+
+STYLE: candid realistic home-video footage, like a friend casually recording an ordinary morning on a phone. Natural handheld movement, imperfect framing, subtle camera shake, occasional delayed autofocus, gentle exposure shifts, realistic skin texture, warm muted colours and subtle film grain. Never polished, staged, overly cinematic or commercial. Every shot has a distinct angle or framing.
+
+12-SHOT SEQUENCE:
+1. 0–2s — FAILED BREAKFAST: Handheld medium shot from kitchen counter. She tries to flip a pancake in a frying pan. It folds awkwardly and lands partly outside the pan. She stares at it, then looks at the camera with a tired, disbelieving expression.
+2. 2–4s — DOG'S PERFECT TIMING: Low floor-level shot. As she bends to pick up the fallen pancake, the little dog appears and sniffs toward it. She gently blocks the dog with one hand. The dog looks innocently up at her.
+3. 4–6s — COFFEE DISASTER: Close-up beside the kitchen sink. Distracted by her phone, she pours coffee into an already-full mug. Coffee spills over the rim. She notices too late and hurriedly grabs a dishcloth.
+4. 6–8s — UNINVITED WORKOUT PARTNER: Wide living-room shot from behind the sofa. She unrolls a yoga mat and attempts a simple morning stretch. The dog walks across the mat, sits directly in front of her and refuses to move. She gives up and sits beside it.
+5. 8–10s — LAPTOP TROUBLE: Over-the-shoulder shot. She opens her laptop and quickly adjusts her messy hair, preparing to join an online meeting. The screen lights up. Behind her, the dog stands with a toy in its mouth.
+6. 10–13s — VIDEO CALL INTERRUPTION: Side-profile handheld shot. She begins speaking politely to someone on the laptop. Suddenly, the dog jumps onto her lap and partly blocks the laptop camera. She tries to move it aside while keeping a professional smile.
+7. 13–15s — TRYING NOT TO LAUGH: Tight close-up. She listens seriously to the faint video-call voice and nods. Behind her, the dog slowly drags a blanket across the floor. She notices it in the corner of her eye and struggles not to laugh.
+8. 15–18s — DELIVERY SURPRISE: Camera near the apartment entrance. A doorbell rings. She opens the door and finds a small delivery package outside. She picks it up with a pleased smile; the dog waits excitedly beside her.
+9. 18–20s — THE PAPER THIEF: Low handheld shot near the sofa. She puts the package on the coffee table and reaches for scissors. The dog grabs a loose piece of packaging paper and runs away. She turns in disbelief and follows.
+10. 20–23s — LIVING-ROOM CHAOS: Wide shot from the kitchen doorway. She kneels on the floor collecting scattered packaging paper. The dog sits proudly in the middle of the mess, surrounded by paper scraps. She looks toward the camera, shakes her head and laughs.
+11. 23–26s — UNEXPECTED VISITOR: Medium shot facing the apartment entrance. A loud knock sounds. She freezes, looks at her messy T-shirt and the chaotic living room, then hurriedly tries to hide packaging …
+```
+
 <a id="music-video"></a>
 
 ## 音乐视频
@@ -901,29 +1149,6 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 16:9 cinematic widescreen, fluid animation, crisp details, expressive character acting, vibrant but natural colors, polished commercial-quality finish. Every scene should introduce a new visual surprise, with a funny and memorable final punchline.
 ```
 
-### 一段动画风格的火车旅行场景
-
-[@airina_xyz](https://x.com/airina_xyz/status/2125737839417872491) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125737839417872491/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125737839417872491?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-My anime experiment is all about the smaller details: moving scenery, shifting sunlight, wind through fabric and the rhythm of a train journey.
-
-Six shots, one quiet little story, 30 seconds.
-
-Created with MAGI-2 at Higgsfield.
-
-Prompt:
-
-Exquisitely detailed hand-drawn anime with traditional painted backgrounds, delicate linework, golden autumn colors and subtle character animation. An original young adult woman with short black hair, a mustard-yellow coat and a red scarf travels on an old countryside train.
-00:00–00:04: Extreme close-up of an autumn maple leaf pressed against the moving train window before the wind carries it away.
-00:04–00:09: Wide aerial tracking shot of a cream-and-green train winding through a vast golden forest.
-00:09–00:14: Interior profile shot of the woman watching the scenery, shifting sunlight passing across her face.
-00:14–00:19: Over-the-shoulder shot as she opens a small notebook and sketches the mountains outside.
-00:19–00:24: Exterior low-angle shot as the train crosses a stone bridge above a glittering river, scattering autumn leaves.
-00:24–00:30: Close-up of her sketchbook. A real maple leaf blows through the slightly open window and lands precisely on her drawing. She smiles.
-Rich layered backgrounds, natural parallax, consistent character design, convincing wind and cloth movement. SFX: rhythmic railway sounds, rustling leaves, pencil strokes and gentle wind. No music or dialogue.
-```
-
 ### 在早餐桌上滑板的微缩女孩
 
 [@Gwsubsa](https://x.com/Gwsubsa/status/2125765192294502911) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125765192294502911/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125765192294502911?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
@@ -1076,6 +1301,170 @@ Style: High-energy hand-drawn action anime
 00:14–00:17: Reverse shot revealing their cheerful grandfather casually eating the roll.
 00:17–00:20: Both siblings stare in complete disbelief as he asks, "What?"
 Maintain identical anime character designs, coherent hand positions, table geography and screen direction. Elaborate action framing, exaggerated anticipation and an abrupt comedic contrast. SFX: dramatic whooshes, heartbeat, bread crunch and synchronized dialogue. No music.
+```
+
+### 手绘讽刺漫画风格的感恩节盘问
+
+[@airina_xyz](https://x.com/airina_xyz/status/2125878259632234612) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125878259632234612/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125878259632234612?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+The traditional Thanksgiving interrogation.
+
+I wanted to push rapid conversational editing, multiple speaking characters, expressive caricature animation and precisely timed reaction shots.
+
+Created with MAGI-2 at Higgsfield.
+
+Prompt:
+
+Style: Vintage hand-drawn editorial caricature
+20-second fast-paced animated comedy with intricate pen-and-ink cross-hatching, colored-pencil shading, warm watercolor washes and exaggerated vintage caricature proportions. An awkward young adult man with enormous round glasses and a mustard sweater sits at a Thanksgiving dinner table surrounded by excessively curious elderly relatives.
+00:00–00:02: Extreme close-up of the young man's nervous eyes as an elderly aunt leans toward him.
+00:02–00:04: The aunt asks, "So, are you dating anyone?"
+00:04–00:06: Before he can answer, an uncle asks, "How's your career?"
+00:06–00:08: Another aunt interrupts, "When are you buying a house?"
+00:08–00:10: Rapid rotating camera around the increasingly overwhelmed young man.
+00:10–00:12: Close-up of sweat forming beneath his oversized glasses.
+00:12–00:14: His grandmother suddenly raises her hand to silence everyone.
+00:14–00:17: She gently asks, "Would you like more potatoes?"
+00:17–00:20: He grabs her hands, looks at her with enormous grateful eyes and whispers, "You're my favorite."
+Maintain distinct caricature faces, clothing, seating arrangements and organic sketchy textures. Rapid conversational timing, expressive reaction animation and accurate speaker-specific lip-sync. SFX: overlapping room chatter, cutlery, nervous breathing and synchronized dialogue. No music.
+```
+
+### 蒸汽朋克钟楼里的动物冒险喜剧
+
+[@sebatheepan](https://x.com/sebatheepan/status/2125915609288335391) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125915609288335391/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125915609288335391?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+One lever pull, the whole tower speeds up, 
+and the yak gets promoted to clock hand. 
+
+The hedgehog settles it with a gong
+Would you trust this crew with your timing?
+
+Made with MAGI-2 on Higgsfield
+Prompt
+
+# global_caption
+
+core_caption:一段时长30秒、皮克斯与照明娱乐风格的3D动画喜剧冒险视频，由4个镜头组成：珊瑚粉冲天冠翠绿眼橙嘴的高瘦白鹦鹉、弯象牙角刘海遮眼的庞大蓬松炭蓝牦牛、金橙大凸眼黄背脊卷尾的胖绿松石变色龙与蓝宝石大眼柔和肉桂尖刺的迷你奶白小刺猬，在阳光透洒的巨型卡通蒸汽朋克黄铜钟楼内引发齿轮缠绕闹剧，从拉下亮红操纵杆与巨型指针勾角升空演变为倒挂卷尾戏耍螺母，最终由小刺猬滚轨撞响金锣将全员弹落天鹅绒软垫收尾。
+format_and_structure:30秒，16:9，实时自然运动。4个镜头，在7.0秒、14.0秒和22.0秒处硬切衔接。
+narrative_and_emotional_design:金色钟楼平静骤然转为亢奋拉杆闹剧，加速齿轮带起黄铜指针把冷面牦牛吊上高空，变色龙在飞转齿轮间倒挂弹舌戏耍螺母，镇定小刺猬顺弧形黄铜轨滚下撞响金锣将全员安全弹回天鹅绒软垫；情绪由夸张卡通表情、挤压拉伸动作、金色光柱与奇趣发条管弦喜剧配乐传递。
+visual_design:院线级3D计算机动画，细腻呈现抛光金黄铜齿轮、锻造铜铃、拉扣酒红天鹅绒、亮泽绿松石鳞片、蓬松羽毛、厚实炭蓝长毛与透光彩绘玻璃；温暖黄金蒸汽朋克色调以蜂蜜铜色和金色微尘衬托绿松石、炭蓝与猩红点缀；倾斜金色阳光穿透彩色玻璃圆钟面投下丁达尔光束、锐利暖轮廓光与柔和琥珀补光；35mm广角大景与50mm表情近景交替并保持深景深；空气中飘浮闪烁微尘与金色声波光环。
+audio_design:持续黄铜钟楼内部环境音，含深沉规律滴答、温暖铜鸣、平顺齿轮运转声与远处铜铃轻颤；清脆卡通拟音涵盖厚重拉杆咔嗒、加速齿轮哗啦、弯角挂针磕碰、弹力卷尾与长舌弹响、黄铜轨顺滑滚动、金锣浑厚共鸣与天鹅绒软垫噗咚声，辅以滑稽无台词嘎叫、叹息与咯咯笑声；奇趣发条管弦喜剧配乐含钢片琴、木鱼、巴松管、拨弦提琴、钟琴与温暖铜管；无对白。
+
+continuity_requirements:Image 1锁定ref_chameleon，Image 2锁定ref_hedgehog，Image 3锁定ref_yak，Image 4锁定ref_cockatoo，每个镜头外观一致 | 钟楼内部垂直空间地理保持连贯，从底层黄铜走道与中层齿轮群上接彩色玻璃圆钟面，再沿弧形黄铜滑轨通往悬挂金锣与天鹅绒软垫 | 角色相对体型比例严格锁定（牦牛最高最宽、鹦鹉高瘦约为牦牛身高的82%、变色龙圆胖约为牦牛身高的45%、小刺猬极迷你约为牦牛身高的20%），道具保持造型 | 彩色玻璃圆钟面、齿轮、操纵杆与金锣仅保留纯粹几何彩玻镶片与装饰辐条，无数字、无字母、无可读文字、无徽标且无人类元素 | 弯角、刘海、珊瑚羽冠、螺旋卷尾、尖刺与黄铜道具在每次动作与切镜中保持准确形态，无瞬移或替换
+
+# reference_bank
+
+## reference_bank1
+
+reference_identifier:ref_chameleon
+reference_type:character
+label:变色龙
+role:爱表现的戏剧化惹祸精，拥有弹力长粉舌和弹簧卷尾。Image 1控制面部、金橙色凸起转眼、绿松石鳞片、黄色背脊与卷曲尾巴；忽略其灰色摄影棚背景。
+description:金橙大凸眼黄背脊卷尾的胖绿松石变色龙
+appearance_or_design:胖乎乎的双足直立3D亮绿松石色变色龙，覆满细腻圆润亮泽鳞片与浅水蓝条纹腹甲，头顶弯曲绿松石冠，背脊排列一排明黄圆润脊突，巨大凸起的金橙色转眼配深色瞳孔，咧着得意搞怪抿嘴笑，三趾足配紧紧盘卷的螺旋绿松石尾巴，外观如Image 1所示。
+
+## reference_bank2
+
+reference_identifier:ref_hedgehog
+reference_type:character
+label:小刺猬
+role:镇定无畏的迷你小萌宠，受惊时会缩成弹跳蒲公英刺球。Image 2控制面部、蓝宝石大眼、奶白桃色肚皮、肉桂金尖刺与迷你体型；忽略其灰色摄影棚背景。
+description:蓝宝石大眼柔和肉桂尖刺的迷你奶白小刺猬
+appearance_or_design:极其圆润如小蛋般的迷你3D小刺猬，踩着娇小桃色短脚直立，鼓鼓粉颊、口鼻与圆肚皮覆着柔和奶白桃色细毛，头背环绕蓬松柔和的肉桂金与蜂蜜棕圆头尖刺光环，超大闪亮深蓝宝石圆眼、深棕小亮圆鼻、圆润小耳与贴在胸前的桃色小爪，外观如Image 2所示。
+
+## reference_bank3
+
+reference_identifier:ref_yak
+reference_type:character
+label:高原牦牛
+role:沉重冷面的愁眉苦脸担当，靠庞大体重与弯角承接所有闹剧。Image 3控制面部、遮住单眼的蓬松刘海、单只琥珀愁眉眼、弯曲象牙角与深炭蓝长毛；忽略其灰色摄影棚背景。
+description:弯象牙角刘海遮眼的庞大蓬松炭蓝牦牛
+appearance_or_design:高大魁梧的方正双足3D高原牦牛，全身垂落层次蓬松的深炭蓝灰色长毛，厚重斜刘海遮住左眼，浓眉下露出单只半眯不爽的金琥珀色眼睛，头顶伸出两根粗壮上翘的暖象牙白弯角，宽阔灰蓝愁眉口鼻、深色蹄掌大手、粗短蹄腿与簇毛尾巴，外观如Image 3所示。
+
+## reference_bank4
+
+reference_identifier:ref_cockatoo
+reference_type:character
+label:葵花鹦鹉
+role:亢奋搞怪的混乱制造者，珊瑚粉冠羽一炸就扑腾闯祸。Image 4控制面部、珊瑚粉紫红冲天冠羽、翠绿眼睛、橙色弯嘴、洁白羽毛与高瘦体型；忽略其灰色摄影棚背景。
+description:珊瑚粉冲天冠翠绿眼橙嘴的高瘦白鹦鹉
+appearance_or_design:高挑瘦长的双足直立3D雪白葵花鹦鹉，全身覆满蓬松雕塑感白羽，头顶炸开夸张高耸的电光珊瑚粉与品红尖刺羽冠，瞪着狂热翠绿大眼与调皮羽眉，厚实弯翘的亮橘橙大嘴咧开搞怪大笑，灵动羽翼手臂、尾羽末端泛珊瑚品红，配明黄细长鸟腿与爪，外观如Image 4所示。
+
+## reference_bank5
+
+reference_identifier:ref_red_lever
+reference_type:object
+label:亮红黄铜操纵杆
+role:总控调速拉杆，一拉即令全塔齿轮骤然加速。
+description:配抛光黄铜握柄的超大亮猩红操纵杆
+appearance_or_design:厚实卡通机械拉杆，顶装亮泽猩红珐琅圆球，连着弧形抛光黄铜杆臂固定在铆接青铜底座上。
+
+## reference_bank6
+
+reference_identifier:ref_brass_clock_hand
+reference_type:object
+label:巨型黄铜指针
+role:扫动华丽黄铜指针，箭头尖端勾住牦牛双角平稳拉升。
+description:带箭头尖端的华丽巨大金黄铜钟表指针
+appearance_or_design:巨型抛光金黄铜钟表指针，长柄镂空雕花配宽阔斜切箭头尖端，在透光彩绘玻璃前平稳扫动。
+
+## reference_bank7
+
+reference_identifier:ref_golden_gong
+reference_type:object
+label:悬挂金锣与天鹅绒软垫
+role:共鸣金锣与厚实软垫组合，一记声浪圆满收束闹剧。
+description:垂挂于厚实酒红天鹅绒敲钟人软垫上方的巨大锻造金鸣锣
+appearance_or_design:超大圆形锻造金黄铜共鸣大锣，由编织绯红绳悬吊于巨大拉扣酒红天鹅绒软垫上方，垫角缀满金色流苏。
+
+## reference_bank8
+
+reference_identifier:ref_clock_tower
+reference_type:setting
+label:巨型蒸汽朋克黄铜钟楼
+role:阳光充盈的卡通蒸汽朋克机械钟楼，内含齿轮、铜铃、滑轨与彩绘玻璃钟面。
+description:布满巨大咬合金色齿轮、弧形黄铜滑轨、悬挂铜铃与巨型彩色玻璃圆钟面的卡通蒸汽朋克黄铜钟楼
+appearance_or_design:前景铆接黄铜走道、光亮弧形滑轨与咬合金色齿轮；中景高耸青铜轴杆、轻晃挂铃、金色微尘与天鹅绒着陆台；背景巨型彩色玻璃圆钟窗，由几何琥珀、红宝石与蓝宝石玻璃镶片与装饰黄铜辐条拼成，午后阳光倾泻其间。
+
+# shot_timeline
+
+## shot_timeline1
+
+shot_identifier:shot_01_lever_gear_surge
+time_range_seconds:0.0 | 7.0
+scene_reference_identifier:ref_clock_tower
+shot_caption:在布满巨大咬合金色齿轮、弧形黄铜滑轨、悬挂铜铃与巨型彩色玻璃圆钟面的卡通蒸汽朋克黄铜钟楼内，珊瑚粉冲天冠翠绿眼橙嘴的高瘦白鹦鹉炸开羽冠拉下配抛光黄铜握柄的超大亮猩红操纵杆；巨型齿轮…
+```
+
+### 年轻女子急忙赶飞机的动画短片
+
+[@mehvishs25](https://x.com/mehvishs25/status/2125933866666037271) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125933866666037271/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125933866666037271?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+She almost missed her flight!
+
+Made with MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt:
+Create a fast-paced, cinematic 30-second animated travel adventure following a young woman who nearly misses her flight.
+
+STORY FLOW: She wakes up late to a blaring alarm, scrambles out of bed, gets ready in a hurry, brushes her teeth, fixes her hair, and grabs a quick coffee. After changing into a casual crop top and shorts, she packs her handbag, grabs her passport, and rushes out with her rolling suitcase.
+
+A taxi speeds through rainy city streets as she watches the clock anxiously. At the airport, she races through the terminal, checks the departure screens, completes check-in and security, and sprints toward her boarding gate. Just as boarding is about to close, she makes it onto the plane.
+
+Inside, she finally relaxes by the window, watching the glowing city disappear beneath the clouds. The final sequence shows her arriving at a hotel late at night, dragging her suitcase into the room, collapsing onto the bed, and giving the camera a sleepy, relieved smile before falling asleep.
+
+VISUAL DIRECTION: Premium 3D animated feature-film quality, expressive facial animation, detailed environments, cinematic lighting, lively character movements, dramatic camera angles, quick tracking shots, overhead compositions, whip pans, dynamic close-ups, and creative match cuts. Build tension during the airport rush and transition into slower, peaceful shots during the flight and hotel arrival.
+
+EDITING: 30 distinct shots with rhythmic, beat-matched transitions at 145 BPM. Maintain clear storytelling, smooth scene continuity, and consistent character appearance, hairstyle, and proportions.
+
+TECHNICAL: 30 seconds, 4K, 24fps, 16:9 widescreen.
+
+NEGATIVE: No subtitles, text overlays, logos, watermarks, duplicate characters, distorted faces, inconsistent outfits, flickering, unnatural physics, stiff animation, or abrupt scene jumps.
 ```
 
 <a id="action"></a>
@@ -1261,6 +1650,124 @@ The hounds: wolf-sized black iron-furred hounds with red eyes.
 [0s-4s | Roar] Wide low three-quarter shot from the front right of the steps, so the whole length of the Cerberus's body and all four legs are visible: it stands on all four paws planted at the top of the stone steps between the two statues, lowers its shoulders like a wolf about to pounce, stretches its three necks forward and roars with all three jaws wide open; the black hounds at the foot of the steps scatter to the left and right; chunks of stone fall from the arch behind it. Camera: slow dolly in.
 [4s-7s | Flames] Low-angle medium shot of the three heads, the front legs and chest visible below them: the heads swing down, jaws open wide, and pour out three streams of violet-black flame that roll down the steps; the fur ripples in the heat wave. Camera: slow push in.
 [7s-11s | Charge] Over Leon's right shoulder: the Cerberus bounds down the steps in a low four-legged gallop like a giant wolf, front paws landing halfway down so the steps crack and burst, and charges straight at Leon, growing until its body fills the frame; dust and stone fragments fly toward the camera. Camera: locked behind Leo…
+```
+
+### 混乱城市逃亡中展现超级英雄机甲
+
+[@Gwsubsa](https://x.com/Gwsubsa/status/2125923182934639071) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125923182934639071/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125923182934639071?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+a chaotic city escape to a superhero armor reveal.
+
+Pushing MAGI-2 through a cinematic sequence featuring character consistency, mechanical armor transformation, dynamic camera movement, and large scale visual effects.
+
+Created with MAGI-2 at Higgsfield.
+
+Prompt :
+Create a 15-second ultra-cinematic superhero action sequence in widescreen 16:9, featuring exclusively the person from the uploaded reference photo. Preserve the person's facial identity, facial structure, and recognizable appearance consistently throughout the video. High-end photorealistic CGI, blockbuster action-film quality, dynamic camera movement, realistic destruction, dramatic lighting, and seamless action continuity. No dialogue, subtitles, text, or logos.
+SCENE AND ACTION TIMELINE:
+0:00–0:03 — EXPLOSIVE ENTRANCE
+On a modern elevated highway in a gray urban city, the protagonist bursts forward through a massive explosion, black smoke, flying debris, and sparks. The camera tracks close from a low FPV angle, skimming broken pavement and rubble before rapidly rising toward the protagonist. The protagonist sprints through the destruction, leaping over cracks and sliding past flying debris. Silver-black mechanical armor rapidly assembles over the legs, arms, chest, and back while glowing red energy lines pulse across the armor.
+0:03–0:05 — ARMOR TRANSFORMATION
+The protagonist suddenly looks upward as the helmet mechanically snaps shut, seamlessly transforming into a fully armored superhero. Large black mechanical wings unfold explosively from the back, illuminated by flowing red circuitry. A giant gray monster emerges from the smoke ahead, smashing the pavement and sending debris into the air. The protagonist immediately charges toward it.
+0:05–0:08 — HIGH-SPEED COMBAT
+The camera follows in an aggressive FPV tracking shot, diving beneath an overturned vehicle and bursting back into the action. The protagonist dodges a wave of debris with a sideslide, then delivers a rapid combination of elbow strikes, knee strikes, spinning kicks, and flying kicks against the monster. Every impact produces red energy sparks. The mechanical wings flex, fold, and sweep like blades, leaving vivid red energy trails during rapid movement.
+0:08–0:10 — DEVASTATING IMPACT
+A brief cinematic slow-motion moment: the protagonist delivers a powerful punch directly into the monster's chest. A massive circular shockwave pushes away dust, rubble, sparks, and glass fragments. Time briefly slows as debris floats in the air, then suddenly returns to full speed as the monster is hurled backward through a roadside glass building facade.
+0:10–0:12 — FANTASY BATTLEFIELD
+The city street transforms momentarily into a surreal red-black battlefield. Shattered skyscrapers, overturned vehicles, floating glass, broken streetlights, swirling smoke, and glowing red cracks fill the environment. The protagonist flies between floating debris using fully deployed mechanical wings. The monster launches a powerful attack; the protagonist blocks using the mechanical wings, red electrical arcs crackling across their surface, then counterattacks with a powerful airborne kick that sends the monster tumbling through the floating wreckage.
+0:12–0:14 — FINAL ENERGY STRIKE
+Close-up of the protagonist's armored face, red light reflecting across the helmet and eye area. Energy rapidly gathers in the palm. Back thrusters ignite, creating a brilliant red flame trail as the protagonist charges forward through suspended glass shards. A brief slow-motion pass through the debris transitions into a rapid cinematic zoom following a concentrated red energy beam fired directly at the monster. The beam hits, producing a massive circular shockwave that shatters the surreal battlefield back into the real city street.
+0:14–0:15 — HEROIC ENDING
+The monster disappears into distant smoke as the destruction settles. The protagonist lands firmly in the center of the shattered elevated highway, facing away from the camera, wings fully extended. R…
+```
+
+### 成龙对决李小龙的打斗场景
+
+[@pound75423](https://x.com/pound75423/status/2125952174480081012) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125952174480081012/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125952174480081012?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+MAGI-2, are you sure you're not blocking IP characters?
+ I can actually have Jackie Chan fight Bruce Lee?
+Below the prompt
+```
+
+### 黑潮风暴海上冒险动作场景
+
+[@Hope_Ai01](https://x.com/Hope_Ai01/status/2126002457939702011) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126002457939702011/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126002457939702011?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+When the sea turns deadly, only the fearless survive. STORM OF THE BLACK TIDE  Adventure awaits.
+
+Create it using MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+Prompt:
+GENRE: Cinematic sea adventure action
+DURATION: Exactly 30 seconds, 16:9, photorealistic live-action film look
+
+STYLE: Shot like a real Hollywood sea adventure film. Natural real-time motion at normal speed, NO slow motion, NO time-lapse. Dynamic handheld camera, sweeping drone shots, low-angle deck shots, shallow depth of field, realistic skin texture, heavy rain, dark storm clouds, lightning flashes, cold blue and grey color grade with warm lantern highlights, subtle film grain, realistic water spray and motion blur.
+
+CHARACTERS (keep identical in every shot):
+- Captain Elena: 35-year-old woman, long dark brown hair tied back and wet from rain, dark red long coat, black tricorn hat, leather belt, determined expression.
+- Jack: 40-year-old man, short grey beard, brown vest, white shirt with rolled sleeves, first mate, strong and focused.
+(Generic fictional crew, no real movie characters.)
+
+SHIP: A large wooden 18th-century pirate sailing ship named "Black Tide" with dark sails and a carved figurehead.
+
+SETTING: Open ocean at night in a violent storm, huge waves, lightning in the sky, rocky sea cliffs ahead.
+
+SHOT 1 (0-6s): Wide drone shot of the Black Tide being tossed on huge waves, sails flapping, lightning cracking across the sky. Cut to deck level: crew members run across the wet deck pulling ropes. Elena stands at the helm holding the wheel with both hands.
+
+SHOT 2 (6-13s): Close-up of Elena's face, rain streaming down. She shouts: "Hold the sails, Jack!" Jack grabs a rope and hauls it with all his strength, boots sliding on the wet deck. A massive wave crashes over the bow and water floods the deck.
+
+SHOT 3 (13-20s): The main mast creaks. A thick rope snaps and whips across the deck. Jack ducks, then jumps and catches a loose rope, tying it fast around a post. Elena turns the wheel hard. Camera follows from behind as the ship tilts sharply.
+
+SHOT 4 (20-26s): Wide shot: giant rocky cliffs appear through the storm, with a narrow gap between them. Elena says: "Hold on!" The ship surges forward and squeezes through the gap, wood scraping rock, spray flying in all directions.
+
+SHOT 5 (26-30s): The ship exits into calmer water. Clouds break and a beam of golden sunrise light hits the sails. Close-up of Elena exhaling, a small smile on her face, Jack beside her nodding. Cut to black. White text on screen: "STORM OF THE BLACK TIDE".
+
+AUDIO: Thunder, roaring waves, howling wind, creaking wood, flapping sails, rope snapping, crew shouting, powerful orchestral action score. English dialogue with natural voice, no music lyrics.
+
+AVOID: Slow motion, blood, gore, guns, cannons firing, skeletons, ghosts, monsters, cartoon look, slideshow effect, static images, real movie characters, face or outfit changes between shots, ship changing shape or color between shots.
+```
+
+### 两位赛车手之间的电影感竞速对决
+
+[@Hope_Ai01](https://x.com/Hope_Ai01/status/2126045556946731324) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126045556946731324/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126045556946731324?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+One finish line. Two fearless drivers. A victory decided by milliseconds. 
+
+Created with MAGI-2 ON @higgsfield 
+#HiggsfieldPartner 
+
+Prompt:
+GENRE: Cinematic racing sports drama
+DURATION: Exactly 30 seconds, 16:9, photorealistic live-action film look
+
+STYLE: Shot like a real racing movie. Natural real-time motion at normal speed, NO slow motion, NO time-lapse. Fast tracking shots, low-angle car shots, in-car cockpit cameras, shallow depth of field, realistic skin texture, floodlit night track, warm orange and cool blue color grade, subtle film grain, realistic motion blur.
+
+CHARACTERS (keep identical in every shot):
+- Mina: 27-year-old Korean woman, black hair in a low ponytail, red and white racing suit, red helmet with visor, determined expression. Drives a red sports car with number 7.
+- Chloe: 29-year-old woman, blonde hair in a braid, blue and black racing suit, blue helmet. Drives a blue sports car with number 22.
+(Generic fictional race cars, no real brand logos.)
+
+SETTING: A professional circuit at night, bright floodlights, grandstands with a cheering crowd, a checkered finish line, light tire smoke.
+
+SHOT 1 (0-6s): Wide low-angle tracking shot. The red car and blue car race side by side on the final lap, engines roaring. Cut to a cockpit view of Mina gripping the steering wheel, eyes locked ahead.
+
+SHOT 2 (6-13s): Cockpit close-up of Chloe glancing sideways at Mina, then smiling confidently. Exterior shot: Chloe's blue car takes the inside line at the final corner and pulls ahead by half a car length. Tires squeal.
+
+SHOT 3 (13-20s): Mina's cockpit, close-up of her eyes in the helmet visor. She says through the radio: "Not yet." She shifts gear and hits the accelerator. Exterior side shot: the red car swings wide on the outside line, wheels gripping hard, engine screaming.
+
+SHOT 4 (20-26s): Front-facing tracking shot of both cars charging down the final straight toward the checkered finish line, crowd blurred on both sides, the cars neck and neck.
+
+SHOT 5 (26-30s): Wide shot at the finish line: the red car crosses first by a tiny margin. Close-up of Mina's gloved hand raised in victory, Chloe's blue car slowing beside her, Chloe nodding with a respectful smile. Cut to black. White text on screen: "PHOTO FINISH".
+
+AUDIO: Roaring engines, tire squeals, gear shifts, crowd cheering, wind rush, radio crackle, driving high-energy cinematic score. English dialogue with natural voice, no music lyrics.
+
+AVOID: Slow motion, crashes, fire, blood, real car brand logos, cartoon look, slideshow effect, static images, face or outfit changes between shots, cars changing color or number between shots.
 ```
 
 <a id="ad"></a>
@@ -1485,6 +1992,127 @@ Prompt in the comments 👇
 猜完之后可以去长文里面看看案例 02 看看自己有没有猜对 ⬇️
 ```
 
+### 多款视频大模型同Prompt横评测试
+
+[@caravfxaigc](https://x.com/caravfxaigc/status/2125872332745134469) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125872332745134469/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125872332745134469?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+这两天用 @PJaccetturo 分享的《NEXUS》里一段Prompt 和参考图，做了验证，并且与平价模型做了横评。
+（拆解都在长文里，可自取⬇️）
+
+分两部分：
+1、用 Seedance 2.5 照着复刻了一遍，确认他分享的这套 Prompt 不是“卖家秀”，确实能跑出同等水准。
+
+2、拿同一套 Prompt，把 Wan 3、Seedance 2.5 Flash、MAGI-2 按 30 秒官方 API 价格从高到低拉出来同题过一遍，看看便宜模型到底能打到什么程度。
+
+【省流实测结论】
+1. Seedance 2.5（1080p，30s 官方 API 约 $15.3 / ¥111）
+PJ 分享的 Prompt 实测准确有效，镜头调度、角色脸和英音对白都跟得很紧，综合最稳，但单价也确实最高。
+
+2. Wan 3（1080p，30s $4.95 / ¥36）
+人物脸和衣服稳得住，但 Prompt 锁得偏松：出现了表错乱、台词复读、中段凭空又切回骑士的穿帮，还无视“无配乐”指令自己加了一整段BGM。
+
+3. Seedance 2.5 Flash（720p，30s 约 $4.1 / ¥29.7）
+综合性价比最高。切镜节奏、英音对白和结尾嘶吼的爆发力基本咬死旗舰版，代价是 720p 放大后皮肤和火焰细节会软一点。
+
+4. MAGI-2（1080p，30s $2.4 / 约 ¥17.4）
+全场最便宜，只有旗舰大约 1/6的价。很多人夸它表演好，逐帧看确实没吹——结尾从瞳孔震动到惊恐的微表情过渡非常自然，很有真人戏感。但原生声音发闷偏平（商业项目还是老老实实重配音吧），而且前面给足了戏，后段节奏慢半拍漏了收尾冲刺。
+```
+
+### 赛博垃圾摇滚风说唱MV模型对比
+
+[@poruru_ai](https://x.com/poruru_ai/status/2125942688122028532) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125942688122028532/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125942688122028532?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+🎧 MAGI-2 vs Seedance 2.5 720p vs Seedance 2.0 720p 🔥
+
+3人組アイドルのサイバーグランジ風ラップMVで動画生成AIを比較してみました💖
+
+ほぼ同じ参照画像・同じ演出をベースに、顔の再現性、リップシンク、ダンス、カメラワーク、映像表現を比較！
+
+MAGI-2は1080p・音声付きで生成できるうえに、コストパフォーマンスも抜群✨
+
+この価格ならMV制作にもどんどん活用できそうです😊
+
+皆さんはどのモデルの映像が好みですか？👀
+
+Made with MAGI-2 on @Higgsfield
+
+🎬 使用したMAGI-2用プロンプト公開👇
+
+【Prompt】
+
+15-second photoreal cyber-grunge rap music video, 16:9, original three-member idol group performance, all performers adults aged 20+.
+
+Reference mapping in attached order:
+
+Image 1 = Performer A, long straight black hair with parted wispy fringe and red/navy striped tie.
+
+Image 2 = Performer B, very long straight black hair with full fringe and navy/white striped tie.
+
+Image 3 = typography and visual style reference ONLY, not a person.
+
+Image 4 = Performer C, short dark bob with wispy bangs and navy/white striped tie.
+
+Keep each distinct facial identity, hairstyle, navy cardigan, white shirt, striped tie and neat uniform-inspired outfit consistent.
+
+Do not copy the selfie poses or original backgrounds.
+
+No start frame; all four images are references.
+
+Cohesive trio on an original black/red studio stage, white rim lights, moving graphic panels.
+
+Dark-pop cyber-grunge rap editorial energy, photoreal high-fashion polish, late-1990s/early-2000s underground zine collage, scanned magazine textures, coarse grain, halftone, distressed print edges, subtle scan misregistration.
+
+High contrast red/black/white.
+
+Typography inspired by Image 3, including brief readable MAGI-2 / Made with MAGI-2 on @Higgsfield graphic fragments integrated into performance, never a static title card.
+
+Immediate physical movement from first frame, rapid hard cuts every 1.5–3s, no fades or dissolves, no static poses or frozen beauty shots.
+
+Prioritize faces and upper-body close-ups, intercut medium-close trio shots.
+
+Every shot has visible subject and camera motion.
+
+Audio: original energetic rap beat, punchy bass, syncopated drums, crisp female group rap vocals, clear rhythmic lip sync; no existing song or artist imitation.
+
+0–2s:
+
+Rapid extreme close-ups A/B/C, each lifts chin, direct eye contact, sharp head tilt and rhythmic mouth movement, fast handheld push-ins.
+
+2–4s:
+
+Tight three-quarter shots, A turns toward camera with shoulder roll, B steps confidently and adjusts tie, C angles toward camera with shoulder accent; lateral camera track and brief trio shot.
+
+4–6s:
+
+Medium-close trio walks two synchronized strong steps toward camera, one points toward lens, one sweeps hand downward, one accents shoulder; camera dollies backward.
+
+6–8s:
+
+Rotating close-ups A snaps head left then center, B half-turns shoulders, C locks eyes with lens; quick mini-orbit, beat-synced grunge typography.
+
+8–10s:
+
+Tight side profiles, trio strides past camera in staggered rhythm, each looks back toward lens; camera pans and catches glances.
+
+10–12s:
+
+Alternating close-ups, each leans in and raps a punchy line, sharp hand gestures near face, shoulder drops and weight shifts; brief tight trio framing.
+
+12–15s:
+
+Synchronized step forward, sharp head snaps, direct gaze, decisive hand gesture, final powerful group formation with aggressive camera push-in.
+
+Keep motion until final frame.
+
+Natural hair and fabric movement, realistic weight transfer, hand anatomy, neck and shoulder mechanics, natural facial expression and lip sync.
+
+Maintain distinct identities and recurring trio coverage throughout; never duplicate, swap or morph faces.
+
+Stylish kinetic moving underground fashion magazine spread.
+```
+
 <a id="showcase"></a>
 
 ## 模型展示
@@ -1591,14 +2219,98 @@ Prompt in the comment below.
 Created with MAGI-2 at Higgsfield
 ```
 
-### 三十秒视频生成的各项技术测试
+### 深夜在温馨卧室放松的女性
 
-[@johnAGI168](https://x.com/johnAGI168/status/2125825239611245005) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125825239611245005/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125825239611245005?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+[@ai_japan_muse](https://x.com/ai_japan_muse/status/2125961035328921722) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125961035328921722/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125961035328921722?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
 
 ```text
-Testing a full 30s 1080p run on MAGI-2 on Higgsfield, built with a Higgsfield skill.
+もこもこルームウェアの彼女と、夜のおうち時間🌙
 
-Holding exposure consistency from a red-lit room and close-up breaker sparks to glass lens refraction, moving gears, and a wide aerial storm pullback—plus synced foley for the switch and machinery—is tough to pull off cleanly in one generation.
+Created with MAGI-2 at Higgsfield
 
-Prompt and the skill are both in the replies.👇
+最後の距離、近すぎませんか？😳
+
+手を振る仕草やコロコロ変わる表情まで、まるで自分だけに話しかけてくれているような距離感が、自然で良い感じですよね💕
+
+皆さんは、こんなふうに話しかけられたら、何て返しますか？💭
+
+参照画像を使用しての動画生成プロンプトを載せてみますので、良かったら試してみて下さい🥰
+
+Create an exactly 30-second, vertical 9:16, ultra-photorealistic smartphone video. Use the provided reference image as the primary visual reference for the woman's facial identity, hairstyle, fluffy pink-and-white pajamas, and bedroom environment. Maintain exactly the same woman and consistent facial features throughout the entire video.
+
+SCENE:
+A cute Japanese woman in her early 20s is relaxing on a soft light-pink cushion in her cozy bedroom late at night. She wears adorable, fluffy, warm-looking pajamas. Her bedroom is filled with charming pastel-pink decorations, soft plush toys, cute cushions, warm bedside lighting, and cozy details. The atmosphere is intimate, peaceful, and comforting.
+
+CAMERA:
+A natural handheld smartphone camera positioned at her eye level, as if a close friend is talking with her before bedtime. Slight natural handheld movement, realistic autofocus, authentic smartphone video quality. One continuous take with no cuts.
+
+TIMELINE:
+
+0-5 seconds:
+She looks directly into the camera with a bright, refreshing smile. She slightly tilts her head and gently waves one hand.
+She says in natural, cheerful Japanese:
+「こんばんは！今日も一日お疲れさま！」
+
+5-11 seconds:
+She relaxes her shoulders, gently hugs a soft cushion, and looks into the camera with a friendly expression.
+She says:
+「今日はどんな一日だった？楽しいことあった？」
+
+11-17 seconds:
+She gives a small playful smile, tilts her head slightly, and briefly looks upward as if thinking.
+She then looks back at the camera and says:
+「私はね、こうしてみんなとお話しできるのが楽しみなんだ♪」
+
+17-23 seconds:
+She gently adjusts her fluffy pajama sleeves, leans comfortably toward the camera, and smiles warmly.
+She says in a softer, affectionate voice:
+「そろそろ寝る時間かな？あんまり夜更かししちゃダメだよ？」
+
+23-27 seconds:
+She moves a little closer to the camera, maintaining warm eye contact. Her expression becomes tender and slightly bashful. She gives a small, gentle smile and says:
+「明日もまた会おうね。」
+
+27-30 seconds:
+She slowly brings her face close to the smartphone camera until her face fills most of the frame. She looks directly into the lens with a lovely, intimate smile, gives a tiny goodnight wave, and softly whispers:
+「おやすみなさい♡」
+
+At the final moment, she gently closes her eyes and smiles.
+
+AUDIO:
+Natural, clear Japanese female voice, youthful and sweet, with authentic conversational intonation. Accurate Japanese lip synchronization for every spoken line. Soft, gentle bedtime background music with delicate piano and music-box tones, kept quiet beneath the dialogue. No narration, no additional voices.
+
+VISUAL QUALITY:
+Extremely realistic human appearance, natural skin texture, realistic eye movements, subtle facial expressions, believable body movements, soft nighttime lighting, warm pastel color grading.
+
+IMPORTANT:
+Preserve the exact same facial identity throughout. No face morphing, no character changes, no anime, no illustrations, no CGI appearance, no artificial beauty filters, no sudden scene transitions, no subtitles, no captions, no logos, no watermarks. The final close-up must feel natural and emotionally intimate.
+```
+
+### 黑暗虚空中的肌肉恶魔神祇
+
+[@Refiner_Studio](https://x.com/Refiner_Studio/status/2125984923337318903) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125984923337318903/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125984923337318903?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+MADE WITH MAGI-2 FOR @YouArtStudio
+
+PROMPT (#1 -15 secs ) [#2 in comments]:
+16:9 widescreen, stylized 3D cinematic animation, dark high-contrast lighting.
+
+Scene: A single tall, lean, hyper-muscular demon-deity stands center-frame in a dark ash-filled void, occupying the central third of the frame, with clean empty dark space above his head. At the far left and far right edges, two massive towering pyres of roaring fire burn vertically from the bottom edge of the frame to the top edge, casting flickering orange light and rising embers. Camera completely static, no zoom.
+
+Core effect: his skin and texture change constantly on every jerky movement, flipping between two forms: (  ) pink brain-tissue skin with glowing cyan veins and golden flame crown, and (  ) charred dark volcanic skin with glowing red ember cracks, dark bronze bracers and rising smoke. Only surface texture, color and glow change. His silhouette, height and face structure stay locked. Use two mechanics only: instant one-frame flips and ember-wave sweeps.
+
+Movement: grotesque, unnatural, demonic, stop-motion-like. He balances on ONE leg the entire time, facing front or three-quarter, never turning his back. He contorts into the most awkward, unsettling poses: knee twisted inward, torso folded sideways, head tilted at an extreme angle, arms hyperextended, fingers splayed like a spider, shoulders hunched crab-like. Speed varies wildly: ultra-rapid bursts of 5-6 poses in one second, then slow, eerie, almost smooth warping drags, then sudden dead stops. He drifts a step left and right between the pyres on his one leg.
+
+0-3s: Pink form. Slow eerie drag into a folded-torso pose, head tilting sideways. Then an ultra-rapid burst of four poses, skin strobing pink and charred on each snap, ending in an ember wave that locks him charred.
+
+3-6s: Dead stop. Spider-finger twitch. Slow drag as his arms stretch out hyperextended, then an instant flash to pink and a violent snap into an inward-knee crouch. Hop-lurch left.
+
+6-9s: Slow smooth sway, head tilted far over, then a sudden three-pose jerk burst (hunched crab pose, arm whip toward camera, shoulder judder). Skin flips on every pose. Splits half pink half charred once, then snaps fully charred.
+
+9-12s: Fastest section. Six rapid staccato contortions in about two seconds, skin strobing, hop-lurch right, then back to center. Abrupt dead freeze.
+
+12-15s: One long slow eerie drag into a twisted, fierce one-legged pose facing camera. A final ember wave locks him fully charred, red eyes burning through smoke. Holds nearly frozen with tiny finger twitches, pyres roaring.
+
+Audio: roaring fire, sharp snaps and air whips on each jerk, ember crackle on each skin shift.
 ```
