@@ -2,21 +2,37 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-46 MAGI-2 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with MAGI-2 on SandBase Lab. New to prompting MAGI-2? Start with the [prompt guide](prompt-guide.md).
+57 MAGI-2 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with MAGI-2 on SandBase Lab. New to prompting MAGI-2? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X. Some posts put the prompt in a reply or behind a link, so open the post on X to read the full thread. Posts keep the creator's language.
 
-- [Short films](#short-film) (13)
+- [Short films](#short-film) (19)
 - [Music videos](#music-video) (2)
-- [Anime](#anime) (7)
+- [Anime](#anime) (8)
 - [Action](#action) (8)
-- [Ads](#ad) (2)
+- [Ads](#ad) (4)
 - [Tests & comparisons](#comparison) (7)
-- [Model showcases](#showcase) (7)
+- [Model showcases](#showcase) (9)
 
 <a id="short-film"></a>
 
 ## Short films
+
+### A thirty second surfing film in MAGI-2
+
+[@Daeng_Tinggi](https://x.com/Daeng_Tinggi/status/2125568290336682284) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125568290336682284/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125568290336682284?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+MAGI-2 is live on Higgsfield 
+
+Up to 30s per generation in 1080p, for $0.08 a second. So I pushed it into a full 30s surf film: paddle out, barrel, slow-mo, beach.
+
+Storyboard + video prompts in the replies 👇
+
+Made with MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+```
 
 ### A woman aiming a bow in a mansion
 
@@ -555,6 +571,126 @@ Pace: loud and comic at the start, then sly and quick; every shot opens in motio
 S1 0.0-1.2s · wide, high, from the far end of the room, slow push-in · diners at every table lift glasses and lean in to talk, a waiter in a white jacket crosses the aisle; i…
 ```
 
+### A Pixar inspired 3D animated comedy
+
+[@AIwithkhan](https://x.com/AIwithkhan/status/2125811678889791810) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125811678889791810/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125811678889791810?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+THE UNLIKELY HERO – A Hilarious Accident With a Happy Ending 🏆😂
+
+Made using MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt :
+
+Create a Pixar-inspired 3D animated comedy short set in a colorful seaside city on a beautiful sunny morning.
+
+A clumsy young delivery boy riding a small bicycle accidentally crashes into a street magician's performance. His delivery bag flies into the air, scattering dozens of colorful balloons. One balloon gets tangled around a wealthy man's wrist, pulling him away just as a giant runaway wedding cake rolls down the street.
+
+The delivery boy panics and jumps onto his bicycle, chasing the runaway cake. In the chaos, he accidentally saves a little girl standing in its path. The crowd gasps, then cheers.
+
+But the adventure is far from over.
+
+The runaway cake crashes into a fruit stall, sending hundreds of watermelons bouncing across the street. The delivery boy slips on one, flies into the air, and lands perfectly inside a passing parade float shaped like a giant golden eagle.
+
+The float suddenly takes off down the main street. The boy grabs its wings, accidentally steering it through a spectacular parade. The audience believes he is performing an incredible stunt. Cameras flash, people cheer, and the crowd starts chanting his name.
+
+Finally, the float stops directly in front of the city's mayor. The mayor, completely impressed, presents the terrified delivery boy with a giant golden medal for bravery.
+
+Just as everyone celebrates, the little girl he saved runs forward and gives him a warm hug. His worried mother arrives, sees the medal, and bursts into tears of happiness.
+
+Final scene: The boy rides his tiny bicycle home proudly, wearing his oversized golden medal. His delivery bag is still empty, but his face is glowing with happiness. A little puppy runs alongside him as golden sunlight fills the street.
+
+On-screen text appears:
+
+"Sometimes, you don't need a plan to become someone's hero." ❤️
+
+Visual style: High-end Pixar-inspired 3D animation, expressive facial expressions, hilarious slapstick comedy, exaggerated physics, colorful environments, cinematic tracking shots, dynamic camera movements, seamless scene transitions, emotional storytelling, playful orchestral music, beautiful lighting, polished animated short-film quality, 16: 9 aspect ratio.
+```
+
+### Tiny chefs cooking a giant breakfast
+
+[@RuzainaMeer](https://x.com/RuzainaMeer/status/2125832298574590127) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125832298574590127/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125832298574590127?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+A tiny kitchen crew, a giant breakfast, and some serious cooking skills. 🍳😂
+
+Made with MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt:
+
+Create a 30-second ultra-realistic cinematic video in 16:9 widescreen, 4K, 24fps, featuring 8–10 tiny human chefs cooking a giant breakfast in a modern real-life kitchen. The tiny chefs should look like realistic miniature humans, not cartoons or toys. Maintain consistent faces, clothing, body proportions, and kitchen layout throughout the video.
+
+SCENE 1 (0–6 seconds): Start with a cinematic macro wide shot of a kitchen countertop. Tiny chefs arrive carrying miniature cooking equipment. In front of them are a gigantic egg, a huge tomato, a massive slice of bread, and a large block of butter. The head chef points toward the ingredients, directing the team.
+
+SCENE 2 (6–12 seconds): Two chefs climb a small ladder to crack the giant egg into a frying pan. Other chefs carefully slice a tomato using tiny knives. Another chef struggles to push a huge piece of butter across the countertop. Show realistic teamwork and physical effort.
+
+SCENE 3 (12–18 seconds): The chefs begin cooking on a miniature stove. The egg mixture sizzles naturally in the frying pan. One chef uses a tiny spatula to flip the enormous omelette while another carefully sprinkles seasoning. Realistic steam rises from the pan.
+
+SCENE 4 (18–24 seconds): The team works together to lift a gigantic cheese slice onto the omelette. One chef briefly slips on a tiny drop of oil, but another quickly catches him. The other chefs continue working. Keep every action physically believable.
+
+SCENE 5 (24–30 seconds): Reveal the finished giant golden omelette with melted cheese and tomato slices, served beside toasted bread. The tiny chefs proudly gather around the plate. One chef climbs onto the edge of the plate, raises both arms in celebration, and the camera smoothly pulls back to reveal the entire miniature cooking operation.
+
+VISUAL STYLE: Photorealistic macro cinematography, realistic miniature human anatomy, detailed skin and facial expressions, natural food textures, accurate cooking physics, realistic steam and oil, cinematic lighting, shallow depth of field, smooth connected camera movements, consistent character appearances, and believable scale.
+
+AUDIO: Realistic chopping, sizzling eggs, footsteps, utensils clinking, subtle kitchen ambience, and cheerful reactions from the tiny chefs. No narration, no subtitles, no background music.
+
+IMPORTANT: Every scene must connect naturally to the next. Avoid sudden cuts, inconsistent characters, floating objects, exaggerated movements, cartoon visuals, distorted hands, or artificial-looking food. The final result must look like a professionally filmed miniature cooking documentary.
+```
+
+### Two kittens at a car wash
+
+[@Maxime887812](https://x.com/Maxime887812/status/2125836368794509566) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125836368794509566/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125836368794509566?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Two kittens, one car wash, and zero professionalism. A 10-second story told in three shots from one MAGI-2 prompt: sudsy scrubbing, a hose with a mind of its own, and one very soggy kitten, with the cuts, camera moves and sound all generated together.
+
+Created with MAGI-2 at Higgsfield
+```
+
+### A winter day in a snowy residential street
+
+[@Ciri_ai](https://x.com/Ciri_ai/status/2125844812167569730) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125844812167569730/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125844812167569730?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Just another winter day through her camera roll.
+
+Created with MAGI-2 at @higgsfield 
+
+Prompt: Create a 30-second, 1080p ultra-realistic personal home-video of a naturally pretty young Korean woman in her early 20s, with straight black hair in two loose low pigtails, wearing a thick red knit beanie, a cream puffer jacket, a gray wool scarf, dark jeans, and brown winter boots. She carries a paper cup of hot cocoa.
+
+Start immediately with her stepping out of her front door into fresh snowfall. She pulls her scarf up, turns to the camera, smiles, and says, "It snowed overnight!" She walks down a quiet residential street, boots crunching in untouched snow. Partway down, she glances at the person holding the camera, laughs, and says, "Stop filming me, it's so early!" She holds her cocoa toward the lens like a toast.
+
+She stops at a parked car, wipes snow off the side mirror with her glove, and writes a small heart on the frosted window. Then she pauses. For about three seconds she stands still, looking up at the falling snow, breath steaming, a soft smile on her face, with only quiet ambience. The camera lingers on her.
+
+She scoops a handful of snow, packs it into a ball, and tosses it at a bare tree. It misses, and she pouts at the camera. She tries again and hits the trunk, and a clump of snow drops from a branch onto her head. She shrieks, shakes it off, laughs, and says, "Okay, I deserved that!"
+
+As she turns back toward home, she notices a single small red mitten sitting on a fence post. She picks it up, looks at it, then at the camera, and says, "Wait... whose is this?" She sets it back carefully on the post.
+
+Finally, at her gate, she turns to the camera with red cheeks and a runny nose, sniffs, waves, and says, "Okay, see you! Bye!" She goes inside, and the recording abruptly cuts to black.
+
+**Visual style:** Raw early-2000s handheld DV camcorder footage, soft overcast winter morning light, slightly overexposed snow, imperfect framing, camera shake, autofocus hunting on falling snowflakes, faded cool-toned colors, mild digital noise, a brief fogged lens when she steps outside, and realistic movements.
+
+**Audio:** Muffled snowy neighborhood ambience, soft wind, crunching footsteps, a distant dog barking, a faint camera-holder chuckle off-screen, and perfectly synchronized casual English dialogue. No background music.
+
+Maintain identical facial features, clothing, hairstyle, and body proportions throughout. Keep every interaction and object physically realistic.
+```
+
+### A zombie horror sequence on a subway
+
+[@oggii_0](https://x.com/oggii_0/status/2125849409078645150) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125849409078645150/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125849409078645150?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+The last train home just became a nightmare.
+
+Created with MAGI-2 at @higgsfield 
+
+Prompt: TITLE: THE LAST TRAIN HOME. Create a 30-second ultra-realistic live-action Korean zombie-apocalypse horror sequence. The protagonist is the same beautiful young adult Korean university student throughout: long straight black hair, natural Korean facial features, fitted white blouse, dark pleated skirt, black knee-high socks and casual sneakers. Preserve her exact face, hairstyle, body proportions and clothing. 00:00–00:04: Wide cinematic shot of an underground Seoul subway platform late evening. Fluorescent lights flicker, a few passengers wait silently. The girl rushes down the stairs clutching her backpack, looks behind her, terrified. A distant emergency announcement echoes. 00:04–00:08: She notices a male passenger standing motionless beside a vending machine, head tilted unnaturally, dark liquid at his mouth, fingers twitching. She steps backward. 00:08–00:12: He violently turns and charges. She screams and dodges; he crashes into the vending machine, drinks scatter, passengers flee. 00:12–00:17: A subway train arrives with metallic screech. She runs inside as terrified passengers push past. In the train window reflection, infected figures sprint down the platform. Doors close as infected passengers slam their hands against the glass. 00:17–00:22: Train moves. She collapses into a seat gasping. Across the carriage, an elderly passenger sits motionless staring at her. A child beside him points toward her backpack. 00:22–00:26: She turns. Her backpack moves by itself; scratching comes from inside. She unzips it slightly and a bloodied infected hand reaches out. She recoils. The elderly passenger raises his head, revealing completely black eyes. 00:26–00:30: Carriage lights switch off one by one. Emergency red lights illuminate her terrified face. She looks toward camera. Her nose bleeds, black veins spread from wrist toward neck, eyes turn completely black. She lunges directly toward camera. CUT TO BLACK. Native realistic audio: subway ambience, distant Korean announcements, footsteps, electrical buzzing, subway braking, door chimes, glass impacts, screams, heavy breathing, metallic rattling, infected growls, sudden silence. No background music. Photorealistic Korean zombie-horror movie, cinematic live action, practical infection makeup, detailed skin, realistic expressions and body movement, handheld camera, subway lighting, dramatic shadows, motion blur, suspenseful pacing, cinematic color grading. Negative: anime, cartoon, illustration, plastic skin, artificial CGI, excessive gore, graphic dismemberment, duplicated characters, face morphing, changing clothes, inconsistent identity, distorted anatomy, extra limbs, floating objects, impossible physics, subtitles, text, logos, watermarks.
+```
+
 <a id="music-video"></a>
 
 ## Music videos
@@ -763,6 +899,29 @@ Use exaggerated differences in scale, believable environmental interactions, pla
 AUDIO: No dialogue and no narration. Use immersive New York street ambience, distant traffic, subway rumbling, pigeon wings, fountain splashes, bicycle sounds, footsteps, café ambience, and perfectly timed whimsical comedic sound effects.
 
 16:9 cinematic widescreen, fluid animation, crisp details, expressive character acting, vibrant but natural colors, polished commercial-quality finish. Every scene should introduce a new visual surprise, with a funny and memorable final punchline.
+```
+
+### An anime style train journey scene
+
+[@airina_xyz](https://x.com/airina_xyz/status/2125737839417872491) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125737839417872491/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125737839417872491?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+My anime experiment is all about the smaller details: moving scenery, shifting sunlight, wind through fabric and the rhythm of a train journey.
+
+Six shots, one quiet little story, 30 seconds.
+
+Created with MAGI-2 at Higgsfield.
+
+Prompt:
+
+Exquisitely detailed hand-drawn anime with traditional painted backgrounds, delicate linework, golden autumn colors and subtle character animation. An original young adult woman with short black hair, a mustard-yellow coat and a red scarf travels on an old countryside train.
+00:00–00:04: Extreme close-up of an autumn maple leaf pressed against the moving train window before the wind carries it away.
+00:04–00:09: Wide aerial tracking shot of a cream-and-green train winding through a vast golden forest.
+00:09–00:14: Interior profile shot of the woman watching the scenery, shifting sunlight passing across her face.
+00:14–00:19: Over-the-shoulder shot as she opens a small notebook and sketches the mountains outside.
+00:19–00:24: Exterior low-angle shot as the train crosses a stone bridge above a glittering river, scattering autumn leaves.
+00:24–00:30: Close-up of her sketchbook. A real maple leaf blows through the slightly open window and lands precisely on her drawing. She smiles.
+Rich layered backgrounds, natural parallax, consistent character design, convincing wind and cloth movement. SFX: rhythmic railway sounds, rustling leaves, pencil strokes and gentle wind. No music or dialogue.
 ```
 
 ### Miniature Skater Girl on a Breakfast Table
@@ -1154,6 +1313,67 @@ I'll drop the exact prompt and link in the comments
 save this for your next product video
 ```
 
+### Cinematic 3D chibi animated commercial
+
+[@AIwithSynthia](https://x.com/AIwithSynthia/status/2125821453266546701) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125821453266546701/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125821453266546701?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+WELCOME TO THE COCA-COLA FACTORY – Cinematic 3D Chibi Animated Commercial 🧩
+
+Made using MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt :
+
+Create a heartwarming, ultra-cute 3D chibi animated commercial inside a massive, magical soft drink factory operated entirely by tiny chibi workers. The factory is bright, spotless, colorful, and beautifully organized, featuring enormous stainless-steel machines, sparkling glass bottles, glowing red conveyor belts, and warm cinematic lighting. Every worker has oversized sparkling eyes, rosy cheeks, tiny proportions, expressive faces, and adorable waddling movements. All workers wear miniature red uniforms, little white gloves, and matching caps.
+
+SCENE 1 – THE GRAND FACTORY ENTRANCE
+
+The video opens with a spectacular cinematic fly-through entering the enormous beverage factory. Hundreds of adorable miniature workers enthusiastically run around, waving to each other and preparing for the day's production. Giant empty glass bottles travel along conveyor belts while tiny workers guide them into position. Some workers operate miniature forklifts carrying stacks of bottles, while others proudly inspect the production lines.
+
+SCENE 2 – THE MAGICAL BEVERAGE PRODUCTION
+
+The camera glides alongside enormous industrial mixing tanks filled with a rich, dark fizzy beverage. Tiny workers in protective uniforms carefully monitor the machines, turn miniature control wheels, and inspect the flowing liquid. One adorable worker stands on a tiny ladder, checking a pressure gauge while another gives an enthusiastic thumbs-up. Bubbles rise through transparent pipes, creating a mesmerizing visual spectacle.
+
+SCENE 3 – BOTTLE FILLING STATION
+
+Transition into a spectacular automated bottling station. Rows of sparkling glass bottles move beneath giant filling machines as the dark fizzy drink pours into each bottle with perfect precision. Tiny workers carefully supervise the process, enthusiastically cheering whenever a bottle gets filled. One little worker proudly holds up a perfectly filled bottle while his colleagues celebrate with tiny high-fives.
+
+SCENE 4 – THE BUBBLE MAGIC
+
+Capture beautiful macro close-ups of sparkling carbonation, tiny bubbles rising inside freshly filled bottles, condensation forming on chilled glass surfaces, and refreshing droplets sliding down the bottles. Miniature workers admire the finished drinks. One worker playfully tries to catch a floating bubble while another carefully polishes a bottle with an oversized cleaning cloth.
+
+SCENE 5 – THE PACKAGING DEPARTMENT
+
+The camera moves through a lively packaging section where hundreds of bottles are automatically capped, labeled, and packed into colorful red cartons. Tiny workers coordinate everything with incredible enthusiasm. Some carefully arrange bottles inside cartons, others seal the packages, while miniature forklifts transport finished products toward the warehouse. One tiny worker proudly stands on top of a carton, directing traffic like a factory supervisor.
+
+SCENE 6 – THE GRAND FINALE
+
+The entire factory becomes a celebration. Hundreds of adorable workers gather around a giant beautifully presented chilled bottle surrounded by sparkling droplets and refreshing ice cubes. They cheer, clap, wave their tiny hands, and perform adorable victory dances. One little worker proudly raises a miniature bottle toward the camera as everyone celebrates another successful production day.
+
+The camera slowly pulls backward and rises above the factory floor, revealing the enormous, beautifully illuminated production facility filled with busy miniature workers and endless rows of finished bottles.
+```
+
+### Premium cinematic food commercial for fine dining
+
+[@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2125853960187888050) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125853960187888050/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125853960187888050?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Culinary art meets cinematic storytelling. Every detail matters. 
+
+Created with MAGI-2 at Higgsfield
+
+PROMPT:
+Create a 15-second premium cinematic food commercial featuring an experienced Japanese master chef preparing an extraordinary fine-dining dish. The chef wears a perfectly clean white uniform and a dark apron.
+SHOT 01 | 0–3s: Extreme macro shot of a razor-sharp Japanese knife slicing a fresh red tomato. Juice droplets hang in the air.
+SHOT 02 | 3–6s: Rapid close-ups of vegetables being chopped, flames rising from a pan and ingredients falling in slow motion.
+SHOT 03 | 6–9s: The chef tosses ingredients into a pan. A beautiful flame briefly illuminates his focused face.
+SHOT 04 | 9–12s: Delicate sauce is poured onto a handmade ceramic plate. Every ingredient is positioned with surgical precision.
+SHOT 05 | 12–15s: The completed dish rotates slowly under dramatic restaurant lighting. Steam rises as the camera pushes into the final presentation.
+BGM: Sophisticated jazz mixed with rhythmic kitchen sounds, knife impacts, sizzling butter and subtle orchestral accents.
+```
+
 <a id="comparison"></a>
 
 ## Tests & comparisons
@@ -1354,4 +1574,31 @@ MAGI-2 t2v prompt: she has eleven butts
 
 ```text
 MAGI-2 t2v prompt: 🫠🤮👧 while 🤡🤜🤖
+```
+
+### A handmade paper material animation
+
+[@VirgowatiShema](https://x.com/VirgowatiShema/status/2125813044618154186) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125813044618154186/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125813044618154186?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Magi-2 just dropped in Higgsfield 🔥
+
+I wanted to see how far MAGI-2 could take a handmade material into a completely impossible world.  
+Paper, motion, transformations and rapid cuts.  
+
+Prompt in the comment below.
+
+Created with MAGI-2 at Higgsfield
+```
+
+### Technical test of thirty second video generation
+
+[@johnAGI168](https://x.com/johnAGI168/status/2125825239611245005) · [Watch](https://www.sandbase.ai/lab/media/x/magi-2/2125825239611245005/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/magi-2/2125825239611245005?utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Testing a full 30s 1080p run on MAGI-2 on Higgsfield, built with a Higgsfield skill.
+
+Holding exposure consistency from a red-lit room and close-up breaker sparks to glass lens refraction, moving gears, and a wide aerial storm pullback—plus synced foley for the switch and machinery—is tough to pull off cleanly in one generation.
+
+Prompt and the skill are both in the replies.👇
 ```
