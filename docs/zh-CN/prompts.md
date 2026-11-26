@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 32 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
+共 37 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的帖子把提示词放在回复里，或放在外部链接中，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
-- [短片](#short-film) (6)
+- [短片](#short-film) (9)
 - [音乐视频](#music-video) (1)
-- [动画](#anime) (5)
+- [动画](#anime) (6)
 - [动作](#action) (6)
 - [广告](#ad) (2)
 - [测试对比](#comparison) (6)
-- [模型展示](#showcase) (6)
+- [模型展示](#showcase) (7)
 
 <a id="short-film"></a>
 
@@ -380,6 +380,63 @@ masterpiece, highest quality，1970 年代香港武侠片质感。
 全场只有两件兵器。剑在 11—16.5 秒钉在木柱上，由柳寒霜亲手拔回。铁棍在 23 秒被劈成两半，此后熊霸天手持两截短棍，28 秒…
 ```
 
+### 雨夜中伫立的塞勒涅
+
+[@Maxime887812](https://x.com/Maxime887812/status/2125775505878393082) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125775505878393082/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125775505878393082?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Created with MAGI-2 at Higgsfield
+Selene in the rain, one take from MAGI-2. I asked for a slow push-in with rain beading on her coat and neon reflecting in her eyes, and the generated sound came with it: rain, city hum and a distant siren, no editing needed.
+```
+
+### 骑士从马上坠落并被接住的场景
+
+[@Gwsubsa](https://x.com/Gwsubsa/status/2125780053917376894) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125780053917376894/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125780053917376894?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+An exhausted knight, a slow fall from his horse, and someone there to catch him. 
+
+Trying to make the horse movement, the knights fall, and that catching moment feel like one continuous, natural cinematic scene.
+
+Created with MAGI-2 at Higgsfield.
+
+Prompt :
+Create a 15-second, 16:9 horizontal, ultra-realistic live-action medieval atmosphere film. Show one simple and emotionally clear action: an exhausted knight slowly falls from his horse, and his beloved catches him.
+QUALITY LOCK: Preserve premium photorealistic cinematic quality throughout the entire video. Detailed steel armor, realistic horse anatomy, natural fabric movement, soft diffused overcast lighting, misty atmosphere, stable anatomy, subtle film grain, realistic motion blur, and smooth professional camera movement. Do not reduce, blur, simplify, or stylize the image.
+The knight wears a complete enclosed medieval helmet throughout the entire video. The visor is fully lowered, locked, and opaque. His face, eyes, skin, and hair must never be visible. He wears scratched plate armor, chainmail, dark clothing, and a faded burgundy cape.
+The entire image uses a consistent overcast gray-blue color grade with light drizzle, pale fog, wet grass, and low contrast. No bright sunlight, no dramatic color changes.
+SHOT 1 — 0.0–3.0s
+Wide cinematic landscape shot of a misty medieval meadow with wet grass, dark red roses, bare trees, and distant Gothic ruins. The exhausted knight slowly rides a tired dark horse through the fog. The composition emphasizes the lonely atmosphere and surrounding landscape.
+SHOT 2 — 3.0–6.0s
+Side-tracking medium-wide shot following the horse walking slowly through the meadow. The knight's posture gradually becomes weaker and his upper body begins to lean slightly. His faded burgundy cape moves naturally and drags lightly across the wet grass. His fully enclosed helmet remains securely in place.
+SHOT 3 — 6.0–9.0s
+Near a ruined stone chapel, his beloved appears through the mist and walks toward the horse. The horse gradually slows and stops beside her. She gently reaches toward the knight's armored arm, preparing to support him.
+SHOT 4 — 9.0–12.0s
+The exhausted knight gradually loses his balance and slides gently from the saddle. His beloved catches and supports him, guiding his weight down carefully onto the wet grass. The movement is slow, realistic, emotionally restrained, and dignified. No sudden fall, no awkward movement, no violence.
+SHOT 5 — 12.0–15.0s
+The horse lowers its head and stands quietly close beside them. The woman cradles and supports the knight, holding his sealed helmet close against her shoulder as he rests. Pale mist slowly thickens around the three figures. The camera gently settles into a wide emotional composition. End with quiet grief and stillness.
+BACKGROUND MUSIC STYLE:
+Original slow medieval elegy, approximately 52 BPM, minor key. Felt piano, solo cello, low viola, soft sustained strings, and a distant dark harmonic texture. Very sparse opening, gradual emotional swelling, then a fragile unresolved ending. No vocals, lyrics, choir, heroic brass, trailer drums, or sudden climax.
+SOUND DESIGN:
+Wet horse hooves, light rain, wet grass movement, saddle leather, armor creaks, chainmail movement, horse breathing, quiet human breathing, and one distant church bell. Sounds should be natural, subtle, cinematic, and spatially consistent.
+STRICT NEGATIVE CONSTRAINTS:
+No dragon, battle, blood, gore, visible wounds, magic, modern objects, dialogue, text, logos, watermarks, bubble sound, water-drop sound effect, magical chime, synthetic whoosh, cartoon effect, UI sound, or digital transition sound.
+No exposed knight face, no visible eyes, no open visor, no helmet removal, no changing armor, no distorted anatomy, no extra limbs, no sudden movements, no unnatural horse movement, no abrupt cuts, no dramatic lighting changes.
+FORMAT: 16:9 horizontal landscape, 15 seconds, premium photorealistic live-action cinematic film, smooth continuous visua…
+```
+
+### 盲人剑客的黑暗民间传说动画片段
+
+[@oggii_0](https://x.com/oggii_0/status/2125791629982437711) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125791629982437711/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125791629982437711?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+A dark folklore tale where nothing is what it seems. 🌑
+
+Created with MAGI-2 at @higgsfield
+
+Prompt: Create a 15-second cinematic 2D animated dark-folklore sequence featuring a blind swordsman, a mysterious girl with a crimson umbrella, and an ancient shadow creature. Set in a rain-soaked Japanese village with hand-painted gouache textures, bold silhouettes, and a dark midnight-blue palette. The story unfolds through atmospheric camera movements, supernatural shadows, a dramatic katana strike, and an unexpected final twist. Maintain consistent characters, fluid 2D animation, and cinematic sound design throughout.
+```
+
 <a id="music-video"></a>
 
 ## 音乐视频
@@ -587,6 +644,88 @@ AUDIO
 Tiny skateboard wheel rolling, wooden tabletop rattles, blueberry impact, sharp skateboard pop, metallic spoon grind, playful doodle spark sounds, spoon creaking, milk splash, airy slow-motion whoosh, circular glass rolling sound, rising playful percussion, and a sharp transition hit at the final match cut. 
 
 #MAGI2 #Higgsfield
+```
+
+### 动画风格的曼谷夜间街头小吃摊
+
+[@studio_oneroom](https://x.com/studio_oneroom/status/2125779677528863023) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125779677528863023/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125779677528863023?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+MAGI-2、やっぱ凄いです！
+
+私はこのプロンプトで何回もバンコクの屋台の動画を生成していますけど、トップでベルでいいです。
+
+プロンプトはちゃんと効いていますし
+絵柄も綺麗に出ています。
+
+1080pだから綺麗だってのはあるでしょうけど。
+それにしても1080pでこのクオリティでこのコスト。
+
+契約者だけかもしれませんが、今、Higgsfieldで無料生成2回分もらえます。
+
+Created with MAGI-2 at Higgsfield
+
+プロンプト
+----------
+東南アジアの夜の屋台街を舞台にした青年向けアニメ映画の傑作。
+手描きセルアニメ、シャープで精密な線、彩度を抑えたティール＆グレーのカラーグレーディング、深いシャドウ、細かいフィルムグレイン。
+BGMなし、セリフなし、環境音あり。
+フルサイズ換算24mm F1.4の広角レンズで撮ったような浅い被写界深度とボケ感。手前の前ボケは大きく柔らかく、背景は自然に溶ける。
+# 制約
+すべてのカットで画角・アングル・焦点距離を変えて単調にしない。
+画質が粗い場合はリファレンスとして画像を一から作り直すこと。
+汗は常に微細な小さい粒。大きな雫は描かない代わりに、肌全体が薄い艶の膜をまとって光る。
+# 登場人物
+## 店主の女性 
+@Image1
+20代前半のタイ人女性。褐色の日焼けした肌、黒髪を低い位置でお団子にまとめ後れ毛が頬にかかる。落ち着いた集中した表情。薄いグレーのタンクトップ一枚だけを素肌に着ており、屋台の熱気の汗で湿った薄い布が体の自然な線に素直に沿っている。下はデニムのショートパンツ。エプロンはしていない。引き締まった腕、微細な汗で薄く光る首筋と鎖骨。
+# 情景
+夜のバンコクの屋台街。露店が軒を連ね、それぞれの裸電球が暖色の光の玉を作り、湯気が立ちのぼる。彼女のカオマンガイ屋台のガラスケースには黄金色の茹で鶏が鉄フックで吊られ、大鍋からは常に湯気が立つ。カウンターの下には食材の入ったカゴが並ぶ下段の棚がある。周囲には古びたショップハウス、絡み合う電線、ネオン看板、人波。
+位置関係：カメラは基本的に通り側から屋台を見る。彼女はカウンターの奥。屋台の正面の通りを人とトゥクトゥクが行き交う。
+料理の定義：カオマンガイの皿に載るのは、艶のあるライス、骨のない鶏むね肉の薄いスライス、きゅうりの薄切り、仕上げに飾るパクチーの葉一枝だけ。タレは親指ほどの小さな容器ひとつで別添え。
+照明：主光源は屋台の裸電球ひとつ。暖色の光が彼女の肌と手元を照らし、周囲の街は冷たいティールブルーの夜に沈む。
+奥行き構成：前景・中景・遠景を明確に分離すること。前景に通行人・湯気・ガラスケースの縁、中景に彼女と屋台、遠景に街のネオンのボケ。
+# シーン
+夜市の熱気の中で働く女性の肌の質感と、一皿のカオマンガイができるまでの調理を交互に描く。しゃがんで取ったパクチーが、最後に完成した皿に飾られる。
+cut1:
+Bロール。夜の屋台街の情景。軒を連ねる露店の裸電球が暖色の光の列を作り、あちこちの鍋から湯気が立ちのぼる。手前を通行人のシルエットが大きくボケて横切り、奥のネオンと電線が夜に沈む。
+環境音：屋台街全体のざわめき、遠い調理の音。
+cut2:
+バストショット、斜め横から。彼女が手の甲で額を軽く拭う。微細な汗が肌に薄い艶の膜として光り、タンクトップの胸元と鎖骨のラインに電球の光が落ちる。湯気が肌の前を薄く流れる。
+環境音：屋台の喧騒、油と湯気の音。
+cut3:
+首筋から鎖骨のエクストリームクローズアップ。カメラと彼女の間、屋台の正面の通りをトゥクトゥクが右から左へ走り抜け、ヘッドライトの光が一閃、首筋と鎖骨に散った無数の微細な汗の粒をきらめかせて通り過ぎる。
+環境音：甲高いエンジン音が迫って抜ける。
+cut4:
+ガラスケース越しの手元クローズアップ。手前に吊るされた黄金色の茹で鶏が大きくボケて画面の右1/3を占め、その隙間の奥にシャープなフォーカスで、包丁が骨のない鶏むね肉をトントンと一定のリズムで薄切りにしていく。
+環境音：包丁がまな板を叩くリズミカルな音。
+cut5:
+超ローポジション、地面スレスレのインサート。夜市の濡れた路面、屋台の灯りが反射する中を、サンダルの足元が前カットの包丁と同じリズムで次々と画面を横切っていく。奥にはボケた屋台の光の列。
+環境音：ぺたぺたと刻まれる足音、雑踏。
+cut6:
+真上からの俯瞰、手元。前カットと同じリズムで、包丁がきゅうりを斜めの薄切りにスッスッと刻む。瑞々しい緑の断面がまな板に扇状に広がっていく。
+環境音：きゅうりを切る軽快な音。
+cut7:
+通り側の低いカメラ位置、額縁構図。彼女がカウンターの奥でしゃがみ込むと、カウンター下の棚の隙間越しに、俯いた顔と汗ばんだ胸元がのぞく。下段のカゴからパクチーの束を掴む。手前の棚の縁が画面を額縁のように区切る。
+環境音：カゴが擦れる音、くぐもった雑踏。
+cut8:
+ローアングル。パクチーの束を手に立ち上がる彼女を、カメラが下からティルトアップで追う。ショートパンツの太ももから腰、湿ったタンクトップ、微細な汗で光る鎖骨、そして顔へと順に光が移っていく。
+環境音：屋台の喧騒が戻る。
+cut9:
+ローアングルのバストショット、やや逆光。背景は夜空と絡み合う電線、頭上の裸電球。彼女が金属のコップの氷水をぐっと呷る。喉が動き、電球の光が顎から首筋のラインを縁取る。コップの結露が指を濡らす。
+環境音：氷がコップの中で鳴る音。
+cut10:
+Bロール。ローアングルの屋台街の情景。連なる露店の庇と裸電球の列を見上げる構図。電球の光の中を湯気が横切り、その上に絡み合う電線とネオン看板、ティールブルーの夜空。
+環境音：ざわめき、どこかの鍋の煮立つ音。
+cut11:
+真上からの俯瞰。白い平皿に盛られた艶のあるライスの上に、骨のない鶏むね肉の薄いスライスだけが扇状に並べられていく。皿の上にはライスとスライスした鶏のみ。
+環境音：鶏をライスに載せる微かな音。
+cut12:
+手元のクローズアップ。皿の縁に沿ってきゅうりの薄切りを並べ、親指ほどの小さなタレの容器をひとつだけ横に添え、最後にパクチーの葉を一枝そっと載せる。
+環境音：小さな容器が皿に触れる音。
+cut13:
+仕上げのミディアムショット。湯気がレンズ前を大きく横切り、その向こうで彼女が完成した皿をカウンターにそっと置く。裸電球の光が皿の湯気と、彼女の首筋から鎖骨のラインを縁取る。背景に電線とネオンの夜がボケて広がる。
+環境音：皿がカウンターに置かれる音、街のざわめき。
 ```
 
 <a id="action"></a>
@@ -930,4 +1069,12 @@ MAGI-2 t2v prompt: she has eleven butts
 而且价格是真便宜，才0.05元/秒，是Seedance 2.5的1/10。
 
 人物角色和提示词如下：
+```
+
+### 基于表情符号的文生视频测试
+
+[@mann_hodge](https://x.com/mann_hodge/status/2125787951372329151) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125787951372329151/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125787951372329151?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+MAGI-2 t2v prompt: 🫠🤮👧 while 🤡🤜🤖
 ```

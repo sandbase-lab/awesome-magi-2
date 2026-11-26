@@ -265,7 +265,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125354482565280090/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125354482565280090/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125354482565280090"
  },
@@ -699,7 +699,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125442556008014168/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125442556008014168/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125442556008014168"
  },
@@ -1423,7 +1423,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125522773258952776/video.mp4",
   "promptShared": true,
   "promptText": "A Father's Little Chef 😂❤️\n\nMade it using MAGI-2 on @higgsfield\n\n#HiggsfieldPartner\n\nPrompt:\n\nCreate a heartwarming, hilarious, ultra-realistic Japanese-style 3D animated family comedy in vertical 16:9 format.\n\nA cute 3-year-old Japanese girl with short black bobbed hair, chubby cheeks, sparkling eyes, and pink pajamas decides to surprise her father with breakfast.\n\nWearing an oversized chef hat, she struggles to prepare pancakes in the kitchen. She accidentally spills flour everywhere, gets chocolate on her face, and finally serves her father a funny-looking, slightly burnt pancake.\n\n🎙️ Girl: \"Papa! I made this for you!\"\n\nHer father takes a bite, struggles to hide his reaction, and says, \"Delicious!\"\n\nThe little girl notices his watery eyes and innocently asks, \"Papa, are you crying because it's so yummy?\"\n\nThe mother walks in, tastes the pancake, and bursts into laughter. The father hugs his little daughter and kisses her forehead.\n\nFinal Shot: The little girl proudly poses like a professional chef while her parents laugh.\n\nStyle: High-end Japanese 3D animation, adorable characters, expressive faces, realistic movements, warm lighting, cinematic camera angles, funny sound effects, natural Japanese dialogue, and heartwarming family moments.\n\nConsistency: Maintain identical characters, clothing, facial features, and kitchen throughout.\n\nNegative: No distorted faces, extra fingers, flickering, scene jumps, subtitles, text, or watermark.",
-  "featured": null,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125522773258952776/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125522773258952776"
  },
@@ -2316,7 +2316,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125650088341246435/video.mp4",
   "promptShared": true,
   "promptText": "Skating through NYC with my little furry sidekick! 🛹🐱 Two besties, endless adventures! \n\nMade using MAGI-2 on @higgsfield\n\n#HiggsfieldPartner\n\nPrompt :\n\nCreate a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source; preserve her face, hairstyle, skin tone and body proportions throughout every shot.\n\nShe wears a sporty red-and-white skirt with integrated shorts, a fitted white top with red detailing, dark blue Nike sneakers, a beige \"Cool\" cap, dark blue backpack, black digital watch and headphones around her neck.\n\nInclude the same cute small ginger-and-white fluffy cat with amber eyes, maintaining realistic house-cat proportions at the girl's shin/lower-calf height. Keep both characters visually consistent throughout the sequence.\n\nSet the entire story across a vibrant, bustling New York City, featuring Times Square, Broadway, Manhattan skyscrapers, Brooklyn Bridge, yellow NYC taxis, subway entrances, brick buildings, street vendors, traffic lights, graffiti-covered walls and crowded sidewalks.\n\nThe girl aggressively skateboards through the streets of Manhattan at extreme speed while the cat races alongside her, naturally weaving between pedestrians, taxis and street obstacles without falling behind.\n\nUse dynamic low ground-level chase-cam cinematography, fast tracking shots, aggressive whip-pans, punchy hard cuts, wheel-level close-ups and subtle handheld micro-shake.\n\nShe races through Times Square, dodging yellow taxis and crossing pedestrians. As she passes a busy street coffee cart, she reaches out and grabs a takeaway coffee without slowing down. She takes a quick sip while maintaining perfect balance on her skateboard, then casually flicks the empty cup into a nearby trash bin as she speeds away.\n\nThe cat follows closely, jumping over a small street obstacle and landing smoothly beside her.\n\nShe suddenly spots a graffiti-covered wall near a narrow alley. Without hesitation, she accelerates, rides up the wall and performs an explosive skateboard wall jump. The cat leaps beside her in perfect synchronization. Both land together and immediately continue at full speed.\n\nCut seamlessly to Brooklyn Bridge. The girl races along the pedestrian-side pathway, weaving past cyclists and tourists, with the Manhattan skyline and East River visible in the background. Use dramatic sweeping camera movements and dynamic aerial tracking shots.\n\nShe launches her skateboard over a series of street obstacles, performs a stylish mid-air kickflip, lands smoothly and continues toward the waterfront.\n\nTransition into an industrial Brooklyn area featuring elevated subway tracks, steel bridges, warehouses, construction zones, rooftop structures and graffiti-covered tunnels.\n\nShe ollies onto a low industrial rail, grinds across it, crouches beneath a steel bridge and races alongside a passing subway train. The cat keeps pace beside her, jumping over obstacles with impressive agility.\n\nAs the subway train pulls away, she accelerates toward an elevated steel platform and launches into an enormous synchronized jump with the cat.\n\nFinal shot: Both characters leap from the elevated structure into a street-level parking area, performing a spectacular synchronized mid-air trick before landing smoothly. The girl continues riding forward while the cat runs beside her. End with a dramatic low-angle tracking shot revealing the New York skyline in the distance.\n\nMaintain premium anime-game splash-art quality, clean linework, painterly cel-shading, crisp character rendering, expressive animation, cinematic New York lighting, dynamic anime speed lines and fluid movement.\n\nAudio: Natural New York street ambience, skateboard wheels rolling, trucks grinding against rails, passing taxis, subway rumbling, city crowds and wind rushing during jumps. No background music.",
-  "featured": 3,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125650088341246435/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125650088341246435"
  },
@@ -2448,24 +2448,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125669949998088508/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125669949998088508"
- },
- {
-  "id": "2125670720244228469",
-  "title": "A cinematic spy action scene with an umbrella",
-  "title_zh": "带有雨伞的电影感间谍动作场景",
-  "category": "short-film",
-  "author": {
-   "handle": "Gwsubsa",
-   "name": "yopiwhs"
-  },
-  "postUrl": "https://x.com/Gwsubsa/status/2125670720244228469",
-  "createdAt": "2026-11-25T19:19:27.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125670720244228469/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125670720244228469/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125670720244228469"
  },
  {
   "id": "2125671585151684926",
@@ -3337,6 +3319,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125722448368951719"
  },
  {
+  "id": "2125724109849985037",
+  "title": "A dragon flying without a parachute",
+  "title_zh": "一条无需降落伞的飞龙",
+  "category": "short-film",
+  "author": {
+   "handle": "minuitIA",
+   "name": "Minuit"
+  },
+  "postUrl": "https://x.com/minuitIA/status/2125724109849985037",
+  "createdAt": "2026-11-25T22:51:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125724109849985037/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125724109849985037/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125724109849985037"
+ },
+ {
   "id": "2125724918524350666",
   "title": "A cinematic ride captured by AI",
   "title_zh": "AI创作的电影感骑行画面",
@@ -3569,6 +3569,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125733316347478258/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125733316347478258"
+ },
+ {
+  "id": "2125734852892971387",
+  "title": "Demonstration of MAGI-2 model prompt adherence",
+  "title_zh": "MAGI-2模型的提示词遵循能力演示",
+  "category": "showcase",
+  "author": {
+   "handle": "themeloart",
+   "name": "melo"
+  },
+  "postUrl": "https://x.com/themeloart/status/2125734852892971387",
+  "createdAt": "2026-11-25T23:34:17.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125734852892971387/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125734852892971387/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125734852892971387"
  },
  {
   "id": "2125735030894768523",
@@ -4333,6 +4351,25 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125775312864842233"
  },
  {
+  "id": "2125775505878393082",
+  "title": "Selene standing in the rain at night",
+  "title_zh": "雨夜中伫立的塞勒涅",
+  "category": "short-film",
+  "author": {
+   "handle": "Maxime887812",
+   "name": "Maxime"
+  },
+  "postUrl": "https://x.com/Maxime887812/status/2125775505878393082",
+  "createdAt": "2026-11-26T02:15:50.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125775505878393082/video.mp4",
+  "promptShared": true,
+  "promptText": "Created with MAGI-2 at Higgsfield\nSelene in the rain, one take from MAGI-2. I asked for a slow push-in with rain beading on her coat and neon reflecting in her eyes, and the generated sound came with it: rain, city hum and a distant siren, no editing needed.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125775505878393082/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125775505878393082"
+ },
+ {
   "id": "2125775625797632020",
   "title": "Fast choreography sequence testing physical motion and weight",
   "title_zh": "测试身体重量与动作节奏的快速编排",
@@ -4368,5 +4405,315 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125776505397711336/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125776505397711336"
+ },
+ {
+  "id": "2125777471098535956",
+  "title": "Financial motion graphics using MAGI-2 model",
+  "title_zh": "使用MAGI-2模型制作金融动态图形",
+  "category": "showcase",
+  "author": {
+   "handle": "CHIBIKURO_QnQ",
+   "name": "チビクロ🍀四刀流AI錬金術士"
+  },
+  "postUrl": "https://x.com/CHIBIKURO_QnQ/status/2125777471098535956",
+  "createdAt": "2026-11-26T02:23:38.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125777471098535956/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125777471098535956/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125777471098535956"
+ },
+ {
+  "id": "2125778594903507200",
+  "title": "Cinematic teaser featuring a mechanical dragon",
+  "title_zh": "包含机械龙的电影感预告片",
+  "category": "short-film",
+  "author": {
+   "handle": "YaReYaRu30Life",
+   "name": "ヤレヤル（AI動画/AI画像/AI音楽）"
+  },
+  "postUrl": "https://x.com/YaReYaRu30Life/status/2125778594903507200",
+  "createdAt": "2026-11-26T02:28:06.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125778594903507200/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125778594903507200/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125778594903507200"
+ },
+ {
+  "id": "2125779650119159838",
+  "title": "A cyber battle in a back alley",
+  "title_zh": "巷弄深处的赛博朋克战斗",
+  "category": "action",
+  "author": {
+   "handle": "mi7_crypto",
+   "name": "M7［mi7］AI"
+  },
+  "postUrl": "https://x.com/mi7_crypto/status/2125779650119159838",
+  "createdAt": "2026-11-26T02:32:18.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125779650119159838/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125779650119159838/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125779650119159838"
+ },
+ {
+  "id": "2125779677528863023",
+  "title": "Anime style Bangkok night street food market",
+  "title_zh": "动画风格的曼谷夜间街头小吃摊",
+  "category": "anime",
+  "author": {
+   "handle": "studio_oneroom",
+   "name": "AIスタジオワンルーム（AIアニメ、動画、漫画）"
+  },
+  "postUrl": "https://x.com/studio_oneroom/status/2125779677528863023",
+  "createdAt": "2026-11-26T02:32:24.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125779677528863023/video.mp4",
+  "promptShared": true,
+  "promptText": "MAGI-2、やっぱ凄いです！\n\n私はこのプロンプトで何回もバンコクの屋台の動画を生成していますけど、トップでベルでいいです。\n\nプロンプトはちゃんと効いていますし\n絵柄も綺麗に出ています。\n\n1080pだから綺麗だってのはあるでしょうけど。\nそれにしても1080pでこのクオリティでこのコスト。\n\n契約者だけかもしれませんが、今、Higgsfieldで無料生成2回分もらえます。\n\nCreated with MAGI-2 at Higgsfield\n\nプロンプト\n----------\n東南アジアの夜の屋台街を舞台にした青年向けアニメ映画の傑作。\n手描きセルアニメ、シャープで精密な線、彩度を抑えたティール＆グレーのカラーグレーディング、深いシャドウ、細かいフィルムグレイン。\nBGMなし、セリフなし、環境音あり。\nフルサイズ換算24mm F1.4の広角レンズで撮ったような浅い被写界深度とボケ感。手前の前ボケは大きく柔らかく、背景は自然に溶ける。\n# 制約\nすべてのカットで画角・アングル・焦点距離を変えて単調にしない。\n画質が粗い場合はリファレンスとして画像を一から作り直すこと。\n汗は常に微細な小さい粒。大きな雫は描かない代わりに、肌全体が薄い艶の膜をまとって光る。\n# 登場人物\n## 店主の女性 \n@Image1\n20代前半のタイ人女性。褐色の日焼けした肌、黒髪を低い位置でお団子にまとめ後れ毛が頬にかかる。落ち着いた集中した表情。薄いグレーのタンクトップ一枚だけを素肌に着ており、屋台の熱気の汗で湿った薄い布が体の自然な線に素直に沿っている。下はデニムのショートパンツ。エプロンはしていない。引き締まった腕、微細な汗で薄く光る首筋と鎖骨。\n# 情景\n夜のバンコクの屋台街。露店が軒を連ね、それぞれの裸電球が暖色の光の玉を作り、湯気が立ちのぼる。彼女のカオマンガイ屋台のガラスケースには黄金色の茹で鶏が鉄フックで吊られ、大鍋からは常に湯気が立つ。カウンターの下には食材の入ったカゴが並ぶ下段の棚がある。周囲には古びたショップハウス、絡み合う電線、ネオン看板、人波。\n位置関係：カメラは基本的に通り側から屋台を見る。彼女はカウンターの奥。屋台の正面の通りを人とトゥクトゥクが行き交う。\n料理の定義：カオマンガイの皿に載るのは、艶のあるライス、骨のない鶏むね肉の薄いスライス、きゅうりの薄切り、仕上げに飾るパクチーの葉一枝だけ。タレは親指ほどの小さな容器ひとつで別添え。\n照明：主光源は屋台の裸電球ひとつ。暖色の光が彼女の肌と手元を照らし、周囲の街は冷たいティールブルーの夜に沈む。\n奥行き構成：前景・中景・遠景を明確に分離すること。前景に通行人・湯気・ガラスケースの縁、中景に彼女と屋台、遠景に街のネオンのボケ。\n# シーン\n夜市の熱気の中で働く女性の肌の質感と、一皿のカオマンガイができるまでの調理を交互に描く。しゃがんで取ったパクチーが、最後に完成した皿に飾られる。\ncut1:\nBロール。夜の屋台街の情景。軒を連ねる露店の裸電球が暖色の光の列を作り、あちこちの鍋から湯気が立ちのぼる。手前を通行人のシルエットが大きくボケて横切り、奥のネオンと電線が夜に沈む。\n環境音：屋台街全体のざわめき、遠い調理の音。\ncut2:\nバストショット、斜め横から。彼女が手の甲で額を軽く拭う。微細な汗が肌に薄い艶の膜として光り、タンクトップの胸元と鎖骨のラインに電球の光が落ちる。湯気が肌の前を薄く流れる。\n環境音：屋台の喧騒、油と湯気の音。\ncut3:\n首筋から鎖骨のエクストリームクローズアップ。カメラと彼女の間、屋台の正面の通りをトゥクトゥクが右から左へ走り抜け、ヘッドライトの光が一閃、首筋と鎖骨に散った無数の微細な汗の粒をきらめかせて通り過ぎる。\n環境音：甲高いエンジン音が迫って抜ける。\ncut4:\nガラスケース越しの手元クローズアップ。手前に吊るされた黄金色の茹で鶏が大きくボケて画面の右1/3を占め、その隙間の奥にシャープなフォーカスで、包丁が骨のない鶏むね肉をトントンと一定のリズムで薄切りにしていく。\n環境音：包丁がまな板を叩くリズミカルな音。\ncut5:\n超ローポジション、地面スレスレのインサート。夜市の濡れた路面、屋台の灯りが反射する中を、サンダルの足元が前カットの包丁と同じリズムで次々と画面を横切っていく。奥にはボケた屋台の光の列。\n環境音：ぺたぺたと刻まれる足音、雑踏。\ncut6:\n真上からの俯瞰、手元。前カットと同じリズムで、包丁がきゅうりを斜めの薄切りにスッスッと刻む。瑞々しい緑の断面がまな板に扇状に広がっていく。\n環境音：きゅうりを切る軽快な音。\ncut7:\n通り側の低いカメラ位置、額縁構図。彼女がカウンターの奥でしゃがみ込むと、カウンター下の棚の隙間越しに、俯いた顔と汗ばんだ胸元がのぞく。下段のカゴからパクチーの束を掴む。手前の棚の縁が画面を額縁のように区切る。\n環境音：カゴが擦れる音、くぐもった雑踏。\ncut8:\nローアングル。パクチーの束を手に立ち上がる彼女を、カメラが下からティルトアップで追う。ショートパンツの太ももから腰、湿ったタンクトップ、微細な汗で光る鎖骨、そして顔へと順に光が移っていく。\n環境音：屋台の喧騒が戻る。\ncut9:\nローアングルのバストショット、やや逆光。背景は夜空と絡み合う電線、頭上の裸電球。彼女が金属のコップの氷水をぐっと呷る。喉が動き、電球の光が顎から首筋のラインを縁取る。コップの結露が指を濡らす。\n環境音：氷がコップの中で鳴る音。\ncut10:\nBロール。ローアングルの屋台街の情景。連なる露店の庇と裸電球の列を見上げる構図。電球の光の中を湯気が横切り、その上に絡み合う電線とネオン看板、ティールブルーの夜空。\n環境音：ざわめき、どこかの鍋の煮立つ音。\ncut11:\n真上からの俯瞰。白い平皿に盛られた艶のあるライスの上に、骨のない鶏むね肉の薄いスライスだけが扇状に並べられていく。皿の上にはライスとスライスした鶏のみ。\n環境音：鶏をライスに載せる微かな音。\ncut12:\n手元のクローズアップ。皿の縁に沿ってきゅうりの薄切りを並べ、親指ほどの小さなタレの容器をひとつだけ横に添え、最後にパクチーの葉を一枝そっと載せる。\n環境音：小さな容器が皿に触れる音。\ncut13:\n仕上げのミディアムショット。湯気がレンズ前を大きく横切り、その向こうで彼女が完成した皿をカウンターにそっと置く。裸電球の光が皿の湯気と、彼女の首筋から鎖骨のラインを縁取る。背景に電線とネオンの夜がボケて広がる。\n環境音：皿がカウンターに置かれる音、街のざわめき。",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125779677528863023/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125779677528863023"
+ },
+ {
+  "id": "2125780053917376894",
+  "title": "Knight falling from horse and being caught",
+  "title_zh": "骑士从马上坠落并被接住的场景",
+  "category": "short-film",
+  "author": {
+   "handle": "Gwsubsa",
+   "name": "yopiwhs"
+  },
+  "postUrl": "https://x.com/Gwsubsa/status/2125780053917376894",
+  "createdAt": "2026-11-26T02:33:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125780053917376894/video.mp4",
+  "promptShared": true,
+  "promptText": "An exhausted knight, a slow fall from his horse, and someone there to catch him. \n\nTrying to make the horse movement, the knights fall, and that catching moment feel like one continuous, natural cinematic scene.\n\nCreated with MAGI-2 at Higgsfield.\n\nPrompt :\nCreate a 15-second, 16:9 horizontal, ultra-realistic live-action medieval atmosphere film. Show one simple and emotionally clear action: an exhausted knight slowly falls from his horse, and his beloved catches him.\nQUALITY LOCK: Preserve premium photorealistic cinematic quality throughout the entire video. Detailed steel armor, realistic horse anatomy, natural fabric movement, soft diffused overcast lighting, misty atmosphere, stable anatomy, subtle film grain, realistic motion blur, and smooth professional camera movement. Do not reduce, blur, simplify, or stylize the image.\nThe knight wears a complete enclosed medieval helmet throughout the entire video. The visor is fully lowered, locked, and opaque. His face, eyes, skin, and hair must never be visible. He wears scratched plate armor, chainmail, dark clothing, and a faded burgundy cape.\nThe entire image uses a consistent overcast gray-blue color grade with light drizzle, pale fog, wet grass, and low contrast. No bright sunlight, no dramatic color changes.\nSHOT 1 — 0.0–3.0s\nWide cinematic landscape shot of a misty medieval meadow with wet grass, dark red roses, bare trees, and distant Gothic ruins. The exhausted knight slowly rides a tired dark horse through the fog. The composition emphasizes the lonely atmosphere and surrounding landscape.\nSHOT 2 — 3.0–6.0s\nSide-tracking medium-wide shot following the horse walking slowly through the meadow. The knight's posture gradually becomes weaker and his upper body begins to lean slightly. His faded burgundy cape moves naturally and drags lightly across the wet grass. His fully enclosed helmet remains securely in place.\nSHOT 3 — 6.0–9.0s\nNear a ruined stone chapel, his beloved appears through the mist and walks toward the horse. The horse gradually slows and stops beside her. She gently reaches toward the knight's armored arm, preparing to support him.\nSHOT 4 — 9.0–12.0s\nThe exhausted knight gradually loses his balance and slides gently from the saddle. His beloved catches and supports him, guiding his weight down carefully onto the wet grass. The movement is slow, realistic, emotionally restrained, and dignified. No sudden fall, no awkward movement, no violence.\nSHOT 5 — 12.0–15.0s\nThe horse lowers its head and stands quietly close beside them. The woman cradles and supports the knight, holding his sealed helmet close against her shoulder as he rests. Pale mist slowly thickens around the three figures. The camera gently settles into a wide emotional composition. End with quiet grief and stillness.\nBACKGROUND MUSIC STYLE:\nOriginal slow medieval elegy, approximately 52 BPM, minor key. Felt piano, solo cello, low viola, soft sustained strings, and a distant dark harmonic texture. Very sparse opening, gradual emotional swelling, then a fragile unresolved ending. No vocals, lyrics, choir, heroic brass, trailer drums, or sudden climax.\nSOUND DESIGN:\nWet horse hooves, light rain, wet grass movement, saddle leather, armor creaks, chainmail movement, horse breathing, quiet human breathing, and one distant church bell. Sounds should be natural, subtle, cinematic, and spatially consistent.\nSTRICT NEGATIVE CONSTRAINTS:\nNo dragon, battle, blood, gore, visible wounds, magic, modern objects, dialogue, text, logos, watermarks, bubble sound, water-drop sound effect, magical chime, synthetic whoosh, cartoon effect, UI sound, or digital transition sound.\nNo exposed knight face, no visible eyes, no open visor, no helmet removal, no changing armor, no distorted anatomy, no extra limbs, no sudden movements, no unnatural horse movement, no abrupt cuts, no dramatic lighting changes.\nFORMAT: 16:9 horizontal landscape, 15 seconds, premium photorealistic live-action cinematic film, smooth continuous visua…",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125780053917376894/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125780053917376894"
+ },
+ {
+  "id": "2125781724592558544",
+  "title": "Zombies and a character eating korean bun",
+  "title_zh": "丧尸与吃韩式包子的角色",
+  "category": "short-film",
+  "author": {
+   "handle": "checheluna3",
+   "name": "LunaKim𓆩🩷𓆪"
+  },
+  "postUrl": "https://x.com/checheluna3/status/2125781724592558544",
+  "createdAt": "2026-11-26T02:40:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125781724592558544/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125781724592558544/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125781724592558544"
+ },
+ {
+  "id": "2125782957831127463",
+  "title": "Famous figures sightseeing in New York City",
+  "title_zh": "历史名人共同游览纽约市",
+  "category": "short-film",
+  "author": {
+   "handle": "kantakanta1233",
+   "name": "Risa"
+  },
+  "postUrl": "https://x.com/kantakanta1233/status/2125782957831127463",
+  "createdAt": "2026-11-26T02:45:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125782957831127463/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125782957831127463/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125782957831127463"
+ },
+ {
+  "id": "2125782995969978771",
+  "title": "Anime character sheet transformation using MAGI-2",
+  "title_zh": "使用MAGI-2将角色立绘转换为动画",
+  "category": "anime",
+  "author": {
+   "handle": "Naonekozamurai",
+   "name": "なお｜AI動画・AI音楽"
+  },
+  "postUrl": "https://x.com/Naonekozamurai/status/2125782995969978771",
+  "createdAt": "2026-11-26T02:45:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125782995969978771/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125782995969978771/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125782995969978771"
+ },
+ {
+  "id": "2125784622084784309",
+  "title": "Anime character making eye contact and talking",
+  "title_zh": "眼神对视并开口说话的动漫角色",
+  "category": "anime",
+  "author": {
+   "handle": "neco1751662",
+   "name": "neco - AI Anime"
+  },
+  "postUrl": "https://x.com/neco1751662/status/2125784622084784309",
+  "createdAt": "2026-11-26T02:52:03.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125784622084784309/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125784622084784309/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125784622084784309"
+ },
+ {
+  "id": "2125786637858660457",
+  "title": "Creating animation workflows using Higgsfield MAGI-2",
+  "title_zh": "使用Higgsfield MAGI-2创建动画工作流",
+  "category": "showcase",
+  "author": {
+   "handle": "musitsune",
+   "name": "ツネ | Tsune | AI Anime"
+  },
+  "postUrl": "https://x.com/musitsune/status/2125786637858660457",
+  "createdAt": "2026-11-26T03:00:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125786637858660457/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125786637858660457/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125786637858660457"
+ },
+ {
+  "id": "2125786890880307546",
+  "title": "Futuristic city emerging from a cup of coffee",
+  "title_zh": "从一杯咖啡中诞生的未来都市",
+  "category": "showcase",
+  "author": {
+   "handle": "tkz_aiart",
+   "name": "たくぞー｜AI動画ツール実測レビュー"
+  },
+  "postUrl": "https://x.com/tkz_aiart/status/2125786890880307546",
+  "createdAt": "2026-11-26T03:01:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125786890880307546/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125786890880307546/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125786890880307546"
+ },
+ {
+  "id": "2125787035004768348",
+  "title": "Testing sharp 1080p video generation",
+  "title_zh": "测试高质量清晰视频生成",
+  "category": "showcase",
+  "author": {
+   "handle": "daimajinart",
+   "name": "Daimajin大魔神"
+  },
+  "postUrl": "https://x.com/daimajinart/status/2125787035004768348",
+  "createdAt": "2026-11-26T03:01:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125787035004768348/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125787035004768348/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125787035004768348"
+ },
+ {
+  "id": "2125787327113105863",
+  "title": "A snowboarder character moving in snow",
+  "title_zh": "雪地中滑行的单板滑雪角色",
+  "category": "short-film",
+  "author": {
+   "handle": "tsukuyomi2021",
+   "name": "月詠〜ツクヨミ〜"
+  },
+  "postUrl": "https://x.com/tsukuyomi2021/status/2125787327113105863",
+  "createdAt": "2026-11-26T03:02:48.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125787327113105863/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125787327113105863/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125787327113105863"
+ },
+ {
+  "id": "2125787951372329151",
+  "title": "Emoji based text to video test",
+  "title_zh": "基于表情符号的文生视频测试",
+  "category": "showcase",
+  "author": {
+   "handle": "mann_hodge",
+   "name": "Ȟ̞̲̥̺͔ͬö͈̩̟̱̺̖ͅdͫg̎̊e̲̗̞͓̰͎ M̌a̹̤̻̠ṉ̠̦̦̘̼ͦnͤ̾"
+  },
+  "postUrl": "https://x.com/mann_hodge/status/2125787951372329151",
+  "createdAt": "2026-11-26T03:05:17.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125787951372329151/video.mp4",
+  "promptShared": true,
+  "promptText": "MAGI-2 t2v prompt: 🫠🤮👧 while 🤡🤜🤖",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125787951372329151/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125787951372329151"
+ },
+ {
+  "id": "2125789075776913453",
+  "title": "Robot watering a flower in the rain",
+  "title_zh": "机器人雨中浇花的感人动画",
+  "category": "short-film",
+  "author": {
+   "handle": "sebatheepan",
+   "name": "Pan"
+  },
+  "postUrl": "https://x.com/sebatheepan/status/2125789075776913453",
+  "createdAt": "2026-11-26T03:09:45.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125789075776913453/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125789075776913453/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125789075776913453"
+ },
+ {
+  "id": "2125790406600450103",
+  "title": "Characters discussing on the seashore",
+  "title_zh": "角色在海边讨论应对方案",
+  "category": "short-film",
+  "author": {
+   "handle": "dave392750",
+   "name": "楽園｜AI動画&AI音楽"
+  },
+  "postUrl": "https://x.com/dave392750/status/2125790406600450103",
+  "createdAt": "2026-11-26T03:15:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125790406600450103/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125790406600450103/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125790406600450103"
+ },
+ {
+  "id": "2125791629982437711",
+  "title": "Dark folklore sequence with blind swordsman",
+  "title_zh": "盲人剑客的黑暗民间传说动画片段",
+  "category": "short-film",
+  "author": {
+   "handle": "oggii_0",
+   "name": "Oogie"
+  },
+  "postUrl": "https://x.com/oggii_0/status/2125791629982437711",
+  "createdAt": "2026-11-26T03:19:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125791629982437711/video.mp4",
+  "promptShared": true,
+  "promptText": "A dark folklore tale where nothing is what it seems. 🌑\n\nCreated with MAGI-2 at @higgsfield\n\nPrompt: Create a 15-second cinematic 2D animated dark-folklore sequence featuring a blind swordsman, a mysterious girl with a crimson umbrella, and an ancient shadow creature. Set in a rain-soaked Japanese village with hand-painted gouache textures, bold silhouettes, and a dark midnight-blue palette. The story unfolds through atmospheric camera movements, supernatural shadows, a dramatic katana strike, and an unexpected final twist. Maintain consistent characters, fluid 2D animation, and cinematic sound design throughout.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125791629982437711/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125791629982437711"
  }
 ]
