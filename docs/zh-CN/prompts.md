@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 27 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
+共 32 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的帖子把提示词放在回复里，或放在外部链接中，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
-- [短片](#short-film) (3)
+- [短片](#short-film) (6)
 - [音乐视频](#music-video) (1)
-- [动画](#anime) (4)
-- [动作](#action) (7)
+- [动画](#anime) (5)
+- [动作](#action) (6)
 - [广告](#ad) (2)
 - [测试对比](#comparison) (6)
-- [模型展示](#showcase) (4)
+- [模型展示](#showcase) (6)
 
 <a id="short-film"></a>
 
@@ -118,6 +118,266 @@ Family 3D animation
 
 AI animation space got a serious contender 
 Created with MAGI-2 on Higgsfield
+```
+
+### 守护感恩节秘密食谱的祖母
+
+[@airina_xyz](https://x.com/airina_xyz/status/2125756210079318458) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125756210079318458/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125756210079318458?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Grandma protects her Thanksgiving recipe like classified information.
+
+I wanted to explore cinematic genre control, suspenseful editing, consistent props and understated comedic performances.
+
+Created with MAGI-2 at Higgsfield.
+
+Prompt:
+
+20-second cinematic espionage comedy. An original elderly grandmother with silver hair, oversized spectacles and a burgundy cardigan treats her secret Thanksgiving stuffing recipe as a highly classified document. Cozy vintage kitchen, dramatic shadows, warm autumn colors and intensely serious acting.
+00:00–00:02: Extreme close-up of a small brass key turning inside a locked kitchen drawer.
+00:02–00:04: Grandma cautiously examines the hallway before opening the drawer.
+00:04–00:06: Macro shot of her removing a weathered handwritten recipe card.
+00:06–00:08: Low-angle shot of her suspiciously closing the kitchen curtains.
+00:08–00:10: Overhead shot of her measuring a secret combination of herbs.
+00:10–00:12: Close-up of her granddaughter quietly approaching the kitchen doorway.
+00:12–00:14: Grandma immediately hides the recipe card beneath her apron.
+00:14–00:17: The granddaughter asks, "Can I have the recipe?"
+00:17–00:20: Grandma leans closer and whispers, "Nice try."
+Maintain consistent characters, recipe-card appearance and kitchen layout. Dramatic spy-thriller lighting, subtle facial acting, precise hand movements and sharp reaction cuts. SFX: key turning, drawer opening, footsteps, rustling paper and synchronized dialogue. No music.
+```
+
+### 无底洞中与神秘女子的第一人称邂逅
+
+[@john87445528](https://x.com/john87445528/status/2125760471340839051) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125760471340839051/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125760471340839051?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+新的标杆Sand Ai刚发布的 MAGI-2
+
+【成片】《她的一只鞋，在底下等她》｜陷空山无底洞。30秒，9:16竖屏，唐三藏双眼位置的第一人称，一镜到底。师徒四人进洞避风。一位女子坐在井边，请我扶她起身。我以为她站不稳，是因为掉了一只鞋。直到那只鞋穿在一只脚上，从井里走回来。
+
+【参考图】
+
+@图1@3c698b39-7c86-468b-8c6a-7d02f34cac25锁定女子的面容、眉眼和栗黑色高盘发。她约28岁，鬓边有两缕碎发，戴短铜坠耳环。
+
+本次上传的服装图@3b12acd3-8eab-4e6e-9212-9ea460dd7c73锁定黑金豹纹挂颈短裙。古铜金底、黑色斑纹、细碎亮片、挂颈深V、前襟窄横带、收腰，裙摆落在大腿上段。油灯移动时，转到光里的几片亮片依次亮起来。
+
+@图3@@7a831d83-2028-49b7-9804-ac0d89e6f27c锁定淡藕粉色薄丝袜，细密袜面有柔和珠光，大腿处可见浅粉花纹袜口。@图6锁定女子在正片中的完整造型和比例，鞋为黑漆皮尖头细高跟，鞋底朱红。右鞋前掌外缘磨掉一弯红漆，露出浅色月牙，左鞋底完整。
+
+@图4@c5333246-e095-45e6-a8d9-e7f467768b4d仅供唐三藏、孙悟空、猪八戒、沙僧的面容、体格、衣物与道具参考。@图5锁定洞内地形。女子开场时左脚穿鞋，空的右鞋斜搁在井沿。定装照里的双脚着鞋状态只在右脚归位后出现。
+
+【摄影、布景与站位】
+
+1974年意大利电影的35毫米Techniscope胶片质感，按竖幅构图。褪色Eastmancolor、粗颗粒、柔和老镜头、零星尘点与细划痕。唐代志怪电影的实体洞窟布景，湿石暗灰偏青。左后方洞口漏进一线阴天散光。沙僧右手提油灯，暖光只照到近处人脸、井沿和井口以下约一米。沙僧一收手，照在井壁上的光就跟着退回来。
+
+我站在石台中央，左侧是悟空、八戒，沙僧紧跟在我左后肩。女子侧坐在我右前方的矮石上，左脚着地，右膝在坐石背面，右小腿被石头和井沿挡住。她右手撑在石沿上，空鞋就在她手边。开场同一眼能看清她的脸、落地的左鞋、井沿上空着的右鞋。实拍视野约28毫米。风吹动我的袈裟，只有我挪脚、低头、失去平衡时，视线才跟着晃。
+
+【00—06秒｜她手边有一只空鞋】
+
+我进洞停步。女子坐在矮石上，左脚往回收了一点，细鞋跟在石上轻轻一响。沙僧的灯从我肩后送过来。我顺着声音看过去，先看见黑鞋口里淡粉色的袜踝，再看见旁边那只斜躺的右鞋。鞋口朝我，里面空着。鞋底翘起的一边露出朱红色，前掌那弯磨白的月牙正好迎光。
+
+女子向我伸出左手。等我从鞋上移开目光，她才轻声说：“长老，扶我一下。”
+
+【06—11秒｜她刚站起来，鞋就掉了】
+
+我递出右手。她握住我的手腕，左脚踩实，右手撑石起身。石面潮湿，她撑着的手掌往外滑了一寸，手背碰上空鞋的细跟。鞋在井沿上晃了半圈。
+
+我怕她跟着跌下去，赶紧托住她腰侧。她的重量落进我掌心，左手顺势覆在我的手背上。她抬脸看我，右耳的铜坠轻碰我胸前的袈裟搭扣。就在这声轻响后面，空鞋终于翻下去。红底朝上闪了一下，消失。 她仍靠着我，目光却已经落在井口，像在等人上来。
+
+【11—18秒｜等来的是一个人的脚步】
+
+八戒弯腰想捞。悟空横过金箍棒，轻轻拦住他胸口。几个人一起听。先留半拍风声和滴水。
+
+井下响起一声清脆的“嗒”。我以为是鞋跟撞了石头。紧接着，黑暗里传来前掌把水压开的湿响。隔一拍，又是鞋跟落下、前掌踩实，这一步离我们近多了。
+
+沙僧把灯往井口探。我低头，一只黑色尖头鞋正沿竖壁向上迈步。它抬脚时，朱红鞋底翻进灯光，外缘是刚才那道浅色月牙。脚再落下，这次我看清了鞋口：刚才看得见鞋垫的地方，现在紧紧裹着一只淡粉袜脚。 石壁上的水还在往下淌。它踩住水痕，一步一步往上走。
+
+【18—24秒｜她终于把重量从我手上移开】
+
+我沿着井沿俯低一点。左边，女子的左鞋还在原处，那只细跟牢牢抵着石面；右边，井里的右鞋已经翻过井唇。两只鞋第一次同时出现在我眼前。
+
+右鞋落在她身边，本该穿鞋的人却还没站到它上面。灯光擦过它后方：连着脚踝的淡粉袜腿仍有长长一截垂在井壁外，越过石唇，在坐石背后连回她屈着的右膝。她把右膝慢慢伸直。那一截过长的小腿贴着湿石往回收，水珠被袜面一路带上井沿。最后，膝盖、脚踝、鞋跟落到同一条承重线上。右鞋跟轻响一下。
+
+我掌心里忽然轻了。 她已经能用双脚站稳，我便想把手抽回来。她却在这一刻收拢手指，扣住了我的右腕。
+
+【24—30秒｜原来她要我扶她下去】
+
+“长老，扶稳。”她靠近我耳边，语气和刚才一样，“底下的路长着呢。”
+
+话说到一半，她已经侧过身。右脚踩上竖直的内壁，细跟先点石，前掌随后压实。左脚离开石台，跟着走下去。她与我错身时，铜坠第二次碰响袈裟搭扣，这次声音由胸前往下掠过。我的布鞋尖擦到井沿，视线被她牵得向黑处一沉。
+
+背后袈裟猛地绷紧。沙僧用空着的左手攥住我，提灯的右手也随身体后撤。暖光滑回石台。女子的手指这才从我腕上松开。
+
+最后一眼，我的僧袖悬在井沿外。人已经走出灯光，下面却听得清清楚楚：右跟一声，左跟一声，她穿齐了那双鞋，正从容地往下走。 第二声的回音刚起，画面截断。
+
+【声音】 全片只用洞风、滴水、衣料、两次铜坠碰扣、细鞋跟点石与湿鞋底受力的声音。女子只说两句。第一次井下鞋跟响起时，把它拍成空鞋撞石也能发出的寻常动静；直到紧随其后的前掌踩实声，观众才意识到底下有一只脚。无旁白、无字幕、无配乐。
+```
+
+### 七十年代香港武侠电影风格片段
+
+[@abulu8](https://x.com/abulu8/status/2125761364677529817) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125761364677529817/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125761364677529817?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Looks like a classic vintage scene straight out of a Chinese movie. Nope, it's AI.👀🔥
+
+Made with MAGI-2 on @higgsfield_ai
+
+Loved watching these, Now, getting to create scenes with that same cinematic feel makes it even more fun.
+
+@higgsfield #higgsfieldpartner
+
+Prompt 👇
+
+【全局前置设定：画质与质感】
+
+1970 年代香港武侠电影质感。Techniscope 2.35:1 宽银幕，褪色偏暖的 Eastmancolor 胶片色调，厚重的胶片颗粒，轻微的片门抖动与画面边缘暗角，偶尔出现细小的划痕与灰尘斑点。
+
+布景是那个年代的摄影棚质感：手绘的远山与晚霞背景板、夯实的黄土地面、木结构客栈、纸灯笼。暖色钨丝灯模拟黄昏，硬光、强轮廓光、人物脸上有明显的油彩妆感。
+
+所有特效都是实拍物理效果：吊威亚的腾跃、真实碎裂的木器、铁器撞击的火星、黄土扬尘。全片绝对没有能量光效、气功光、彩色剑气或数字特效。
+
+声音是那个年代的后期配音质感：兵器碰撞声、拳脚声略微过响、过干净；每一次重击配一记鼓点或锣声；急促的鼓点从第一帧贯穿到最后一帧，一刻不停。
+
+【柳寒霜·白衣女侠】
+
+成年东亚女性，身高 5 英尺 6 寸，身形修长挺拔，体态轻盈。黑色长发在头顶束成高髻，细长眉眼，那个年代的油彩妆容。白色交领长袍，蓝色宽腰带，袖口收紧，下摆宽大，腾跃时如花瓣展开。白色布鞋。手持细长直剑，深褐色木剑鞘，蓝色剑穗。
+
+她快、准、狠。出手幅度小，速度极快，以巧破力。全程神情冷静、专注。
+
+【熊霸天·黑衣山贼头目】
+
+成年东亚男性，身高 6 英尺 2 寸，体型魁梧厚重，肩宽背阔。光头，浓密的黑色络腮胡垂到胸口，粗眉，一颗金牙。黑色短打长袍镶金色滚边，敞胸，粗布腰带，黑色布靴。手持粗重铁棍，棍身黝黑，两端包铁。
+
+他凶、猛、重。每一棍都用尽全力，攻势一浪接一浪，砸到哪里哪里碎。
+
+【体型比例·必须严格遵守】
+
+柳寒霜 5 英尺 6 寸，熊霸天 6 英尺 2 寸。同框时柳寒霜的头顶只到熊霸天的下巴，熊霸天体宽是她的两倍。全程严格保持。
+
+【场景：黄昏客栈后院】
+
+荒野客栈的夯土后院。压实的黄土地面，散落干草与枯叶。一侧是两层木结构客栈，二楼有木栏杆回廊，深褐色木廊柱。院中有长木凳、木桌、木酒桶，墙角堆着一摞土陶酒坛。屋檐下一排红色纸灯笼。背景是手绘远山晚霞背景板。
+
+【可破坏结构】长木凳、木桌、酒桶、酒坛、回廊栏杆与栏柱、纸灯笼、木柱——全部可以被砸碎、踢飞、劈断、点燃。已损坏处永久保持。
+
+【刚性空间锚点】客栈、二楼回廊、木柱、墙角酒坛、远山背景板，全片绝不漂移、消失或改变数量。
+
+【全片从第一帧到最后一帧都是恶斗·必须严格遵守】
+
+第 0 帧两人已经在交手，兵器正在相撞。没有开场对峙、没有亮相、没有出鞘的仪式。
+
+第 0 秒到第 30 秒，两人的兵器始终在交击，任何一秒都不允许出现没有攻防的画面。最后一帧依然处在高速运动中。
+
+绝对禁止：对峙、凝视、慢慢走近、站着不动、单独的表情镜头、单独的反应镜头、僵持、蓄力、摆架势、慢动作、停顿、收剑、转身离开、结尾的静止画面、定格。
+
+变焦急推（crash zoom）只作为 0.3 秒的插入，插在两次交击之间，插完立刻回到打斗。
+
+每一招都有起手、轨迹、目标、接触反馈与收势；每一次移动都交代从哪里到哪里；每一次格挡都有火星、木屑、扬尘或身体后滑的真实反馈。
+
+【密度】全片每秒 6—8 次清晰的攻防状态变化，下方每段都写明了交击次数，必须全部打出来。速度快至巅峰，但不是快进，不用模糊残影掩盖动作。
+
+【伤害等级 0】无血、无伤口。凶狠体现为：衣袍被划破、兵器撞出火星、器物被砸碎、扬尘、被震退滑行。
+
+【胜负】柳寒霜赢。
+
+【对白规则】本片没有任何台词、对白、旁白或内心独白。所有文字都是画面说明，绝对不得念出、不得配音。
+
+【运镜·七十年代武侠语法】
+
+不使用现代手持晃动与 FPV。使用：横移跟拍跟随追打；腾跃时低角度仰拍；固定广角交代走位；0.3 秒的变焦急推插入作为节奏重音。
+
+近景与广角交替：每一段贴身快打之后立即切回广角让观众看清走位，绝不长时间停留在近景里。
+
+━━━━━━━━━━━━━━━━━━
+
+【0.0—3.0 秒｜开打·十次交击】
+
+第 0 帧：固定低角度广角，黄昏客栈后院正中央，熊霸天的铁棍正当头砸下，柳寒霜已经侧身让过——木凳被砸成两截，木屑飞溅。
+
+紧接着：她连刺三剑取胸口，他横棍连挡三下，三串火星；他回棍横扫腰际，她竖剑硬架，被震退半步；他扫堂棍扫脚踝，她翻身跃起越过铁棍；落地即反手一削，他仰身让过；他借仰身之势一棍上挑，她剑压棍头卸开。
+
+每一次碰撞配一记鼓点。
+
+【3.0—5.5 秒｜追打上廊·八次交击】
+
+横移跟拍。柳寒霜踩上酒桶借力，吊威亚跃上二楼回廊栏杆，白袍展开。
+
+熊霸天追到廊下向上连抡，她在栏杆顶上边跑边挡：一棍——她剑格开，栏柱断；二棍——她跳过，栏柱断；三棍——她踩住棍头借力，再断一根；四棍——她俯身反刺他肩头，他缩肩避开。灯笼被震落，在地上燃起小火。
+
+每断一根栏柱配一记锣声。
+
+【5.5—8.0 秒｜翻越反击·九次交击】
+
+0.3 秒近景插入：她的脚在最后一根栏柱上一蹬。
+
+切回广角：她从他头顶翻过，空中就已出剑——反手一剑划开他后背的黑袍，金滚边耷拉下来。落地瞬间他头也不回反手横扫，她矮身让过；他转身连砸三棍，她左、右、左连闪，三棍砸在地上黄土炸开；她趁他收棍连刺两剑取手腕，他转棍格开两下。
+
+【8.0—11.0 秒｜贴身快打·十二次交击】
+
+紧凑双人近景，全片最快的节奏之一：
+
+棍尾捣腹——剑脊格开；剑削手腕——转棍挡住；棍头砸肩——她沉肩让过；剑刺肋下——他扭身避开；肘撞——她掌推卸开；膝顶——她提膝封住；她剑挑下巴——他后仰；他回棍压剑——她旋腕脱开；她剑劈膝——他竖棍挡下；他棍尾撞胸——她侧身；她剑扫——他低头；他铁棍勾住她的剑身一绞——
+
+剑从她手中脱飞，旋转着钉进院中的木柱。
+
+【11.0—14.0 秒｜空手·十次交击】
+
+立刻切回广角，一拍都不停。柳寒霜空手迎着铁棍冲上去：
+
+他当头砸下，她侧滑躲过，一掌拍在棍身上把棍路拍偏；他横扫，她跃起踩住棍身借力，一脚踢在他胸口，他后退两步；他怒吼连砸四棍，她连闪四步，每一棍都砸碎一样东西——木桌、酒桶、长凳、一只酒坛；她已经被逼到墙角那摞酒坛前，转身就抬脚。
+
+【14.0—16.5 秒｜酒坛·八次交击】
+
+她连踢三只酒坛砸向他——他抡棍连挡三下，三只酒坛在棍上接连炸开，酒水喷了他满头满脸。
+
+他眼前一片模糊，胡乱横扫，她从棍下滑过冲向木柱，三步蹬上柱身，下落时拔出剑，落地的同时连劈两剑——他凭感觉举棍连挡两下，火星四溅，被震退一步。
+
+【16.5—20.0 秒｜旋风·十四次交击】
+
+广角与近景交替，全片密度最高段。
+
+熊霸天一边抹眼睛一边把铁棍抡成旋风直冲过来，卷起一圈黄尘，剩下的灯笼一盏接一盏被风吹灭。
+
+柳寒霜正面迎上，剑与旋转的铁棍连续交击：上、下、左、右、上、上、下、左、下、右——每一下都迸出火星，每一下都配一记鼓点。两人在院子里边打边转圈，踩过碎木与酒水，脚下黄土不断扬起，又撞翻了一条长凳。
+
+【20.0—23.0 秒｜回廊下·十次交击】
+
+两人边打边移到回廊底下的木柱之间。
+
+他一棍横扫，她绕柱闪过，木柱被砸出一道裂口；她从柱后刺出，他侧身；他一棍从柱旁捅来，她踩住廊下的木栏借力翻上半空；空中连劈三剑，他举棍连挡三下；她落在他身侧，他回身就砸，她滚地躲开，铁棍砸进地面半尺深，黄土炸开。
+
+【23.0—26.0 秒｜破棍·九次交击】
+
+他从地里拔出铁棍，双手高举全力劈下——这是他最重的一击。
+
+柳寒霜不退反进，迎着铁棍冲上去，剑刃贴着铁棍向下一滑——铁棍沿长度方向被劈成两半，左右两截飞了出去。
+
+他手里只剩两截短棍，左右开弓疯狂乱砸：左、右、左、右——她连格四下，火星连成一线；第五下她旋身贴到他胸前，剑刃从他下巴前一掠而过。
+
+【26.0—28.5 秒｜胡子·八次交击】
+
+0.3 秒变焦急推插入：熊霸天的眼睛瞪圆。
+
+他那把浓密的络腮胡被齐齐削断，正在空中飘散——他还不肯停，双手各持半截短棍又扑上来：左砸、右砸、双棍交叉合击——她连闪三下，一脚踹在他胸口，他倒飞出去撞上酒坛堆，酒坛哗啦倒了一片，又一脚踢飞他左手的短棍，一剑挑飞他右手的短棍。
+
+两截短棍在空中翻转。
+
+【28.5—30.0 秒｜收尾·仍在运动中】
+
+熊霸天从酒坛堆里挣扎着要爬起来，柳寒霜已经凌空扑到——她的剑尖在他光秃秃的下巴前一寸处急停，同一瞬间她借冲势在他头顶上方翻身而过，白袍在空中展开，落向他身后。
+
+两截被挑飞的短棍正从空中落下，砸在他身边的地上弹起。
+
+最后一帧依然在高速运动中：柳寒霜正在空中翻身，白袍飞扬；熊霸天跌坐在碎坛与酒水之中，惊恐地抬头；短棍还在弹跳；碎木与黄尘还在飞。横移跟拍随着她的翻身持续移动，画面在运动中结束。
+
+━━━━━━━━━━━━━━━━━━
+
+【全局约束】
+
+masterpiece, highest quality，1970 年代香港武侠片质感。
+
+柳寒霜始终白袍蓝腰带高发髻，熊霸天始终光头黑袍金滚边。熊霸天的胡子只在 26 秒被削掉。
+
+全场只有两件兵器。剑在 11—16.5 秒钉在木柱上，由柳寒霜亲手拔回。铁棍在 23 秒被劈成两半，此后熊霸天手持两截短棍，28 秒…
 ```
 
 <a id="music-video"></a>
@@ -284,6 +544,51 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 16:9 cinematic widescreen, fluid animation, crisp details, expressive character acting, vibrant but natural colors, polished commercial-quality finish. Every scene should introduce a new visual surprise, with a funny and memorable final punchline.
 ```
 
+### 在早餐桌上滑板的微缩女孩
+
+[@Gwsubsa](https://x.com/Gwsubsa/status/2125765192294502911) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125765192294502911/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125765192294502911?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+She really turned my breakfast table into a skatepark 🛹
+Created with MAGI-2 at Higgsfield.
+
+Prompt :
+
+SUBJECT
+A miniature hand-drawn 2D skateboard girl with messy black hair, orange oversized shirt, teal shorts, striped socks and a yellow backpack, riding a tiny orange skateboard through a gigantic real-world breakfast table.
+
+STYLE
+Premium mixed-reality animation. Expressive hand-drawn 2D character integrated seamlessly into photorealistic live-action macro photography. Playful physical interaction, believable miniature scale, smooth line animation, practical tabletop lighting, cinematic stop-motion energy. Dynamic movement with fluid animation, exaggerated momentum and realistic object interaction.
+
+CAMERA
+Extreme macro photography, shallow depth of field, energetic miniature tracking camera, rapid perspective changes, physically motivated transitions, seamless movement between shots, cinematic motion blur.
+
+**00:00–00:03 — THE BREAKFAST RACE**
+Extreme low-angle macro tracking shot. She pushes hard across a wooden breakfast table while enormous cereal pieces tumble behind her like falling boulders. Tiny skateboard wheels rattle across the wood. The camera races alongside her board as she dodges scattered crumbs and a pool of spilled milk.
+
+**00:03–00:05 — BLUEBERRY JUMP**
+A gigantic rolling blueberry suddenly crosses her path. She crouches and ollies over it, the camera whip-panning upward with her. She lands perfectly on the curved handle of a silver spoon, her backpack bouncing with the impact.
+
+00:05–00:07 — SPOON GRIND
+She grinds down the spoon handle at high speed. Metallic sparks transform into tiny hand-drawn orange doodle stars. The spoon begins flexing and tipping downward like a seesaw, building momentum.
+
+00:07–00:10 — MILK CATAPULT
+The spoon CATAPULTS her into the air across a gigantic bowl of milk. Slow-motion aerial kickflip above floating cereal islands. The camera dives beneath her orange skateboard and rotates upward as she passes through droplets of milk suspended in the air.
+
+00:10–00:12 — THE GLASS RIDE
+She lands on the rim of a giant orange juice glass. She accelerates around its circular rim, hugging the curve like a miniature skatepark bowl. The camera spirals around the glass as her speed increases.
+
+00:12–00:15 — TRANSITION TO THE NEXT WORLD**
+She rockets past the camera and disappears behind the orange juice glass.
+
+MATCH CUT: The circular orange juice glass rim transforms seamlessly into the circular door of a washing machine in a new gigantic world. A brief mechanical spin, cinematic transition hit, and the camera pushes into the next environment.
+
+AUDIO
+Tiny skateboard wheel rolling, wooden tabletop rattles, blueberry impact, sharp skateboard pop, metallic spoon grind, playful doodle spark sounds, spoon creaking, milk splash, airy slow-motion whoosh, circular glass rolling sound, rising playful percussion, and a sharp transition hit at the final match cut. 
+
+#MAGI2 #Higgsfield
+```
+
 <a id="action"></a>
 
 ## 动作
@@ -390,90 +695,18 @@ Sound: howling wind pitching with every drop, clattering scree, a rumbling rocks
 Global style lock: photoreal cinematic FPV; the chase only goes DOWN, nothing rises into the sky; the climax escalates rather than resolves, no directed ending; the blue sheep NEVER turns to face the predator or camera while running; EVERY background animal REACTS and keeps moving as the chase passes; the gully persists through the climax; no lion roar, no distortion, no subtitles, no watermarks. 16:9.
 ```
 
-### 紫色闪电特效的电影级动作场景
+### 测试身体重量与动作节奏的快速编排
 
-[@Gwsubsa](https://x.com/Gwsubsa/status/2125723926001225871) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125723926001225871/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125723926001225871?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-When purple thunder takes over the battlefield. ⚡
-Made with MAGI-2 on Higgsfield.
-
-Prompt : 
-DURATION: Exactly 15 seconds
-FORMAT: 16:9, 4K, 60fps
-GENRE: Action blockbuster
-VISUAL: Ultra-photorealistic live-action, ARRI Alexa 65, IMAX cinematic scale, anamorphic cinematography, physically realistic VFX.
-CHARACTER REFERENCE LOCK — IMAGE 1
-Use the uploaded female portrait as the absolute facial identity reference.
-Transform the illustrated character into a believable real human actress while preserving her recognizable facial characteristics:
-Identical face shape and facial proportions.
-Same expressive almond-shaped eyes.
-Same nose, lips and natural facial details.
-Distinctive short black bob haircut with straight bangs.
-Same hair length, silhouette and fringe.
-Natural realistic skin texture, visible pores and subtle skin imperfections.
-She is an adult woman with a fearless, confident expression.
-WARDROBE: Black fitted tactical action jacket, black combat trousers, black boots and fingerless tactical gloves. Functional, elegant, athletic. No armor, no crown, no fantasy costume.
-Her weapon is a long metallic staff infused with brilliant purple electrical energy.
-Her face, hairstyle, body proportions and outfit must remain identical throughout the entire sequence.
-ENVIRONMENT
-A vast golden alpine grassland surrounded by autumn trees, natural rock formations and towering snow-covered mountains beneath dramatic golden-hour sunlight.
-Fourteen identical-design hell monsters attack her. Charred black muscular bodies, enormous horns, dorsal spikes, glowing red eyes, molten-red cracks and massive claws.
-ACTION SEQUENCE
-0.0–3.0s — PURPLE LIGHTNING BLITZ
-START MID-BATTLE!
-Ground-level wide shot. Fourteen monstrous creatures charge toward the woman through the golden grass.
-She instantly disappears in a violent purple lightning flash.
-WHIP PAN!
-She materializes between the monsters, spinning her staff through three consecutive devastating strikes: horizontal smash, diagonal reversal, overhead crushing blow.
-Each impact launches monsters backward with realistic body momentum.
-Purple lightning illuminates her face. Grass, dirt and rocks explode outward.
-3.0–5.5s — TELEPORTATION COMBAT
-Aggressive 180-degree camera orbit.
-Three monsters attack simultaneously.
-She teleports behind the first, dodges the second monster’s enormous claw, then leaps above the third.
-Mid-air, she performs a powerful spinning staff strike.
-Six translucent purple spectral staffs materialize around her, intercepting incoming monsters with synchronized strikes.
-She lands in a low sliding stance, dragging her staff across the ground.
-A semicircular purple energy shockwave blasts through the surrounding enemies.
-5.5–8.0s — DIMENSIONAL RUPTURE
-Extreme close-up of her determined eyes.
-She drives her staff into the earth.
-BOOM!
-Purple electrical fractures spread across the ground. Rocks rise into the air. Grass bends outward under the pressure.
-Twelve spectral staffs materialize in a rotating formation around her.
-She pulls her weapon upward and swings horizontally.
-A gigantic purple dimensional rift tears open across the battlefield.
-Monsters are violently pulled into the rupture, disintegrating into black smoke and glowing particles.
-Camera rapidly pushes toward the rift, then whip-pans back to her.
-8.0–11.5s — TWELVE STAFF EXECUTION
-A massive horned monster leaps directly toward her.
-She instantly teleports through its attack, appearing behind its back.
-Twelve spectral staffs orbit her at incredible speed.
-She performs a rapid three-direction teleportation combo:
-LEFT — horizontal lightning strike.
-RIGHT — diagonal crushing strike.
-ABOVE — devastating aerial downward strike.
-Simultaneously, the spectral staffs fire concentrated purple lightning projectiles at the remaining monsters.
-Multiple explosions illuminate the mountains.
-She launches vertically into the sky, leaving a spiraling purple lightning trail.
-11.5–15.0s — DIVINE THUNDER ANNIHILATION
-EXTREME LOW-ANGLE SHOT!
-Al…
-```
-
-### 校园走廊中的超能力动作场景
-
-[@Gwsubsa](https://x.com/Gwsubsa/status/2125726369917350176) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125726369917350176/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125726369917350176?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+[@VirgowatiShema](https://x.com/VirgowatiShema/status/2125775625797632020) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125775625797632020/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125775625797632020?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
 
 ```text
-They should've never disturbed her. 🌀
-Created with MAGI-2 on Higgsfield.
+Say hello to Magi-2, now on Higgsfield 🔥
 
-Prompt :
-In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+Fast choreography is one of the things I wanted to test here: movement, timing, camera changes and physical weight all happening in one sequence.  
 
-#MAGI2 #Higgsfield
+Prompt in the comment below.
+
+Created with MAGI-2 at Higgsfield
 ```
 
 <a id="ad"></a>
@@ -676,4 +909,25 @@ Midjourney + Nano Banana 2.1
 Video: Made in Higgsfield
 
 Prompt below:
+```
+
+### 文生视频提示词测试
+
+[@mann_hodge](https://x.com/mann_hodge/status/2125742437708828994) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125742437708828994/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125742437708828994?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+MAGI-2 t2v prompt: she has eleven butts
+```
+
+### 高容忍度的人物角色与特写镜头测试
+
+[@liyue_ai](https://x.com/liyue_ai/status/2125766739430650064) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125766739430650064/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125766739430650064?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+卧槽，MAGI-2是真慷慨👍
+这人物角色和特写镜头，要是用Seedance 2.5估计就不给过了。
+
+而且价格是真便宜，才0.05元/秒，是Seedance 2.5的1/10。
+
+人物角色和提示词如下：
 ```
