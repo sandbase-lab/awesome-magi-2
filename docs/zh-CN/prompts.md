@@ -2,37 +2,21 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 73 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
+共 75 条 MAGI-2 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 MAGI-2 一键 **复刻**。第一次写 MAGI-2 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的帖子把提示词放在回复里，或放在外部链接中，请打开 X 原帖查看完整讨论串。帖子原文保留作者语言。
 
-- [短片](#short-film) (26)
-- [音乐视频](#music-video) (2)
-- [动画](#anime) (10)
-- [动作](#action) (12)
+- [短片](#short-film) (24)
+- [音乐视频](#music-video) (1)
+- [动画](#anime) (11)
+- [动作](#action) (14)
 - [广告](#ad) (4)
-- [测试对比](#comparison) (9)
-- [模型展示](#showcase) (10)
+- [测试对比](#comparison) (12)
+- [模型展示](#showcase) (9)
 
 <a id="short-film"></a>
 
 ## 短片
-
-### 使用MAGI-2制作的三十秒冲浪短片
-
-[@Daeng_Tinggi](https://x.com/Daeng_Tinggi/status/2125568290336682284) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125568290336682284/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125568290336682284?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-MAGI-2 is live on Higgsfield 
-
-Up to 30s per generation in 1080p, for $0.08 a second. So I pushed it into a full 30s surf film: paddle out, barrel, slow-mo, beach.
-
-Storyboard + video prompts in the replies 👇
-
-Made with MAGI-2 on @higgsfield
-
-#HiggsfieldPartner
-```
 
 ### 废弃宅邸中拉弓瞄准的年轻女子
 
@@ -700,18 +684,6 @@ TECHNICAL: 4K, 24fps, 16:9, 30 seconds, perfectly synchronized 145 BPM editing, 
 NEGATIVE PROMPT: No subtitles, no on-screen text, no logos, no watermarks, no duplicate characters, no face distortion, no outfit inconsistencies, no flickering, no unnatural movements, no teleportation, no low-detail environments.
 ```
 
-### 带对口型的戏剧性坠崖剧情短片
-
-[@johnAGI168](https://x.com/johnAGI168/status/2125868906971607273) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125868906971607273/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125868906971607273?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-Created with MAGI-2 at Higgsfield 🎬
-
-Pulling off a 24s dramatic short drama straight from image-to-video is no joke: keeping character consistency and pacing tight across a cliff fall, clean readable text on the parachute, the sudden tears-to-laughter shift, and ending on a lip-synced sheep punchline with synced dialogue and foley.
-
-Prompt in the replies 👇
-```
-
 ### 女子早晨忙碌日常的写实家庭录像
 
 [@john_my07](https://x.com/john_my07/status/2125869111775461507) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125869111775461507/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125869111775461507?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
@@ -776,32 +748,6 @@ Made with MAGI-2 on @higgsfield
 Prompt:
 
 16:9, 12 seconds, chest-mounted bodycam, wide fisheye lens with edge distortion, slightly overexposed highlights, compression artifacts, timestamp overlay in the corner reading 23:14:08. Setting: a dark suburban street at night, one flickering streetlight, a parked sedan with its engine running, breath fogging in the cold. 0-4s: The camera sways with walking steps toward the car, flashlight beam sweeping across the rear window, radio chatter crackling. 4-8s: The beam lands on the driver, a man in his 40s in a gray hoodie, who keeps his hands on the wheel and says, "I didn't do anything, man." Camera stays steady, hand briefly entering frame. 8-11s: The man's hands slowly rise off the wheel and his eyes flick to the passenger seat. 11-12s: The footage cuts abruptly to black. Audio: radio static, boots on asphalt, idling engine, tense breathing, no music.
-```
-
-### 体育赛事直播风格的感恩节晚餐
-
-[@airina_xyz](https://x.com/airina_xyz/status/2125907956541849634) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125907956541849634/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125907956541849634?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-Thanksgiving dinner deserves professional sports coverage.
-
-This experiment combines broadcast-style cinematography, slow-motion replay, coherent object trajectories, rapid commentary and ensemble performances.
-
-Created with MAGI-2 at Higgsfield.
-
-Prompt:
-
-20-second absurdist Thanksgiving comedy filmed like a professional live sports broadcast. An original enthusiastic sports commentator wearing a navy blazer and a large headset provides dramatic commentary on an ordinary family passing dishes around the Thanksgiving dinner table. The family remains completely oblivious to the seriousness of the coverage.
-- 00:00–00:02: Extreme close-up of the commentator shouting, "Here comes the opening pass!"
-- 00:02–00:04: Slow-motion tracking shot of a grandmother passing a bowl of mashed potatoes across the table.
-- 00:04–00:06: Overhead shot following the bowl's trajectory between two relatives.
-- 00:06–00:08: The commentator excitedly announces, "Beautiful technique!"
-- 00:08–00:10: Macro shot of a guest catching a sliding breadbasket.
-- 00:10–00:12: A young adult reaches dramatically across the table for the gravy.
-- 00:12–00:14: Slow-motion replay of the gravy boat being intercepted by another relative.
-- 00:14–00:17: Close-up of the commentator shouting, "An incredible interception!"
-- 00:17–00:20: Wide reveal of the commentator sitting at the dinner table, talking into a spoon. His wife quietly says, "Please stop."
-Maintain consistent family members, table geography, dish trajectories and natural reactions. Authentic sports-broadcast framing, dramatic slow-motion replay and accurate lip-sync. No broadcaster logos or graphics. SFX: cutlery, dishes sliding, energetic commentary and awkward silence. No music.
 ```
 
 ### 发生在神秘十三层的悬疑惊悚短片
@@ -939,25 +885,32 @@ STYLE: candid realistic home-video footage, like a friend casually recording an 
 11. 23–26s — UNEXPECTED VISITOR: Medium shot facing the apartment entrance. A loud knock sounds. She freezes, looks at her messy T-shirt and the chaotic living room, then hurriedly tries to hide packaging …
 ```
 
+### 里斯本老式电车上的猫咪
+
+[@doctorwasif](https://x.com/doctorwasif/status/2126304231179309362) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126304231179309362/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126304231179309362?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+A Cat’s Day Out on the Lisbon Tram 🐈🚋
+
+Made With MAGI-2 1080p on @openart_ai 
+
+Prompt:
+**고양이 × 리스본 트램**
+
+A young woman (Image 1 = her face and hair) is already settling into a varnished wooden window seat of a vintage yellow Lisbon tram waiting at a hillside stop, steep cobbled street, pastel tiled facades and warm afternoon light outside the open window, brass handrails and polished wood panelling around her, cradling a small fluffy cream-and-grey cat and nuzzling it; once seated she lifts it up to the camera, melting with adoration, and says: "우리 애기에요." A beat later, hard cut to the exact same locked framing: she lowers the cat onto the wooden seat beside her, clips a small harness leash to the armrest, and the tram bell clangs twice as the carriage jolts and starts to creak forward, the cat's ears flick; she turns to it, mouth toward the camera, and coos: "준비됐어?", and the cat answers with a soft meow. Hard cut, same locked framing, now climbing a steep cobbled street: the window is fully open, terracotta rooftops, laundry lines and tiled walls slide past in motion blur, warm wind rushes in whipping her hair and ruffling the cat's fur; one hand on the window frame, the other clutching at her whipping hair, she scrunches her face and yelps half-laughing: "으아, 내 머리!" Hard cut, same locked framing: the tram rattles through a narrow alley, walls close on both sides and the light flickers between shade and sun, she fishes a cat treat from her bag and holds it up, the cat's eyes locking on it with an eager meow, and she says to it with a teasing smile: "간식 줄까?!" Hard cut, same locked framing: the tram slowing at a crest, wheels squealing softly and the carriage rocking at a lazy pace, she props an elbow on the window ledge, jaw on her hand in a loose pose, glances out at the open sky and river view then side-eyes the lens and sighs: "오늘 날씨가 진짜.." At the end, hard cut to arrival, same locked framing: the tram has pulled to a halt at a viewpoint stop, brakes hissing and the street outside stops moving past; she leans toward the camera, warm and playful with the cat on the seat beside her, reaches a hand toward the lens as if to switch off the cam, and says clearly: "도착! 다녀올게요." — her hand grazes the lens and the clip cuts out.
+
+Keep her face and hair exactly as the reference and never copy its background. The vintage yellow tram interior, its wooden seats, brass rails and open window stay identical, the small cream-and-grey cat stays the same in every cut, and the window stays fully open from the third cut on; the first two cuts sit at the hillside stop and the rest happen on the moving tram and at the viewpoint stop.
+
+The camera is one locked viewpoint low on the wooden seat between the woman and the cat, slightly wide-angle, seeing the woman at the window seat and the cat beside her; every cut returns to this exact position and focal length and the camera never moves, pans, tilts, zooms, dollies, drones or reframes — only the woman and the cat move, rhythm coming only from that and hard cuts; no camera, mount, tripod or filming rig is ever visible, no rig reflection or shadow.
+
+Shot like real self-filmed vlog footage in live-action photorealism: true skin texture with pores and fine hairs, film grain, natural light falloff, no beauty filter or skin smoothing, no 3D-render, CGI or AI-plastic gloss, staying razor-sharp through wind and motion. Never render a reference sheet or duplicate a subject. No subtitles, no on-screen text, no logo, no watermark.
+
+Diegetic sound only and absolutely no background music, not even at the end: tram bell clangs, wheels grinding on steel rails, creaking wood, rushing window wind, brake squeal and hiss, distant street murmur, the cat's soft meows and collar bell; her spoken lines are all live and frontal with the lips clearly visible and the mouth matching the words, in Korean, no voiceover.
+```
+
 <a id="music-video"></a>
 
 ## 音乐视频
-
-### 赛璐璐风格卡点动漫音乐视频
-
-[@criscxuan](https://x.com/criscxuan/status/2125504100670530040) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125504100670530040/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125504100670530040?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-用 MAGI-2 做了一个新潮日系 2D 赛璐璐潮流音乐 MV 动画的 case 。
-
-这个 case 我做了一个踩点动画，主要想测试一下将音乐鼓点、人物动作、镜头切换和文字出现精确对应，测试复杂动作与时间节点的遵循能力。
-
-这是一道很严苛的考题，在短短 8 秒、120 BPM 的高能电子舞曲里，我硬塞进了 7 个机位切换和一连串极度刁钻的微操限制。
-
-画质、卡点、转场、人物连贯性、动静结合的都很完美。
-
-prompt 如下：
-```
 
 ### 派对散场后的唯美圣诞音乐短片
 
@@ -1303,33 +1256,6 @@ Style: High-energy hand-drawn action anime
 Maintain identical anime character designs, coherent hand positions, table geography and screen direction. Elaborate action framing, exaggerated anticipation and an abrupt comedic contrast. SFX: dramatic whooshes, heartbeat, bread crunch and synchronized dialogue. No music.
 ```
 
-### 手绘讽刺漫画风格的感恩节盘问
-
-[@airina_xyz](https://x.com/airina_xyz/status/2125878259632234612) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125878259632234612/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125878259632234612?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-The traditional Thanksgiving interrogation.
-
-I wanted to push rapid conversational editing, multiple speaking characters, expressive caricature animation and precisely timed reaction shots.
-
-Created with MAGI-2 at Higgsfield.
-
-Prompt:
-
-Style: Vintage hand-drawn editorial caricature
-20-second fast-paced animated comedy with intricate pen-and-ink cross-hatching, colored-pencil shading, warm watercolor washes and exaggerated vintage caricature proportions. An awkward young adult man with enormous round glasses and a mustard sweater sits at a Thanksgiving dinner table surrounded by excessively curious elderly relatives.
-00:00–00:02: Extreme close-up of the young man's nervous eyes as an elderly aunt leans toward him.
-00:02–00:04: The aunt asks, "So, are you dating anyone?"
-00:04–00:06: Before he can answer, an uncle asks, "How's your career?"
-00:06–00:08: Another aunt interrupts, "When are you buying a house?"
-00:08–00:10: Rapid rotating camera around the increasingly overwhelmed young man.
-00:10–00:12: Close-up of sweat forming beneath his oversized glasses.
-00:12–00:14: His grandmother suddenly raises her hand to silence everyone.
-00:14–00:17: She gently asks, "Would you like more potatoes?"
-00:17–00:20: He grabs her hands, looks at her with enormous grateful eyes and whispers, "You're my favorite."
-Maintain distinct caricature faces, clothing, seating arrangements and organic sketchy textures. Rapid conversational timing, expressive reaction animation and accurate speaker-specific lip-sync. SFX: overlapping room chatter, cutlery, nervous breathing and synchronized dialogue. No music.
-```
-
 ### 蒸汽朋克钟楼里的动物冒险喜剧
 
 [@sebatheepan](https://x.com/sebatheepan/status/2125915609288335391) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125915609288335391/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125915609288335391?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
@@ -1467,6 +1393,66 @@ TECHNICAL: 30 seconds, 4K, 24fps, 16:9 widescreen.
 NEGATIVE: No subtitles, text overlays, logos, watermarks, duplicate characters, distorted faces, inconsistent outfits, flickering, unnatural physics, stiff animation, or abrupt scene jumps.
 ```
 
+### 展现疾走感的二维手绘动漫测试
+
+[@yachimat_manga](https://x.com/yachimat_manga/status/2126084218660827582) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126084218660827582/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126084218660827582?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+MAGI-2疾走感テスト。結果はめちゃくちゃ良好！！
+てか絵柄保持力あるのにこの動きしてくれるの？？で、安いの？？？
+
+特に最後、〇〇スライドの前に来るバージョンですが、これでもなかなかでないんですよ。だから当時苦労したやつをあえてチャレンジしてみたんですが、いけました。
+
+プロンプトはちょっと雑なんですが（ｗ）貼っておきますね。キャラの描写とかスタイルちゃんと分けずにハードコードしちゃってるのでその辺は直して使ってください
+
+＜プロンプト＞
+
+Keep the exact art style, line art, colours, muted sepia-and-lavender palette and lighting of the start frame; same character, same outfit, same world. Beautiful anime compositing: soft diffusion bloom on the highlights, thin light rays, drifting dust and tiny sparkles catching the light, shallow depth of field with round bokeh, a slight handheld drift. Flat hand-drawn 2D anime, not 3D, not photoreal. No text, no logo, no watermark, no extra people.。
+
+参考<画像1>は主人公の人物設定。成人女性、銀白色の短いボブ、長い前髪が右目の一部へ自然に重なる。左右とも灰緑色の瞳が前髪の隙間から見え、目元は素肌と銀髪だけで構成する。黒いハイネックのライディングウェア、暗い下衣、黒い脚衣とブーツを全鏡頭で保つ。画像内のベージュ背景、設定画レイアウト、複数の人物像、立ちポーズは映像へ持ち込まない。
+
+参考<画像2>はバイクと舞台の設定。青黒色の重いスポーツバイク、太いタイヤ、一体型カウル、濡れたネオ東京高架高速道路、シアンとマゼンタのネオン、低い後方視点を使用する。バイク形状と色を全鏡頭で保つ。
+
+全体の運動ルール：主人公は同じ東向き高架高速道路を止まらず走り続ける。前の動作の反動と姿勢回復が、そのまま次の動作の準備になる。バイクは横へ瞬間移動しない。スロットル、制動荷重、カウンターステア、リーン、タイヤの接地、サスペンションの沈みと反発を順番に描く。シアンの高層ビルは進行方向の左、マゼンタの縦看板は右、中央高架は正面に保ち、背景と車線を途中でリセットしない。
+
+鏡頭1、約0.0〜2.6秒：路面40センチ、後輪の約2.5メートル後方からの低いFPV追跡。配送バンが前方で左から右へ横滑りする。主人公はスロットルを戻して前ブレーキを徐々にかけ、フォークが沈み、上体が前へ移る。バンの後方に一度だけ生まれた左側の隙間へカウンターステアし、滑らかな一つの円弧で回避する。回避の出口では反対方向へ振り返さず、車体を直立へ戻しながら加速する。カメラは後輪との距離を保って同じ円弧を追う。
+
+鏡頭2、約2.6〜4.6秒：低い左側面の平行追跡。前の回避から車体を戻す途中で、低く折れた標識梁と散らばった小さなコンクリート片へ入る。主人公は肘を曲げ、頭部と上体をタンクに沿わせて低くする。両輪は接地したまま梁の下を通る。瓦礫を踏むたびにタイヤが潰れ、フォークが短く沈み、上体と銀髪が一拍遅れて上下する。カメラは路面と平行に走り、跳躍や浮遊を見せない。
+
+鏡頭3、約4.6〜6.6秒：旋回外側からの斜め後方FPV追跡。ジャックナイフした大型車両の手前で主人公は小さく加速し、後輪サスペンションが沈む。左側の傾斜約20度の保守用道路へ現実的なカウンターステアから中程度のリーンで入り、両輪を斜面へ接地させたまま一つの長い円弧で大型車両を回避する。道路へ戻る際、車体の傾きと水平線が慣性を残して半拍遅れて水平へ戻る。左右へ蛇行しない。
+
+鏡頭4、約6.6〜10.1秒：高い斜め後方の広角FPV追跡から始める。前方左のガラス張り超高層ビルが重力で道路側へ回転し、下端の巨大な鉄骨梁と路面の隙間がバイク三台分から一台分へ連続して狭くなる。カメラは倒壊全体を一瞬だけ見せた後、主人公の後方へ高度を落とし、縮む隙間へ一直線に追随する。主人公は左右へ振らず、両輪を接地させたままスロットルを開け、上体をタンクへ伏せて最小シルエットになる。
+
+間一髪の成功を必ず時間順に描く。前輪、風防、主人公、後輪の順に梁の下を一度だけ通過する。通過中の全フレームで、銀髪・背中・バイク上端と梁の下端の間に、細く途切れないシアンの光の線を明確に残す。人物とバイクの輪郭を梁から完全に分離し、接触、擦過、火花を起こさない。後輪まで抜け切り、バイク全体が梁より前方へ完全に出て、梁との間にバイク二台分の水平距離が生まれる。そこで約0.35秒、明るく開けたネオン道路へ飛び出す姿を見せ、主人公の上体が少し起き、サスペンションが伸び、銀髪が後方へ解放される。観客が「抜けた」と確認した後、四〜六フレーム遅れて梁が主人公の背後の路面へ激突する。火花は梁と路面の衝突点だけから出る。粉塵と圧力波が背後から追い、カメラは衝撃に同期して一度だけ強く上下へ揺れる。粉塵が画面を覆った瞬間にハードカットする。同じ通過を繰り返さない。
+
+鏡頭5、約10.1〜10.8秒：主人公の顔の短い特写。銀白色の前髪が風で後ろへ流れ、左右の灰緑色の瞳が見える。主人公は前方の停止地点を認識し、瞳を絞り、息を止め、顎を締めたあと、左肩越しにカメラへ冷たい視線を返す。カメラは顔との距離を固定し、眼差しだけを主役にする。
+
+鏡頭6、約10.8〜15.0秒：道路中心線上、路面60センチの低い正面カメラ。カメラは主人公より前方にいて、一定速度で後退しながら、バイクが画面奥方向へ進む姿を正面から捉える。主人公が急ブレーキを開始すると、フロントフォークが深く沈み、タイヤが潰れ、上体と銀髪が遅れて前へ流れる。バイクは前進慣性を残したまま90度だけ鋭くヨーし、画面左向きの完全な側面姿勢へ入る。車体上部をカメラ側へ約40度深く傾ける。左脚は膝を伸ばし切って路面へ接地し、左ブーツが削れる。両輪はロックするが、バイクは横向きのまま画面奥へ約1.7秒滑り続ける。二本のタイヤと左ブーツから三本の独立した白煙、水煙、火花の軌跡が画面手前へ伸びる。主人公は左肩越しにカメラを見続ける。
+
+画面中央の中距離で停止する。停止の瞬間は、タイヤ変形、フォークの底付き、車体の前下方への沈み、上体の遅れ、銀髪の遅れ、強い一回の反発、小さな収束の順に見せる。停止後も車体をすぐ直立させず、約0.55秒だけ深い傾きと視線を保持する。白煙が手前へ流れ、火花と破片が遅れて止まり、速度の余韻だけが残る。
+
+画面：現代日本の劇場版フルカラー2Dアクションアニメ。精密な顔、銀白色のボブ、シャープな線画、深い黒、三段階のセル影、硬いシアンのリムライト、濡れた路面の反射。高速ピークだけ一〜二枚の不透明な黒・コバルト色の荒い作画スメアを使い、直後に精密な原画へ戻す。半透明の残像にしない。
+
+音：台詞とBGMなし。電動エンジン、濡れたタイヤ、風切り音、ドローンの空気抵抗、瓦礫の接触、ビル倒壊、長いロックタイヤ音。カメラの揺れは画面内の物理衝撃と同期させる。
+
+制約：参照するのは<画像1>と<画像2>だけ。動画の動き、動画のカメラ、動画の構図を参照しない。左右の灰緑色の瞳と自然な目元を維持し、目元へ装飾品や覆いを追加しない。主人公一人、バイク一台を維持する。バイク形状を変えない。実写、写実、3D、ゲームCG、水彩、紙質にしない。瞬間的な横移動、単調な左右反復、アーケードドリフト、垂直ウォールライド、大ジャンプ、浮遊、空中旋回をしない。背景をリセットしない。ランドマークの左右を交換しない。カメラを瞬間移動させない。ビルを静止したトンネルにしない。梁と人物・バイクを接触させない。成功確認より先に梁を路面へ落とさない。同じ通過を繰り返さない。最後を正面接近、横追跡、旋回、直立停止にしない。人物やバイクの複製、余分な手足や車輪、字幕、文字、ロゴ、水印を生成しない。
+
+ーーー
+HiggsFieldのMAGI-2でつくりました
+```
+
+### 四十一秒动画短片展示
+
+[@Mayz1169](https://x.com/Mayz1169/status/2126346676583780818) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126346676583780818/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126346676583780818?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+It's crazy how far AI animation has come 🤯
+
+This 41-second short took just two MAGI-2 generations on Renoise, from $0.033/sec.
+
+Prompt below ⤵️
+```
+
 <a id="action"></a>
 
 ## 动作
@@ -1491,20 +1477,6 @@ CINEMATIC CAPTURE: shot as real FPV drone footage on a cinema camera — ultra-w
 The flight launches already diving steeply from high above a fern-choked prehistoric canyon at full speed — no calm start — a flight of leathery pterosaurs wheeling far below over the canopy. It punches down through the canopy in a hard vertical breach, bursting through startled flocks of small darting birds that scatter off the branches, banking a full 90° to thread between redwood trunks at ground level, dragonflies flicking through the light shafts. The forest opens into a muddy floodplain where the <<<image_2>>> Thunder-Herd erupts alongside in full charge; the camera corkscrews low between their charging bodies, skimming mud, small scurrying creatures bolting from the herd's path into the ferns. Ahead, the tree line EXPLODES as <<<image_1>>> the Tyrannosaur bursts through at a hard lateral angle, jaws opening wide toward the lens — the single slow-motion beat, teeth and saliva frozen, the herd scattering, every bird in the canopy lifting off at once in a single panicked cloud. Keep <<<image_1>>> design locked through the motion. Then a HARD snap back to full speed: the jaws SNAP SHUT on one fleeing beast from <<<image_2>>>, and the camera commits fully to the kill — whipping into a tight orbiting arc around <<<image_1>>> at point-blank range as it wrenches and thrashes its catch, mud and dust flung with every violent movement. The camera dives beneath the swinging it, arcs up and over the massive head as it rips into the carcass — pterosaurs already circling high above the kill — swoops in close on the jaws tearing and gulping, pulls back for one wide orbit showing the rest of <<<image_2>>> still stampeding past in panic on both sides, then plunges back in tight as <<<image_1>>> lifts its bloodied head and lets out a thunderous roar RIGHT AT the lens, the camera holding close and defiant in the swirling dust and debris, still shaking and whipping around the violence as the take runs out.
 
 Sound: a layered wall of primal chaos over a living jungle bed — insect drone, layered birdsong, distant hoots — wind roaring and pitching with every dive, thundering stampede hooves, deep guttural roars building — the birdsong CUTTING to dead silence the instant before the tree line explodes — near-silence for one held breath at the reveal — then a massive concussive ROAR and bone-crunching SNAP as the jaws close, the entire canopy erupting in shrieking, scattering wingbeats, and from there SUSTAINED, ESCALATING violence: wet tearing and crunching, guttural feeding growls, panicked herd bellows, pterosaur screeches circling above, building to one final earth…
-```
-
-### 街舞双人舞蹈表演
-
-[@BubbleBrain](https://x.com/BubbleBrain/status/2125475045262913584) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125475045262913584/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125475045262913584?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-MAGI-2 test. 
-
-How about a street dance duet?   
-
-Find the prompt and more of my work here:    
-
-https://youvibe.run/s/74BHUEoXwLPD?r=YmSv6azjZLpYJtem4229Dn5Ub35MqaSk3yMPqOsH4_ZOa8Kf-spJrqUrDfrx3ZA7
 ```
 
 ### 非洲大草原上的高速追逐场面
@@ -1571,6 +1543,78 @@ The shot opens ALREADY at full speed on the golden cliff ledges, skimming rock i
 Sound: howling wind pitching with every drop, clattering scree, a rumbling rockslide, a driving score — dropping to one breath of near-silence at the slow-motion reveal, then a MASSIVE concussive snow-and-water impact, then sustained escalating chaos: thrashing snow and water, ragged panting, snarls, the rasping yowl, ibex hooves, vulture wings, the score building to the final frame.
 
 Global style lock: photoreal cinematic FPV; the chase only goes DOWN, nothing rises into the sky; the climax escalates rather than resolves, no directed ending; the blue sheep NEVER turns to face the predator or camera while running; EVERY background animal REACTS and keeps moving as the chase passes; the gully persists through the climax; no lion roar, no distortion, no subtitles, no watermarks. 16:9.
+```
+
+### 紫色闪电特效的电影级动作场景
+
+[@Gwsubsa](https://x.com/Gwsubsa/status/2125723926001225871) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125723926001225871/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125723926001225871?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+When purple thunder takes over the battlefield. ⚡
+Made with MAGI-2 on Higgsfield.
+
+Prompt : 
+DURATION: Exactly 15 seconds
+FORMAT: 16:9, 4K, 60fps
+GENRE: Action blockbuster
+VISUAL: Ultra-photorealistic live-action, ARRI Alexa 65, IMAX cinematic scale, anamorphic cinematography, physically realistic VFX.
+CHARACTER REFERENCE LOCK — IMAGE 1
+Use the uploaded female portrait as the absolute facial identity reference.
+Transform the illustrated character into a believable real human actress while preserving her recognizable facial characteristics:
+Identical face shape and facial proportions.
+Same expressive almond-shaped eyes.
+Same nose, lips and natural facial details.
+Distinctive short black bob haircut with straight bangs.
+Same hair length, silhouette and fringe.
+Natural realistic skin texture, visible pores and subtle skin imperfections.
+She is an adult woman with a fearless, confident expression.
+WARDROBE: Black fitted tactical action jacket, black combat trousers, black boots and fingerless tactical gloves. Functional, elegant, athletic. No armor, no crown, no fantasy costume.
+Her weapon is a long metallic staff infused with brilliant purple electrical energy.
+Her face, hairstyle, body proportions and outfit must remain identical throughout the entire sequence.
+ENVIRONMENT
+A vast golden alpine grassland surrounded by autumn trees, natural rock formations and towering snow-covered mountains beneath dramatic golden-hour sunlight.
+Fourteen identical-design hell monsters attack her. Charred black muscular bodies, enormous horns, dorsal spikes, glowing red eyes, molten-red cracks and massive claws.
+ACTION SEQUENCE
+0.0–3.0s — PURPLE LIGHTNING BLITZ
+START MID-BATTLE!
+Ground-level wide shot. Fourteen monstrous creatures charge toward the woman through the golden grass.
+She instantly disappears in a violent purple lightning flash.
+WHIP PAN!
+She materializes between the monsters, spinning her staff through three consecutive devastating strikes: horizontal smash, diagonal reversal, overhead crushing blow.
+Each impact launches monsters backward with realistic body momentum.
+Purple lightning illuminates her face. Grass, dirt and rocks explode outward.
+3.0–5.5s — TELEPORTATION COMBAT
+Aggressive 180-degree camera orbit.
+Three monsters attack simultaneously.
+She teleports behind the first, dodges the second monster’s enormous claw, then leaps above the third.
+Mid-air, she performs a powerful spinning staff strike.
+Six translucent purple spectral staffs materialize around her, intercepting incoming monsters with synchronized strikes.
+She lands in a low sliding stance, dragging her staff across the ground.
+A semicircular purple energy shockwave blasts through the surrounding enemies.
+5.5–8.0s — DIMENSIONAL RUPTURE
+Extreme close-up of her determined eyes.
+She drives her staff into the earth.
+BOOM!
+Purple electrical fractures spread across the ground. Rocks rise into the air. Grass bends outward under the pressure.
+Twelve spectral staffs materialize in a rotating formation around her.
+She pulls her weapon upward and swings horizontally.
+A gigantic purple dimensional rift tears open across the battlefield.
+Monsters are violently pulled into the rupture, disintegrating into black smoke and glowing particles.
+Camera rapidly pushes toward the rift, then whip-pans back to her.
+8.0–11.5s — TWELVE STAFF EXECUTION
+A massive horned monster leaps directly toward her.
+She instantly teleports through its attack, appearing behind its back.
+Twelve spectral staffs orbit her at incredible speed.
+She performs a rapid three-direction teleportation combo:
+LEFT — horizontal lightning strike.
+RIGHT — diagonal crushing strike.
+ABOVE — devastating aerial downward strike.
+Simultaneously, the spectral staffs fire concentrated purple lightning projectiles at the remaining monsters.
+Multiple explosions illuminate the mountains.
+She launches vertically into the sky, leaving a spiraling purple lightning trail.
+11.5–15.0s — DIVINE THUNDER ANNIHILATION
+EXTREME LOW-ANGLE SHOT!
+Al…
 ```
 
 ### 测试身体重量与动作节奏的快速编排
@@ -1650,6 +1694,49 @@ The hounds: wolf-sized black iron-furred hounds with red eyes.
 [0s-4s | Roar] Wide low three-quarter shot from the front right of the steps, so the whole length of the Cerberus's body and all four legs are visible: it stands on all four paws planted at the top of the stone steps between the two statues, lowers its shoulders like a wolf about to pounce, stretches its three necks forward and roars with all three jaws wide open; the black hounds at the foot of the steps scatter to the left and right; chunks of stone fall from the arch behind it. Camera: slow dolly in.
 [4s-7s | Flames] Low-angle medium shot of the three heads, the front legs and chest visible below them: the heads swing down, jaws open wide, and pour out three streams of violet-black flame that roll down the steps; the fur ripples in the heat wave. Camera: slow push in.
 [7s-11s | Charge] Over Leon's right shoulder: the Cerberus bounds down the steps in a low four-legged gallop like a giant wolf, front paws landing halfway down so the steps crack and burst, and charges straight at Leon, growing until its body fills the frame; dust and stone fragments fly toward the camera. Camera: locked behind Leo…
+```
+
+### 受GTA启发的开放世界动作游戏概念
+
+[@mehvishs25](https://x.com/mehvishs25/status/2125859663866679782) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125859663866679782/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125859663866679782?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Exploring the GTA gaming concept today.
+
+Made with MAGI-2 on @higgsfield
+
+#HiggsfieldPartner
+
+Prompt:
+Create a 30-second ultra-realistic, next-generation open-world action-adventure gameplay showcase inspired by GTA VI. 16:9 widescreen, photorealistic AAA graphics, smooth third-person camera, realistic physics, detailed environments, neon-soaked Vice City atmosphere, and authentic in-game HUD.
+
+CHARACTER LOCK – JAMIE: Young adult woman with a natural attractive face, long dark hair in a high ponytail, fitted black tank top, loose light-blue denim jeans, white sneakers, and silver necklace. Maintain identical face, hairstyle, outfit, and proportions throughout.
+
+30-SECOND GAMEPLAY – 9 CONNECTED MOMENTS
+
+0–3s | Downtown Trouble: Jamie walks through a busy Vice City street at sunset. A black luxury SUV speeds past with two police cruisers chasing it. Pedestrians react naturally. Mission: “Something’s going down.”
+
+3–6s | Running Escape: Jamie runs into a multilevel parking garage as police sirens echo through the streets. Dynamic over-the-shoulder gameplay camera.
+
+6–9s | Rooftop Shortcut: She races up a parking ramp and reaches the rooftop, revealing a spectacular city skyline and ocean.
+
+9–12s | Stunt Jump: Jamie leaps across a gap between two parking structures and lands on the opposite rooftop. Brief cinematic camera movement, realistic landing animation.
+
+12–15s | Motorcycle Getaway: She descends a metal fire escape into an alley, approaches a parked motorcycle, and gets on. Interaction: “Press E – Enter Vehicle.”
+
+15–18s | Police Chase: Jamie accelerates through busy neon-lit streets, weaving between traffic as police cruisers follow. Wanted level rises to two stars.
+
+18–21s | Waterfront Ride: She takes a sharp turn onto a seaside boulevard, passing palm trees, luxury hotels, restaurants, and glowing storefronts.
+
+21–25s | Escape: Jamie rides through an underpass and reaches a quiet marina. Police lights disappear in the distance. HUD: “WANTED LEVEL CLEARED.”
+
+25–30s | City Finale: She parks beside luxury yachts and walks toward the waterfront railing. Camera slowly pulls back and rises, revealing the spectacular illuminated Vice City skyline, ocean reflections, and nighttime atmosphere. Mission: “Explore Vice City.”
+
+HUD: Consistent circular mini-map bottom-left, cash counter top-right, wanted stars, mission objectives, interaction prompts, and contextual notifications. Keep everything legible.
+
+VISUAL QUALITY: Premium AAA gameplay graphics, realistic character animations, believable NPC behavior, detailed vehicles, dynamic lighting, ray-traced reflections, natural movement, and seamless scene transitions.
+
+Make it feel like actual uninterrupted gameplay footage, not a slideshow or collection of cinematic clips. No character morphing, outfit changes, duplicated characters, unnatural physics, or artificial-looking environments. Preserve Jamie’s identity in every scene.
 ```
 
 ### 混乱城市逃亡中展现超级英雄机甲
@@ -1768,6 +1855,52 @@ SHOT 5 (26-30s): Wide shot at the finish line: the red car crosses first by a ti
 AUDIO: Roaring engines, tire squeals, gear shifts, crowd cheering, wind rush, radio crackle, driving high-energy cinematic score. English dialogue with natural voice, no music lyrics.
 
 AVOID: Slow motion, crashes, fire, blood, real car brand logos, cartoon look, slideshow effect, static images, face or outfit changes between shots, cars changing color or number between shots.
+```
+
+### 婚礼宴会厅飞镖与箭矢追踪镜头
+
+[@VeraVCreates](https://x.com/VeraVCreates/status/2126127498358649073) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126127498358649073/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126127498358649073?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Viral Dart & Arrow trend in romantic wedding 💒
+Made with MAGI-2
+
+Prompt:
+SCENE CONTEXT
+One continuous 30-second chase shot through a wedding banquet hall at , running from the head table, down the 2.5-meter aisle between the round tables, past the stage, to the dessert table at the far end where a bullseye cake stands 1.15 meters off the floor. The bride in @Image1 stands at the aisle mouth. The flight line runs along the aisle's center axis at 1.15 meters.
+
+ACTIVE REFERENCES
+@Image1 (thrower) = The bride — face, hair and build 100% match the reference. She wears an ivory silk gown; the gown replaces the outfit in the reference. Reference pose, background and lighting are not inherited.
+
+LOCATION MAP
+Foreground: dark parquet dance floor with an ivory aisle runner.
+Midground: eight round tables per side in ivory linen with gold chargers, wine-red napkins and tall floral centrepieces; a champagne tower on the left; crystal chandeliers hanging at 4 meters.
+Background: the stage with a red-and-ivory floral arch, the dessert table with the bullseye cake, and 300 guests falling away into warm bokeh.
+The camera runs on the aisle's center axis at 1.15 meters. Chandeliers at 2800K, stage wash at 3200K, a 5600K rim from the hall's rear windows for separation.
+
+FIRST FRAME / BLOCKING
+A stable shot from behind and just over the left shoulder of @Image1 standing at the aisle mouth, her veil and the back of her head filling the left third of the frame. Her right hand is raised beside her head with a small silver dart between two fingers, tip pointing down the aisle. Ahead on the right, a waiter in a black waistcoat walks away from camera with a tray. A flower girl is already running across the aisle 20 meters ahead. 300 guests are already moving, toasting and turning in their seats from frame one.
+
+FORMAT MODE
+One continuous shot, the camera does not cut on its own. Real-time speed throughout.
+
+OPTICS
+Rectilinear lens. FOV per segment, no drift mid-segment: 0–3s at 47°, 3–30s at 63°. The dart stays in sharp focus; background focus pulls to the next target as the dart nears it. Natural motion blur.
+
+CAMERA
+At the release the camera swings forward past her hand and settles 45 centimeters behind the dart's tail and 10 centimeters above its line, matching its speed within 5%. The dart is a 12-centimeter silver dart with a star-shaped cross at the tail; it sits in the lower center of the frame, pointing away from the lens, filling about one fifth of the frame width. The camera travels a straight line with the dart, carrying a 1-centimeter handheld tremor, with no banking and no sideways drift. It passes between the tables on the same line the dart passes. Everything ahead of the dart stays in clear view above it.
+
+ACTION
+0–3s — She winds her right arm back 40 centimeters and snaps her wrist forward; the dart leaves her fingers with a metallic tsk. Her veil lifts in the pressure wave. The camera pushes past her hand and locks in behind the dart. The dart accelerates from 0 to 70 km/h, then eases to 25 km/h.
+END STATE: the dart is 4 meters up the aisle at chest height; the veil is still rising; the waiter's shoulder is starting to turn.
+
+3–6s — A champagne tower stands on the left at 1.15 meters, its coupes filled. At 5s the dart takes the top glass; champagne bursts in a gold ribbon across the lens. The waiter 40 centimeters to the left freezes with his mouth open and his tray still level.
+END STATE: gold spray hangs across the lens; the top coupe tips over; the waiter's tray stays level.
+
+6–9s — A bridesmaid tosses the bouquet above the aisle; it spins and lands on the line at 1.15 meters. At 8s the dart passes through the bouquet's center; rose petals explode outward and tumble past the lens as streamers. The bridesmaids freeze mid-pose, eyes first, then mouths, then shoulders.
+END STATE: petals fall in a slow spiral; six bridesmaids hold a frozen pose with open mouths.
+
+9–12s — A flower boy of nine in a tiny waistcoat holds a party confetti p…
 ```
 
 <a id="ad"></a>
@@ -2113,23 +2246,51 @@ Maintain distinct identities and recurring trio coverage throughout; never dupli
 Stylish kinetic moving underground fashion magazine spread.
 ```
 
+### 将灰模动画转化为写实电车场景
+
+[@HexxRL](https://x.com/HexxRL/status/2126183644649697303) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126183644649697303/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126183644649697303?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+can magi-2 turn a greybox into a photoreal tram and keep the camera move?
+
+i tested it with a 10s greybox and one still.
+
+greybox → camera move + cut
+still → tram design
+
+prompt → wet tracks, blue-hour light + wheel hum
+watch the pillars, then the cut at 5s.
+
+the consistency across and replication of assets is incredible.
+```
+
+### 多参考多镜头一致性测试
+
+[@xmliisu](https://x.com/xmliisu/status/2126243684354068810) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126243684354068810/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126243684354068810?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+been testing MAGI-2 on Renoise and the multi-reference is the real deal
+
+6 refs, 4 shots, timed hard cuts, no face drift. prompt is in the video if you want to steal it
+
+Black Friday pricing makes this kind of dumb cheap
+```
+
+### 高科技日本测试场景
+
+[@johnAGI168](https://x.com/johnAGI168/status/2126310681766994319) · [观看](https://www.sandbase.ai/lab/media/x/seedance-2-5/2126310681766994319/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126310681766994319?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+令人印象深刻的高科技日本！😮
+
+来个尺度一点的测试，这条视频的话，SEEDANCE 2.5 就没有通过审核，MAGI-2 审核还是稍微宽松一点点🤏
+
+MAGI-2 prompt 👇
+```
+
 <a id="showcase"></a>
 
 ## 模型展示
-
-### MAGI-2视频模型发布效果展示
-
-[@BubbleBrain](https://x.com/BubbleBrain/status/2125384722159411357) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125384722159411357/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125384722159411357?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-Congrats for the release! 
-
-MAGI-2 is a really impressive video model. 
-
-You can get prompt and more work here: 
-
-https://youvibe.run/s/gMK9ZUSdPzoH
-```
 
 ### MAGI-2视频生成能力测试
 
@@ -2156,23 +2317,6 @@ I even forgot to post today, as I got lost in it... 😆
 More coming up, stay tuned.
 
 Prompt below 👇
-```
-
-### 视频角色的设计展示
-
-[@maxescu](https://x.com/maxescu/status/2125709346759929957) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2125709346759929957/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2125709346759929957?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
-
-```text
-WOW!
-
-MAGI-2 hits different.
-
-Character Design: 
-Midjourney + Nano Banana 2.1
-
-Video: Made in Higgsfield
-
-Prompt below:
 ```
 
 ### 文生视频提示词测试
@@ -2313,4 +2457,17 @@ Movement: grotesque, unnatural, demonic, stop-motion-like. He balances on ONE le
 12-15s: One long slow eerie drag into a twisted, fierce one-legged pose facing camera. A final ember wave locks him fully charred, red eyes burning through smoke. Holds nearly frozen with tiny finger twitches, pyres roaring.
 
 Audio: roaring fire, sharp snaps and air whips on each jerk, ember crackle on each skin shift.
+```
+
+### 蒸汽朋克主题每日挑战创作
+
+[@minuitIA](https://x.com/minuitIA/status/2126392321587720222) · [观看](https://www.sandbase.ai/lab/media/x/magi-2/2126392321587720222/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/magi-2/2126392321587720222?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-magi-2&utm_content=prompt-index)
+
+```text
+Toshi's @ToshiArte Daily Challenge: Steampunk
+
+I’ll leave the prompt for you in the comments 👇
+
+Made with Midjourney + Magi-2 + Suno + Capcut
+https://x.com/ToshiArte/status/2126345307214475774?a=tNHcaYRGXQvuV2tcjzI&s=20
 ```

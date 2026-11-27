@@ -144,24 +144,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125327070548897820"
  },
  {
-  "id": "2125327227672006799",
-  "title": "Nature reclaiming civilization and ancient technology",
-  "title_zh": "自然重新占领人类文明与古老科技",
-  "category": "short-film",
-  "author": {
-   "handle": "mad_mask",
-   "name": "Mad Mask ( Le labo de l’IA avec Max )"
-  },
-  "postUrl": "https://x.com/mad_mask/status/2125327227672006799",
-  "createdAt": "2026-11-24T20:34:32.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125327227672006799/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125327227672006799/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125327227672006799"
- },
- {
   "id": "2125330702766166098",
   "title": "A girl eating a feared castle lord's cake",
   "title_zh": "女孩吃掉让全城堡敬畏之人的蛋糕",
@@ -193,7 +175,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125330766276268137/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125330766276268137/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125330766276268137"
  },
@@ -283,7 +265,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125372572170908050/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125372572170908050/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125372572170908050"
  },
@@ -341,25 +323,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125376901862596749/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125376901862596749"
- },
- {
-  "id": "2125384722159411357",
-  "title": "MAGI-2 video model release showcase",
-  "title_zh": "MAGI-2视频模型发布效果展示",
-  "category": "showcase",
-  "author": {
-   "handle": "BubbleBrain",
-   "name": "BubbleBrain"
-  },
-  "postUrl": "https://x.com/BubbleBrain/status/2125384722159411357",
-  "createdAt": "2026-11-25T00:23:00.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125384722159411357/video.mp4",
-  "promptShared": true,
-  "promptText": "Congrats for the release! \n\nMAGI-2 is a really impressive video model. \n\nYou can get prompt and more work here: \n\nhttps://youvibe.run/s/gMK9ZUSdPzoH",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125384722159411357/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125384722159411357"
  },
  {
   "id": "2125385739743748338",
@@ -560,24 +523,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125423153149292782"
  },
  {
-  "id": "2125425240218210510",
-  "title": "Model comparison using identical prompts and references",
-  "title_zh": "使用相同提示词和参考图的模型对比",
-  "category": "comparison",
-  "author": {
-   "handle": "AutoIntelliMode",
-   "name": "AiRT🎥生成AI動画を創る人"
-  },
-  "postUrl": "https://x.com/AutoIntelliMode/status/2125425240218210510",
-  "createdAt": "2026-11-25T03:04:00.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125425240218210510/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125425240218210510/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125425240218210510"
- },
- {
   "id": "2125426273619198280",
   "title": "Anime girl on a wet rooftop at sunrise",
   "title_zh": "日出时分湿漉漉屋顶上的动漫少女",
@@ -594,24 +539,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125426273619198280/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125426273619198280"
- },
- {
-  "id": "2125427427488989259",
-  "title": "Comparison of Seedance 2 and MAGI-2 with martial arts",
-  "title_zh": "Seedance 2 与 MAGI-2 的武打对比",
-  "category": "comparison",
-  "author": {
-   "handle": "LIAMSTAI",
-   "name": "聊一下AI"
-  },
-  "postUrl": "https://x.com/LIAMSTAI/status/2125427427488989259",
-  "createdAt": "2026-11-25T03:12:41.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125427427488989259/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125427427488989259/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125427427488989259"
  },
  {
   "id": "2125430483018563681",
@@ -648,24 +575,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125431625991524398/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125431625991524398"
- },
- {
-  "id": "2125432548251816142",
-  "title": "Woman and a whale splashing in the ocean",
-  "title_zh": "女人与在海洋中飞溅的鲸鱼",
-  "category": "short-film",
-  "author": {
-   "handle": "Nishit_alt",
-   "name": "aiartsensei_"
-  },
-  "postUrl": "https://x.com/Nishit_alt/status/2125432548251816142",
-  "createdAt": "2026-11-25T03:33:02.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125432548251816142/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125432548251816142/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125432548251816142"
  },
  {
   "id": "2125434723187220849",
@@ -717,7 +626,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125445425520083116/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125445425520083116/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125445425520083116"
  },
@@ -830,43 +739,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125471875086327853"
  },
  {
-  "id": "2125475045262913584",
-  "title": "A street dance duet performance",
-  "title_zh": "街舞双人舞蹈表演",
-  "category": "action",
-  "author": {
-   "handle": "BubbleBrain",
-   "name": "BubbleBrain"
-  },
-  "postUrl": "https://x.com/BubbleBrain/status/2125475045262913584",
-  "createdAt": "2026-11-25T06:21:54.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125475045262913584/video.mp4",
-  "promptShared": true,
-  "promptText": "MAGI-2 test. \n\nHow about a street dance duet?   \n\nFind the prompt and more of my work here:    \n\nhttps://youvibe.run/s/74BHUEoXwLPD?r=YmSv6azjZLpYJtem4229Dn5Ub35MqaSk3yMPqOsH4_ZOa8Kf-spJrqUrDfrx3ZA7",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125475045262913584/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125475045262913584"
- },
- {
-  "id": "2125475667513123047",
-  "title": "Eight different emotions shown in a single shot",
-  "title_zh": "单镜头展现女性的八种不同情绪",
-  "category": "showcase",
-  "author": {
-   "handle": "Nishit_alt",
-   "name": "aiartsensei_"
-  },
-  "postUrl": "https://x.com/Nishit_alt/status/2125475667513123047",
-  "createdAt": "2026-11-25T06:24:23.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125475667513123047/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125475667513123047/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125475667513123047"
- },
- {
   "id": "2125476205222871475",
   "title": "A little kitten on a rainy night",
   "title_zh": "雨夜里的一只小猫咪",
@@ -883,24 +755,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125476205222871475/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125476205222871475"
- },
- {
-  "id": "2125479042761789699",
-  "title": "Horu singing a birthday song in Korean",
-  "title_zh": "Horu 用韩语演唱生日快乐歌",
-  "category": "music-video",
-  "author": {
-   "handle": "hype_boyo",
-   "name": "HBY"
-  },
-  "postUrl": "https://x.com/hype_boyo/status/2125479042761789699",
-  "createdAt": "2026-11-25T06:37:47.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125479042761789699/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125479042761789699/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125479042761789699"
  },
  {
   "id": "2125480141241622629",
@@ -1061,7 +915,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125488966644515055/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125488966644515055/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125488966644515055"
  },
@@ -1174,25 +1028,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125501492862042357"
  },
  {
-  "id": "2125504100670530040",
-  "title": "Cel-shaded anime music video with synchronized beats",
-  "title_zh": "赛璐璐风格卡点动漫音乐视频",
-  "category": "music-video",
-  "author": {
-   "handle": "criscxuan",
-   "name": "cxuan"
-  },
-  "postUrl": "https://x.com/criscxuan/status/2125504100670530040",
-  "createdAt": "2026-11-25T08:17:22.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125504100670530040/video.mp4",
-  "promptShared": true,
-  "promptText": "用 MAGI-2 做了一个新潮日系 2D 赛璐璐潮流音乐 MV 动画的 case 。\n\n这个 case 我做了一个踩点动画，主要想测试一下将音乐鼓点、人物动作、镜头切换和文字出现精确对应，测试复杂动作与时间节点的遵循能力。\n\n这是一道很严苛的考题，在短短 8 秒、120 BPM 的高能电子舞曲里，我硬塞进了 7 个机位切换和一连串极度刁钻的微操限制。\n\n画质、卡点、转场、人物连贯性、动静结合的都很完美。\n\nprompt 如下：",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125504100670530040/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125504100670530040"
- },
- {
   "id": "2125505796272517604",
   "title": "Time travelers journeying across different historical eras",
   "title_zh": "穿梭于不同时代的时间旅行者",
@@ -1227,24 +1062,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125506931460874329/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125506931460874329"
- },
- {
-  "id": "2125508888237650308",
-  "title": "Reference person and video face test",
-  "title_zh": "参考人物与参考视频脸部测试",
-  "category": "comparison",
-  "author": {
-   "handle": "Justwanttoslee5",
-   "name": "guan"
-  },
-  "postUrl": "https://x.com/Justwanttoslee5/status/2125508888237650308",
-  "createdAt": "2026-11-25T08:36:23.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125508888237650308/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125508888237650308/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125508888237650308"
  },
  {
   "id": "2125509495296340424",
@@ -1387,7 +1204,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125522773258952776/video.mp4",
   "promptShared": true,
   "promptText": "A Father's Little Chef 😂❤️\n\nMade it using MAGI-2 on @higgsfield\n\n#HiggsfieldPartner\n\nPrompt:\n\nCreate a heartwarming, hilarious, ultra-realistic Japanese-style 3D animated family comedy in vertical 16:9 format.\n\nA cute 3-year-old Japanese girl with short black bobbed hair, chubby cheeks, sparkling eyes, and pink pajamas decides to surprise her father with breakfast.\n\nWearing an oversized chef hat, she struggles to prepare pancakes in the kitchen. She accidentally spills flour everywhere, gets chocolate on her face, and finally serves her father a funny-looking, slightly burnt pancake.\n\n🎙️ Girl: \"Papa! I made this for you!\"\n\nHer father takes a bite, struggles to hide his reaction, and says, \"Delicious!\"\n\nThe little girl notices his watery eyes and innocently asks, \"Papa, are you crying because it's so yummy?\"\n\nThe mother walks in, tastes the pancake, and bursts into laughter. The father hugs his little daughter and kisses her forehead.\n\nFinal Shot: The little girl proudly poses like a professional chef while her parents laugh.\n\nStyle: High-end Japanese 3D animation, adorable characters, expressive faces, realistic movements, warm lighting, cinematic camera angles, funny sound effects, natural Japanese dialogue, and heartwarming family moments.\n\nConsistency: Maintain identical characters, clothing, facial features, and kitchen throughout.\n\nNegative: No distorted faces, extra fingers, flickering, scene jumps, subtitles, text, or watermark.",
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125522773258952776/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125522773258952776"
  },
@@ -1610,24 +1427,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125545266262749194"
  },
  {
-  "id": "2125546518979678392",
-  "title": "A test generation using MAGI-2 on Higgsfield",
-  "title_zh": "在 Higgsfield 上使用 MAGI-2 测试生成视频",
-  "category": "showcase",
-  "author": {
-   "handle": "AppsAndFlows",
-   "name": "Alena"
-  },
-  "postUrl": "https://x.com/AppsAndFlows/status/2125546518979678392",
-  "createdAt": "2026-11-25T11:05:55.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125546518979678392/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125546518979678392/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125546518979678392"
- },
- {
   "id": "2125550173392965727",
   "title": "A friendly cat showing familiar behavior",
   "title_zh": "一只展现熟悉举止的友善猫咪",
@@ -1719,24 +1518,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125560157916524939"
  },
  {
-  "id": "2125562954020216989",
-  "title": "Character swapping with identical motion for twin video",
-  "title_zh": "保持相同动作替换人物生成双胞胎视频",
-  "category": "showcase",
-  "author": {
-   "handle": "kaedehimemiya",
-   "name": "楓✨️KaedeH"
-  },
-  "postUrl": "https://x.com/kaedehimemiya/status/2125562954020216989",
-  "createdAt": "2026-11-25T12:11:13.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125562954020216989/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125562954020216989/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125562954020216989"
- },
- {
   "id": "2125563502521889155",
   "title": "Unseen monsters in Shibuya late at night",
   "title_zh": "深夜涩谷街头唯他可见的怪物",
@@ -1771,43 +1552,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125563788841931136/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125563788841931136"
- },
- {
-  "id": "2125565381180117363",
-  "title": "Testing physics and texture quality in MAGI-2",
-  "title_zh": "测试 MAGI-2 的物理与材质表现",
-  "category": "comparison",
-  "author": {
-   "handle": "gillesguerraz",
-   "name": "Gilles Guerraz"
-  },
-  "postUrl": "https://x.com/gillesguerraz/status/2125565381180117363",
-  "createdAt": "2026-11-25T12:20:52.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125565381180117363/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125565381180117363/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125565381180117363"
- },
- {
-  "id": "2125568290336682284",
-  "title": "A thirty second surfing film in MAGI-2",
-  "title_zh": "使用MAGI-2制作的三十秒冲浪短片",
-  "category": "short-film",
-  "author": {
-   "handle": "Daeng_Tinggi",
-   "name": "Daeng Tinggi"
-  },
-  "postUrl": "https://x.com/Daeng_Tinggi/status/2125568290336682284",
-  "createdAt": "2026-11-25T12:32:26.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125568290336682284/video.mp4",
-  "promptShared": true,
-  "promptText": "MAGI-2 is live on Higgsfield \n\nUp to 30s per generation in 1080p, for $0.08 a second. So I pushed it into a full 30s surf film: paddle out, barrel, slow-mo, beach.\n\nStoryboard + video prompts in the replies 👇\n\nMade with MAGI-2 on @higgsfield\n\n#HiggsfieldPartner",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125568290336682284/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125568290336682284"
  },
  {
   "id": "2125569587077165234",
@@ -2281,7 +2025,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125650088341246435/video.mp4",
   "promptShared": true,
   "promptText": "Skating through NYC with my little furry sidekick! 🛹🐱 Two besties, endless adventures! \n\nMade using MAGI-2 on @higgsfield\n\n#HiggsfieldPartner\n\nPrompt :\n\nCreate a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source; preserve her face, hairstyle, skin tone and body proportions throughout every shot.\n\nShe wears a sporty red-and-white skirt with integrated shorts, a fitted white top with red detailing, dark blue Nike sneakers, a beige \"Cool\" cap, dark blue backpack, black digital watch and headphones around her neck.\n\nInclude the same cute small ginger-and-white fluffy cat with amber eyes, maintaining realistic house-cat proportions at the girl's shin/lower-calf height. Keep both characters visually consistent throughout the sequence.\n\nSet the entire story across a vibrant, bustling New York City, featuring Times Square, Broadway, Manhattan skyscrapers, Brooklyn Bridge, yellow NYC taxis, subway entrances, brick buildings, street vendors, traffic lights, graffiti-covered walls and crowded sidewalks.\n\nThe girl aggressively skateboards through the streets of Manhattan at extreme speed while the cat races alongside her, naturally weaving between pedestrians, taxis and street obstacles without falling behind.\n\nUse dynamic low ground-level chase-cam cinematography, fast tracking shots, aggressive whip-pans, punchy hard cuts, wheel-level close-ups and subtle handheld micro-shake.\n\nShe races through Times Square, dodging yellow taxis and crossing pedestrians. As she passes a busy street coffee cart, she reaches out and grabs a takeaway coffee without slowing down. She takes a quick sip while maintaining perfect balance on her skateboard, then casually flicks the empty cup into a nearby trash bin as she speeds away.\n\nThe cat follows closely, jumping over a small street obstacle and landing smoothly beside her.\n\nShe suddenly spots a graffiti-covered wall near a narrow alley. Without hesitation, she accelerates, rides up the wall and performs an explosive skateboard wall jump. The cat leaps beside her in perfect synchronization. Both land together and immediately continue at full speed.\n\nCut seamlessly to Brooklyn Bridge. The girl races along the pedestrian-side pathway, weaving past cyclists and tourists, with the Manhattan skyline and East River visible in the background. Use dramatic sweeping camera movements and dynamic aerial tracking shots.\n\nShe launches her skateboard over a series of street obstacles, performs a stylish mid-air kickflip, lands smoothly and continues toward the waterfront.\n\nTransition into an industrial Brooklyn area featuring elevated subway tracks, steel bridges, warehouses, construction zones, rooftop structures and graffiti-covered tunnels.\n\nShe ollies onto a low industrial rail, grinds across it, crouches beneath a steel bridge and races alongside a passing subway train. The cat keeps pace beside her, jumping over obstacles with impressive agility.\n\nAs the subway train pulls away, she accelerates toward an elevated steel platform and launches into an enormous synchronized jump with the cat.\n\nFinal shot: Both characters leap from the elevated structure into a street-level parking area, performing a spectacular synchronized mid-air trick before landing smoothly. The girl continues riding forward while the cat runs beside her. End with a dramatic low-angle tracking shot revealing the New York skyline in the distance.\n\nMaintain premium anime-game splash-art quality, clean linework, painterly cel-shading, crisp character rendering, expressive animation, cinematic New York lighting, dynamic anime speed lines and fluid movement.\n\nAudio: Natural New York street ambience, skateboard wheels rolling, trucks grinding against rails, passing taxis, subway rumbling, city crowds and wind rushing during jumps. No background music.",
-  "featured": null,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125650088341246435/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125650088341246435"
  },
@@ -2488,24 +2232,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125673356015927750"
  },
  {
-  "id": "2125673751346070006",
-  "title": "A gentle romance scene with an umbrella",
-  "title_zh": "微风吹走雨伞的温柔浪漫场景",
-  "category": "short-film",
-  "author": {
-   "handle": "visualaeonart",
-   "name": "Soumya"
-  },
-  "postUrl": "https://x.com/visualaeonart/status/2125673751346070006",
-  "createdAt": "2026-11-25T19:31:30.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125673751346070006/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125673751346070006/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125673751346070006"
- },
- {
   "id": "2125676474820899061",
   "title": "Story animation transitioning from anime to realistic",
   "title_zh": "从二维动画过渡至写实风格的短片",
@@ -2576,24 +2302,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125680292845510748/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125680292845510748"
- },
- {
-  "id": "2125680623973232695",
-  "title": "An unexpected elevator ride scene",
-  "title_zh": "一段意想不到的电梯乘坐场景",
-  "category": "short-film",
-  "author": {
-   "handle": "Gwsubsa",
-   "name": "yopiwhs"
-  },
-  "postUrl": "https://x.com/Gwsubsa/status/2125680623973232695",
-  "createdAt": "2026-11-25T19:58:48.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125680623973232695/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125680623973232695/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125680623973232695"
  },
  {
   "id": "2125680792135147811",
@@ -2776,24 +2484,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125686599149081081"
  },
  {
-  "id": "2125688285376778667",
-  "title": "Two dancers in hand-drawn two-dimensional style",
-  "title_zh": "手绘二维风格舞蹈连贯性展示",
-  "category": "anime",
-  "author": {
-   "handle": "sebatheepan",
-   "name": "Pan"
-  },
-  "postUrl": "https://x.com/sebatheepan/status/2125688285376778667",
-  "createdAt": "2026-11-25T20:29:15.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125688285376778667/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125688285376778667/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125688285376778667"
- },
- {
   "id": "2125691384640233709",
   "title": "A user generated content video demonstration",
   "title_zh": "AI用户生成内容视频演示",
@@ -2828,24 +2518,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125692092743901280/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125692092743901280"
- },
- {
-  "id": "2125692960075608506",
-  "title": "An animated story featuring Slipper Hero",
-  "title_zh": "拖鞋勇者动画故事",
-  "category": "anime",
-  "author": {
-   "handle": "AiAniAlchemist",
-   "name": "ai_ani_alchemist | AI アニメ作る奴"
-  },
-  "postUrl": "https://x.com/AiAniAlchemist/status/2125692960075608506",
-  "createdAt": "2026-11-25T20:47:49.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125692960075608506/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125692960075608506/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125692960075608506"
  },
  {
   "id": "2125693569726103709",
@@ -2936,42 +2608,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125695740051931287/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125695740051931287"
- },
- {
-  "id": "2125696164099985866",
-  "title": "Surreal environment with flowing liquids and lighting",
-  "title_zh": "流动液体与动态光影的超现实环境",
-  "category": "showcase",
-  "author": {
-   "handle": "Starkapoo",
-   "name": "©Sky"
-  },
-  "postUrl": "https://x.com/Starkapoo/status/2125696164099985866",
-  "createdAt": "2026-11-25T21:00:33.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125696164099985866/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125696164099985866/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125696164099985866"
- },
- {
-  "id": "2125696793073832399",
-  "title": "A cinematic work titled The Veil of Ash",
-  "title_zh": "电影感短片灰烬之纱",
-  "category": "short-film",
-  "author": {
-   "handle": "iX00AI",
-   "name": "iX"
-  },
-  "postUrl": "https://x.com/iX00AI/status/2125696793073832399",
-  "createdAt": "2026-11-25T21:03:03.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125696793073832399/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125696793073832399/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125696793073832399"
  },
  {
   "id": "2125698035732943191",
@@ -3084,24 +2720,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125701889702457524"
  },
  {
-  "id": "2125702042450907300",
-  "title": "Cinematic video generation with MAGI-2",
-  "title_zh": "使用MAGI-2进行电影感视频创作",
-  "category": "showcase",
-  "author": {
-   "handle": "TernakAI1122",
-   "name": "Ternak AI"
-  },
-  "postUrl": "https://x.com/TernakAI1122/status/2125702042450907300",
-  "createdAt": "2026-11-25T21:23:55.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125702042450907300/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125702042450907300/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125702042450907300"
- },
- {
   "id": "2125708444166656496",
   "title": "A person being rejected in a bar",
   "title_zh": "一个人在酒吧中被拒绝的场景",
@@ -3118,25 +2736,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125708444166656496/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125708444166656496"
- },
- {
-  "id": "2125709346759929957",
-  "title": "Character design showcase for a video",
-  "title_zh": "视频角色的设计展示",
-  "category": "showcase",
-  "author": {
-   "handle": "maxescu",
-   "name": "Alex Patrascu"
-  },
-  "postUrl": "https://x.com/maxescu/status/2125709346759929957",
-  "createdAt": "2026-11-25T21:52:56.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125709346759929957/video.mp4",
-  "promptShared": true,
-  "promptText": "WOW!\n\nMAGI-2 hits different.\n\nCharacter Design: \nMidjourney + Nano Banana 2.1\n\nVideo: Made in Higgsfield\n\nPrompt below:",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125709346759929957/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125709346759929957"
  },
  {
   "id": "2125709428217319442",
@@ -3284,24 +2883,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125719634838224922"
  },
  {
-  "id": "2125719837158883770",
-  "title": "A foggy ferry crossing with surreal creatures",
-  "title_zh": "充满超现实生物的雾中渡轮场景",
-  "category": "short-film",
-  "author": {
-   "handle": "PeterKL87",
-   "name": "CodeOneshot"
-  },
-  "postUrl": "https://x.com/PeterKL87/status/2125719837158883770",
-  "createdAt": "2026-11-25T22:34:37.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125719837158883770/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125719837158883770/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125719837158883770"
- },
- {
   "id": "2125722448368951719",
   "title": "A short scene with two characters speaking",
   "title_zh": "两个角色对话的短片场景",
@@ -3318,6 +2899,25 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125722448368951719/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125722448368951719"
+ },
+ {
+  "id": "2125723926001225871",
+  "title": "A cinematic action scene with purple lightning",
+  "title_zh": "紫色闪电特效的电影级动作场景",
+  "category": "action",
+  "author": {
+   "handle": "Gwsubsa",
+   "name": "yopiwhs"
+  },
+  "postUrl": "https://x.com/Gwsubsa/status/2125723926001225871",
+  "createdAt": "2026-11-25T22:50:52.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125723926001225871/video.mp4",
+  "promptShared": true,
+  "promptText": "When purple thunder takes over the battlefield. ⚡\nMade with MAGI-2 on Higgsfield.\n\nPrompt : \nDURATION: Exactly 15 seconds\nFORMAT: 16:9, 4K, 60fps\nGENRE: Action blockbuster\nVISUAL: Ultra-photorealistic live-action, ARRI Alexa 65, IMAX cinematic scale, anamorphic cinematography, physically realistic VFX.\nCHARACTER REFERENCE LOCK — IMAGE 1\nUse the uploaded female portrait as the absolute facial identity reference.\nTransform the illustrated character into a believable real human actress while preserving her recognizable facial characteristics:\nIdentical face shape and facial proportions.\nSame expressive almond-shaped eyes.\nSame nose, lips and natural facial details.\nDistinctive short black bob haircut with straight bangs.\nSame hair length, silhouette and fringe.\nNatural realistic skin texture, visible pores and subtle skin imperfections.\nShe is an adult woman with a fearless, confident expression.\nWARDROBE: Black fitted tactical action jacket, black combat trousers, black boots and fingerless tactical gloves. Functional, elegant, athletic. No armor, no crown, no fantasy costume.\nHer weapon is a long metallic staff infused with brilliant purple electrical energy.\nHer face, hairstyle, body proportions and outfit must remain identical throughout the entire sequence.\nENVIRONMENT\nA vast golden alpine grassland surrounded by autumn trees, natural rock formations and towering snow-covered mountains beneath dramatic golden-hour sunlight.\nFourteen identical-design hell monsters attack her. Charred black muscular bodies, enormous horns, dorsal spikes, glowing red eyes, molten-red cracks and massive claws.\nACTION SEQUENCE\n0.0–3.0s — PURPLE LIGHTNING BLITZ\nSTART MID-BATTLE!\nGround-level wide shot. Fourteen monstrous creatures charge toward the woman through the golden grass.\nShe instantly disappears in a violent purple lightning flash.\nWHIP PAN!\nShe materializes between the monsters, spinning her staff through three consecutive devastating strikes: horizontal smash, diagonal reversal, overhead crushing blow.\nEach impact launches monsters backward with realistic body momentum.\nPurple lightning illuminates her face. Grass, dirt and rocks explode outward.\n3.0–5.5s — TELEPORTATION COMBAT\nAggressive 180-degree camera orbit.\nThree monsters attack simultaneously.\nShe teleports behind the first, dodges the second monster’s enormous claw, then leaps above the third.\nMid-air, she performs a powerful spinning staff strike.\nSix translucent purple spectral staffs materialize around her, intercepting incoming monsters with synchronized strikes.\nShe lands in a low sliding stance, dragging her staff across the ground.\nA semicircular purple energy shockwave blasts through the surrounding enemies.\n5.5–8.0s — DIMENSIONAL RUPTURE\nExtreme close-up of her determined eyes.\nShe drives her staff into the earth.\nBOOM!\nPurple electrical fractures spread across the ground. Rocks rise into the air. Grass bends outward under the pressure.\nTwelve spectral staffs materialize in a rotating formation around her.\nShe pulls her weapon upward and swings horizontally.\nA gigantic purple dimensional rift tears open across the battlefield.\nMonsters are violently pulled into the rupture, disintegrating into black smoke and glowing particles.\nCamera rapidly pushes toward the rift, then whip-pans back to her.\n8.0–11.5s — TWELVE STAFF EXECUTION\nA massive horned monster leaps directly toward her.\nShe instantly teleports through its attack, appearing behind its back.\nTwelve spectral staffs orbit her at incredible speed.\nShe performs a rapid three-direction teleportation combo:\nLEFT — horizontal lightning strike.\nRIGHT — diagonal crushing strike.\nABOVE — devastating aerial downward strike.\nSimultaneously, the spectral staffs fire concentrated purple lightning projectiles at the remaining monsters.\nMultiple explosions illuminate the mountains.\nShe launches vertically into the sky, leaving a spiraling purple lightning trail.\n11.5–15.0s — DIVINE THUNDER ANNIHILATION\nEXTREME LOW-ANGLE SHOT!\nAl…",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125723926001225871/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125723926001225871"
  },
  {
   "id": "2125724109849985037",
@@ -3428,24 +3028,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125728269802873216"
  },
  {
-  "id": "2125728385154625937",
-  "title": "A cinematic sequence titled secret door",
-  "title_zh": "名为秘密之门的电影感影像",
-  "category": "short-film",
-  "author": {
-   "handle": "YaReYaRu30Life",
-   "name": "ヤレヤル（AI動画/AI画像/AI音楽）"
-  },
-  "postUrl": "https://x.com/YaReYaRu30Life/status/2125728385154625937",
-  "createdAt": "2026-11-25T23:08:35.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125728385154625937/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125728385154625937/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125728385154625937"
- },
- {
   "id": "2125729470518620360",
   "title": "A character scene created with MAGI-2",
   "title_zh": "使用MAGI-2创作的人物场景",
@@ -3498,60 +3080,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125730249467904233/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125730249467904233"
- },
- {
-  "id": "2125731256126357821",
-  "title": "Poetic myth sequence with consistent character details",
-  "title_zh": "保持角色细节的诗意神话序列",
-  "category": "short-film",
-  "author": {
-   "handle": "carolletta",
-   "name": "Carolina Delgado"
-  },
-  "postUrl": "https://x.com/carolletta/status/2125731256126357821",
-  "createdAt": "2026-11-25T23:20:00.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125731256126357821/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125731256126357821/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125731256126357821"
- },
- {
-  "id": "2125733316347478258",
-  "title": "Indonesian landscapes rendered in 2D anime style",
-  "title_zh": "以日系动画风格呈现印尼风光",
-  "category": "anime",
-  "author": {
-   "handle": "IwayanLeonardo",
-   "name": "I Wayan Leonardo RD"
-  },
-  "postUrl": "https://x.com/IwayanLeonardo/status/2125733316347478258",
-  "createdAt": "2026-11-25T23:28:11.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125733316347478258/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125733316347478258/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125733316347478258"
- },
- {
-  "id": "2125734852892971387",
-  "title": "Demonstration of MAGI-2 model prompt adherence",
-  "title_zh": "MAGI-2模型的提示词遵循能力演示",
-  "category": "showcase",
-  "author": {
-   "handle": "themeloart",
-   "name": "melo"
-  },
-  "postUrl": "https://x.com/themeloart/status/2125734852892971387",
-  "createdAt": "2026-11-25T23:34:17.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125734852892971387/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125734852892971387/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125734852892971387"
  },
  {
   "id": "2125735030894768523",
@@ -3771,24 +3299,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125742437708828994"
  },
  {
-  "id": "2125743006049526096",
-  "title": "A muddy pig character named Squig",
-  "title_zh": "名为Squig的泥泞小猪动画",
-  "category": "showcase",
-  "author": {
-   "handle": "idrawsquig",
-   "name": "Squig (GME arc)"
-  },
-  "postUrl": "https://x.com/idrawsquig/status/2125743006049526096",
-  "createdAt": "2026-11-26T00:06:41.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125743006049526096/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125743006049526096/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125743006049526096"
- },
- {
   "id": "2125743335486980202",
   "title": "A performance comparison of MAGI-2 and Seedance",
   "title_zh": "MAGI-2与Seedance的性能对比",
@@ -3859,24 +3369,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125749020324929905/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125749020324929905"
- },
- {
-  "id": "2125749135953596689",
-  "title": "Continuous shot journey through five distinct worlds",
-  "title_zh": "穿越五个世界的长镜头连贯短片",
-  "category": "short-film",
-  "author": {
-   "handle": "harrisonitsme",
-   "name": "森叔"
-  },
-  "postUrl": "https://x.com/harrisonitsme/status/2125749135953596689",
-  "createdAt": "2026-11-26T00:31:03.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125749135953596689/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125749135953596689/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125749135953596689"
  },
  {
   "id": "2125749235652145312",
@@ -4116,24 +3608,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125762092896760092"
  },
  {
-  "id": "2125765023653843175",
-  "title": "A high-action science fiction sequence",
-  "title_zh": "一段高动作强度的科幻序列",
-  "category": "action",
-  "author": {
-   "handle": "MaAyyoub",
-   "name": "Ayyoub Ai"
-  },
-  "postUrl": "https://x.com/MaAyyoub/status/2125765023653843175",
-  "createdAt": "2026-11-26T01:34:11.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125765023653843175/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125765023653843175/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125765023653843175"
- },
- {
   "id": "2125765192294502911",
   "title": "Miniature Skater Girl on a Breakfast Table",
   "title_zh": "在早餐桌上滑板的微缩女孩",
@@ -4172,24 +3646,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125766739430650064"
  },
  {
-  "id": "2125767064090800200",
-  "title": "Comparison between MAGI-2 and Seedance 2.5",
-  "title_zh": "MAGI-2与Seedance 2.5对比测试",
-  "category": "comparison",
-  "author": {
-   "handle": "YouArtStudio",
-   "name": "YouArt"
-  },
-  "postUrl": "https://x.com/YouArtStudio/status/2125767064090800200",
-  "createdAt": "2026-11-26T01:42:17.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125767064090800200/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125767064090800200/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125767064090800200"
- },
- {
   "id": "2125768541739888815",
   "title": "A 2D Painting Leaping into a Live Museum Gallery",
   "title_zh": "浮世绘女孩跳入现实美术馆",
@@ -4224,24 +3680,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125770246414119297/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125770246414119297"
- },
- {
-  "id": "2125771732305002522",
-  "title": "Manga Panel Coming to Life in the Rain",
-  "title_zh": "漫画线稿在雨夜中动起来的对比",
-  "category": "comparison",
-  "author": {
-   "handle": "noriyang_crypt",
-   "name": "noriyang＠電脳椅子探偵シャルロット ♠♥アニメ化決定"
-  },
-  "postUrl": "https://x.com/noriyang_crypt/status/2125771732305002522",
-  "createdAt": "2026-11-26T02:00:50.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125771732305002522/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125771732305002522/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125771732305002522"
  },
  {
   "id": "2125772237605077065",
@@ -4425,24 +3863,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125777471098535956"
  },
  {
-  "id": "2125778594903507200",
-  "title": "Cinematic teaser featuring a mechanical dragon",
-  "title_zh": "包含机械龙的电影感预告片",
-  "category": "short-film",
-  "author": {
-   "handle": "YaReYaRu30Life",
-   "name": "ヤレヤル（AI動画/AI画像/AI音楽）"
-  },
-  "postUrl": "https://x.com/YaReYaRu30Life/status/2125778594903507200",
-  "createdAt": "2026-11-26T02:28:06.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125778594903507200/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125778594903507200/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125778594903507200"
- },
- {
   "id": "2125779650119159838",
   "title": "A cyber battle in a back alley",
   "title_zh": "巷弄深处的赛博朋克战斗",
@@ -4552,24 +3972,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125783412732821651"
  },
  {
-  "id": "2125784622084784309",
-  "title": "Anime character making eye contact and talking",
-  "title_zh": "眼神对视并开口说话的动漫角色",
-  "category": "anime",
-  "author": {
-   "handle": "neco1751662",
-   "name": "neco - AI Anime"
-  },
-  "postUrl": "https://x.com/neco1751662/status/2125784622084784309",
-  "createdAt": "2026-11-26T02:52:03.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125784622084784309/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125784622084784309/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125784622084784309"
- },
- {
   "id": "2125785577853505967",
   "title": "Cost and quality comparison between two video models",
   "title_zh": "两款视频生成模型的成本与画质对比",
@@ -4604,24 +4006,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125786637858660457/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125786637858660457"
- },
- {
-  "id": "2125786890880307546",
-  "title": "Futuristic city emerging from a cup of coffee",
-  "title_zh": "从一杯咖啡中诞生的未来都市",
-  "category": "showcase",
-  "author": {
-   "handle": "tkz_aiart",
-   "name": "たくぞー｜AI動画ツール実測レビュー"
-  },
-  "postUrl": "https://x.com/tkz_aiart/status/2125786890880307546",
-  "createdAt": "2026-11-26T03:01:04.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125786890880307546/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125786890880307546/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125786890880307546"
  },
  {
   "id": "2125787035004768348",
@@ -4734,24 +4118,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125789673348034738"
  },
  {
-  "id": "2125789897097355571",
-  "title": "Daily life of a cartoon bear cooking breakfast",
-  "title_zh": "卡通小熊做早餐的日常生活",
-  "category": "anime",
-  "author": {
-   "handle": "RafuMofu8",
-   "name": "らふ🧸| Rafu@AI Video Creator"
-  },
-  "postUrl": "https://x.com/RafuMofu8/status/2125789897097355571",
-  "createdAt": "2026-11-26T03:13:01.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125789897097355571/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125789897097355571/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125789897097355571"
- },
- {
   "id": "2125790406600450103",
   "title": "Characters discussing on the seashore",
   "title_zh": "角色在海边讨论应对方案",
@@ -4768,24 +4134,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125790406600450103/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125790406600450103"
- },
- {
-  "id": "2125791367880401140",
-  "title": "A soldier holding a rifle in a trench",
-  "title_zh": "一名士兵在战壕中手持步枪",
-  "category": "short-film",
-  "author": {
-   "handle": "polijus8654",
-   "name": "polijus"
-  },
-  "postUrl": "https://x.com/polijus8654/status/2125791367880401140",
-  "createdAt": "2026-11-26T03:18:52.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125791367880401140/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125791367880401140/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125791367880401140"
  },
  {
   "id": "2125791629982437711",
@@ -4936,24 +4284,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125795386313101657"
  },
  {
-  "id": "2125795562448711704",
-  "title": "Hoverboard frontline continuous camera scene",
-  "title_zh": "悬浮滑板前线连续运镜场景",
-  "category": "action",
-  "author": {
-   "handle": "YaReYaRu30Life",
-   "name": "ヤレヤル（AI動画/AI画像/AI音楽）"
-  },
-  "postUrl": "https://x.com/YaReYaRu30Life/status/2125795562448711704",
-  "createdAt": "2026-11-26T03:35:32.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125795562448711704/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125795562448711704/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125795562448711704"
- },
- {
   "id": "2125795679201304780",
   "title": "A woman walking through a rainy Paris morning",
   "title_zh": "一名女子走在巴黎雨天的早晨",
@@ -5009,24 +4339,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125796158824161579"
  },
  {
-  "id": "2125796498768384035",
-  "title": "A dramatic fight scene with a sister",
-  "title_zh": "与妹妹展开的一场戏剧性打斗对决",
-  "category": "action",
-  "author": {
-   "handle": "visualaeonart",
-   "name": "Soumya"
-  },
-  "postUrl": "https://x.com/visualaeonart/status/2125796498768384035",
-  "createdAt": "2026-11-26T03:39:15.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125796498768384035/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125796498768384035/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125796498768384035"
- },
- {
   "id": "2125796933814083982",
   "title": "Two sea otters holding paws through a storm",
   "title_zh": "暴风雨中紧紧牵手的两只海獭",
@@ -5079,24 +4391,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125797697567490321/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125797697567490321"
- },
- {
-  "id": "2125799461335290108",
-  "title": "A 1940s Hollywood mystery movie scene",
-  "title_zh": "一部40年代好莱坞悬疑电影片段",
-  "category": "short-film",
-  "author": {
-   "handle": "Maxime887812",
-   "name": "Maxime"
-  },
-  "postUrl": "https://x.com/Maxime887812/status/2125799461335290108",
-  "createdAt": "2026-11-26T03:51:01.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125799461335290108/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125799461335290108/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125799461335290108"
  },
  {
   "id": "2125801037558870158",
@@ -5246,24 +4540,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125804324777607593"
  },
  {
-  "id": "2125805243329908927",
-  "title": "A small encounter in a forest",
-  "title_zh": "森林中的一场小小邂逅",
-  "category": "short-film",
-  "author": {
-   "handle": "neco1751662",
-   "name": "neco - AI Anime"
-  },
-  "postUrl": "https://x.com/neco1751662/status/2125805243329908927",
-  "createdAt": "2026-11-26T04:14:00.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125805243329908927/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125805243329908927/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125805243329908927"
- },
- {
   "id": "2125805598239269190",
   "title": "Three dates by candlelight",
   "title_zh": "烛光下的三次约会场景",
@@ -5411,24 +4687,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125818653371167211"
  },
  {
-  "id": "2125819548901474565",
-  "title": "A dark fantasy sage scene in MAGI-2",
-  "title_zh": "MAGI-2制作的黑暗奇幻贤者场景",
-  "category": "short-film",
-  "author": {
-   "handle": "os_shim",
-   "name": "Shim"
-  },
-  "postUrl": "https://x.com/os_shim/status/2125819548901474565",
-  "createdAt": "2026-11-26T05:10:50.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125819548901474565/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125819548901474565/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125819548901474565"
- },
- {
   "id": "2125821453266546701",
   "title": "Cinematic 3D chibi animated commercial",
   "title_zh": "影院级3D赤壁风格动画广告",
@@ -5443,7 +4701,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125821453266546701/video.mp4",
   "promptShared": true,
   "promptText": "WELCOME TO THE COCA-COLA FACTORY – Cinematic 3D Chibi Animated Commercial 🧩\n\nMade using MAGI-2 on @higgsfield\n\n#HiggsfieldPartner\n\nPrompt :\n\nCreate a heartwarming, ultra-cute 3D chibi animated commercial inside a massive, magical soft drink factory operated entirely by tiny chibi workers. The factory is bright, spotless, colorful, and beautifully organized, featuring enormous stainless-steel machines, sparkling glass bottles, glowing red conveyor belts, and warm cinematic lighting. Every worker has oversized sparkling eyes, rosy cheeks, tiny proportions, expressive faces, and adorable waddling movements. All workers wear miniature red uniforms, little white gloves, and matching caps.\n\nSCENE 1 – THE GRAND FACTORY ENTRANCE\n\nThe video opens with a spectacular cinematic fly-through entering the enormous beverage factory. Hundreds of adorable miniature workers enthusiastically run around, waving to each other and preparing for the day's production. Giant empty glass bottles travel along conveyor belts while tiny workers guide them into position. Some workers operate miniature forklifts carrying stacks of bottles, while others proudly inspect the production lines.\n\nSCENE 2 – THE MAGICAL BEVERAGE PRODUCTION\n\nThe camera glides alongside enormous industrial mixing tanks filled with a rich, dark fizzy beverage. Tiny workers in protective uniforms carefully monitor the machines, turn miniature control wheels, and inspect the flowing liquid. One adorable worker stands on a tiny ladder, checking a pressure gauge while another gives an enthusiastic thumbs-up. Bubbles rise through transparent pipes, creating a mesmerizing visual spectacle.\n\nSCENE 3 – BOTTLE FILLING STATION\n\nTransition into a spectacular automated bottling station. Rows of sparkling glass bottles move beneath giant filling machines as the dark fizzy drink pours into each bottle with perfect precision. Tiny workers carefully supervise the process, enthusiastically cheering whenever a bottle gets filled. One little worker proudly holds up a perfectly filled bottle while his colleagues celebrate with tiny high-fives.\n\nSCENE 4 – THE BUBBLE MAGIC\n\nCapture beautiful macro close-ups of sparkling carbonation, tiny bubbles rising inside freshly filled bottles, condensation forming on chilled glass surfaces, and refreshing droplets sliding down the bottles. Miniature workers admire the finished drinks. One worker playfully tries to catch a floating bubble while another carefully polishes a bottle with an oversized cleaning cloth.\n\nSCENE 5 – THE PACKAGING DEPARTMENT\n\nThe camera moves through a lively packaging section where hundreds of bottles are automatically capped, labeled, and packed into colorful red cartons. Tiny workers coordinate everything with incredible enthusiasm. Some carefully arrange bottles inside cartons, others seal the packages, while miniature forklifts transport finished products toward the warehouse. One tiny worker proudly stands on top of a carton, directing traffic like a factory supervisor.\n\nSCENE 6 – THE GRAND FINALE\n\nThe entire factory becomes a celebration. Hundreds of adorable workers gather around a giant beautifully presented chilled bottle surrounded by sparkling droplets and refreshing ice cubes. They cheer, clap, wave their tiny hands, and perform adorable victory dances. One little worker proudly raises a miniature bottle toward the camera as everyone celebrates another successful production day.\n\nThe camera slowly pulls backward and rises above the factory floor, revealing the enormous, beautifully illuminated production facility filled with busy miniature workers and endless rows of finished bottles.",
-  "featured": 5,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125821453266546701/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125821453266546701"
  },
@@ -5482,6 +4740,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125822150460522526/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125822150460522526"
+ },
+ {
+  "id": "2125822884648263964",
+  "title": "Cinematic storytelling sequence from rough sketches",
+  "title_zh": "从草图演化的电影叙事片段",
+  "category": "short-film",
+  "author": {
+   "handle": "CurieuxExplorer",
+   "name": "Dev Khanna"
+  },
+  "postUrl": "https://x.com/CurieuxExplorer/status/2125822884648263964",
+  "createdAt": "2026-11-26T05:24:06.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125822884648263964/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125822884648263964/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125822884648263964"
  },
  {
   "id": "2125823020988256624",
@@ -5551,7 +4827,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125828754916167998/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125828754916167998/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125828754916167998"
  },
@@ -5590,6 +4866,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125831199247741365/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125831199247741365"
+ },
+ {
+  "id": "2125831415732596754",
+  "title": "Video quality comparison between two generation models",
+  "title_zh": "两款视频生成模型的画质对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HitPawofficial",
+   "name": "HitPaw"
+  },
+  "postUrl": "https://x.com/HitPawofficial/status/2125831415732596754",
+  "createdAt": "2026-11-26T05:58:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125831415732596754/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125831415732596754/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125831415732596754"
  },
  {
   "id": "2125832298574590127",
@@ -5720,24 +5014,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125843307872071890"
  },
  {
-  "id": "2125843415804133685",
-  "title": "A short music video featuring seasonal scenery",
-  "title_zh": "呈现四季景色的短篇音乐视频",
-  "category": "music-video",
-  "author": {
-   "handle": "AwajiAqua",
-   "name": "淡路✰アクア | AI Ponkotsu Works"
-  },
-  "postUrl": "https://x.com/AwajiAqua/status/2125843415804133685",
-  "createdAt": "2026-11-26T06:45:41.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125843415804133685/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125843415804133685/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125843415804133685"
- },
- {
   "id": "2125843433659261153",
   "title": "Comparison of character consistency between AI models",
   "title_zh": "不同AI模型间的人物一致性对比",
@@ -5754,24 +5030,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125843433659261153/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125843433659261153"
- },
- {
-  "id": "2125844367885873583",
-  "title": "A mechanical hummingbird emerging from gears",
-  "title_zh": "从无数齿轮中诞生的机械蜂鸟",
-  "category": "ad",
-  "author": {
-   "handle": "tkz_aiart",
-   "name": "たくぞー｜AI動画ツール実測レビュー"
-  },
-  "postUrl": "https://x.com/tkz_aiart/status/2125844367885873583",
-  "createdAt": "2026-11-26T06:49:28.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125844367885873583/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125844367885873583/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125844367885873583"
  },
  {
   "id": "2125844812167569730",
@@ -5915,27 +5173,9 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125849409078645150/video.mp4",
   "promptShared": true,
   "promptText": "The last train home just became a nightmare.\n\nCreated with MAGI-2 at @higgsfield \n\nPrompt: TITLE: THE LAST TRAIN HOME. Create a 30-second ultra-realistic live-action Korean zombie-apocalypse horror sequence. The protagonist is the same beautiful young adult Korean university student throughout: long straight black hair, natural Korean facial features, fitted white blouse, dark pleated skirt, black knee-high socks and casual sneakers. Preserve her exact face, hairstyle, body proportions and clothing. 00:00–00:04: Wide cinematic shot of an underground Seoul subway platform late evening. Fluorescent lights flicker, a few passengers wait silently. The girl rushes down the stairs clutching her backpack, looks behind her, terrified. A distant emergency announcement echoes. 00:04–00:08: She notices a male passenger standing motionless beside a vending machine, head tilted unnaturally, dark liquid at his mouth, fingers twitching. She steps backward. 00:08–00:12: He violently turns and charges. She screams and dodges; he crashes into the vending machine, drinks scatter, passengers flee. 00:12–00:17: A subway train arrives with metallic screech. She runs inside as terrified passengers push past. In the train window reflection, infected figures sprint down the platform. Doors close as infected passengers slam their hands against the glass. 00:17–00:22: Train moves. She collapses into a seat gasping. Across the carriage, an elderly passenger sits motionless staring at her. A child beside him points toward her backpack. 00:22–00:26: She turns. Her backpack moves by itself; scratching comes from inside. She unzips it slightly and a bloodied infected hand reaches out. She recoils. The elderly passenger raises his head, revealing completely black eyes. 00:26–00:30: Carriage lights switch off one by one. Emergency red lights illuminate her terrified face. She looks toward camera. Her nose bleeds, black veins spread from wrist toward neck, eyes turn completely black. She lunges directly toward camera. CUT TO BLACK. Native realistic audio: subway ambience, distant Korean announcements, footsteps, electrical buzzing, subway braking, door chimes, glass impacts, screams, heavy breathing, metallic rattling, infected growls, sudden silence. No background music. Photorealistic Korean zombie-horror movie, cinematic live action, practical infection makeup, detailed skin, realistic expressions and body movement, handheld camera, subway lighting, dramatic shadows, motion blur, suspenseful pacing, cinematic color grading. Negative: anime, cartoon, illustration, plastic skin, artificial CGI, excessive gore, graphic dismemberment, duplicated characters, face morphing, changing clothes, inconsistent identity, distorted anatomy, extra limbs, floating objects, impossible physics, subtitles, text, logos, watermarks.",
-  "featured": null,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125849409078645150/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125849409078645150"
- },
- {
-  "id": "2125851080865223018",
-  "title": "Action choreography with ink particle effects",
-  "title_zh": "融合水墨粒子特效的动作戏",
-  "category": "action",
-  "author": {
-   "handle": "lansenai",
-   "name": "澜森"
-  },
-  "postUrl": "https://x.com/lansenai/status/2125851080865223018",
-  "createdAt": "2026-11-26T07:16:08.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125851080865223018/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125851080865223018/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125851080865223018"
  },
  {
   "id": "2125851271689392633",
@@ -6011,6 +5251,43 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125853960187888050"
  },
  {
+  "id": "2125855459806724152",
+  "title": "Turning 3D previs into realistic cinematic video",
+  "title_zh": "将3D预览动画转为写实电影质感视频",
+  "category": "showcase",
+  "author": {
+   "handle": "itsPolloAI",
+   "name": "Pollo AI"
+  },
+  "postUrl": "https://x.com/itsPolloAI/status/2125855459806724152",
+  "createdAt": "2026-11-26T07:33:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125855459806724152/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125855459806724152/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125855459806724152"
+ },
+ {
+  "id": "2125859663866679782",
+  "title": "Open world action gameplay inspired by GTA",
+  "title_zh": "受GTA启发的开放世界动作游戏概念",
+  "category": "action",
+  "author": {
+   "handle": "mehvishs25",
+   "name": "Meem"
+  },
+  "postUrl": "https://x.com/mehvishs25/status/2125859663866679782",
+  "createdAt": "2026-11-26T07:50:15.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125859663866679782/video.mp4",
+  "promptShared": true,
+  "promptText": "Exploring the GTA gaming concept today.\n\nMade with MAGI-2 on @higgsfield\n\n#HiggsfieldPartner\n\nPrompt:\nCreate a 30-second ultra-realistic, next-generation open-world action-adventure gameplay showcase inspired by GTA VI. 16:9 widescreen, photorealistic AAA graphics, smooth third-person camera, realistic physics, detailed environments, neon-soaked Vice City atmosphere, and authentic in-game HUD.\n\nCHARACTER LOCK – JAMIE: Young adult woman with a natural attractive face, long dark hair in a high ponytail, fitted black tank top, loose light-blue denim jeans, white sneakers, and silver necklace. Maintain identical face, hairstyle, outfit, and proportions throughout.\n\n30-SECOND GAMEPLAY – 9 CONNECTED MOMENTS\n\n0–3s | Downtown Trouble: Jamie walks through a busy Vice City street at sunset. A black luxury SUV speeds past with two police cruisers chasing it. Pedestrians react naturally. Mission: “Something’s going down.”\n\n3–6s | Running Escape: Jamie runs into a multilevel parking garage as police sirens echo through the streets. Dynamic over-the-shoulder gameplay camera.\n\n6–9s | Rooftop Shortcut: She races up a parking ramp and reaches the rooftop, revealing a spectacular city skyline and ocean.\n\n9–12s | Stunt Jump: Jamie leaps across a gap between two parking structures and lands on the opposite rooftop. Brief cinematic camera movement, realistic landing animation.\n\n12–15s | Motorcycle Getaway: She descends a metal fire escape into an alley, approaches a parked motorcycle, and gets on. Interaction: “Press E – Enter Vehicle.”\n\n15–18s | Police Chase: Jamie accelerates through busy neon-lit streets, weaving between traffic as police cruisers follow. Wanted level rises to two stars.\n\n18–21s | Waterfront Ride: She takes a sharp turn onto a seaside boulevard, passing palm trees, luxury hotels, restaurants, and glowing storefronts.\n\n21–25s | Escape: Jamie rides through an underpass and reaches a quiet marina. Police lights disappear in the distance. HUD: “WANTED LEVEL CLEARED.”\n\n25–30s | City Finale: She parks beside luxury yachts and walks toward the waterfront railing. Camera slowly pulls back and rises, revealing the spectacular illuminated Vice City skyline, ocean reflections, and nighttime atmosphere. Mission: “Explore Vice City.”\n\nHUD: Consistent circular mini-map bottom-left, cash counter top-right, wanted stars, mission objectives, interaction prompts, and contextual notifications. Keep everything legible.\n\nVISUAL QUALITY: Premium AAA gameplay graphics, realistic character animations, believable NPC behavior, detailed vehicles, dynamic lighting, ray-traced reflections, natural movement, and seamless scene transitions.\n\nMake it feel like actual uninterrupted gameplay footage, not a slideshow or collection of cinematic clips. No character morphing, outfit changes, duplicated characters, unnatural physics, or artificial-looking environments. Preserve Jamie’s identity in every scene.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125859663866679782/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125859663866679782"
+ },
+ {
   "id": "2125861469677867181",
   "title": "Woman tapping steering wheel during sunset drive",
   "title_zh": "落日驾车时手指轻敲方向盘",
@@ -6066,6 +5343,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125863211102802157"
  },
  {
+  "id": "2125863649613168756",
+  "title": "Jensen Huang dodging bullets in bullet time",
+  "title_zh": "黄仁勋在子弹时间中躲避射击",
+  "category": "comparison",
+  "author": {
+   "handle": "testdon666",
+   "name": "ラバウマ🇰🇵"
+  },
+  "postUrl": "https://x.com/testdon666/status/2125863649613168756",
+  "createdAt": "2026-11-26T08:06:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125863649613168756/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125863649613168756/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125863649613168756"
+ },
+ {
   "id": "2125866071609795068",
   "title": "Side by side comparison between MAGI-2 and Seedance",
   "title_zh": "MAGI-2与Seedance 2.5多镜头一致性对比",
@@ -6084,6 +5379,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125866071609795068"
  },
  {
+  "id": "2125866596501795058",
+  "title": "A jungle hunt with tribal characters",
+  "title_zh": "部落丛林狩猎场景",
+  "category": "short-film",
+  "author": {
+   "handle": "saniaspeaks_",
+   "name": "𝗦𝗮𝗻𝗶𝗮"
+  },
+  "postUrl": "https://x.com/saniaspeaks_/status/2125866596501795058",
+  "createdAt": "2026-11-26T08:17:47.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125866596501795058/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125749235652145312/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125866596501795058"
+ },
+ {
   "id": "2125867654812512421",
   "title": "3D blockout turned into cinematic rooftop shot",
   "title_zh": "3D 粗模转化为电影感屋顶镜头",
@@ -6100,25 +5413,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125906258326679808/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125867654812512421"
- },
- {
-  "id": "2125868906971607273",
-  "title": "Dramatic cliff fall short film with lip sync",
-  "title_zh": "带对口型的戏剧性坠崖剧情短片",
-  "category": "short-film",
-  "author": {
-   "handle": "johnAGI168",
-   "name": "John"
-  },
-  "postUrl": "https://x.com/johnAGI168/status/2125868906971607273",
-  "createdAt": "2026-11-26T08:26:58.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125868906971607273/video.mp4",
-  "promptShared": true,
-  "promptText": "Created with MAGI-2 at Higgsfield 🎬\n\nPulling off a 24s dramatic short drama straight from image-to-video is no joke: keeping character consistency and pacing tight across a cliff fall, clean readable text on the parachute, the sudden tears-to-laughter shift, and ending on a lip-synced sheep punchline with synced dialogue and foley.\n\nPrompt in the replies 👇",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125868906971607273/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125868906971607273"
  },
  {
   "id": "2125869111775461507",
@@ -6250,25 +5544,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125877422587596881"
  },
  {
-  "id": "2125878259632234612",
-  "title": "Animated caricature of Thanksgiving dinner interrogation",
-  "title_zh": "手绘讽刺漫画风格的感恩节盘问",
-  "category": "anime",
-  "author": {
-   "handle": "airina_xyz",
-   "name": "AIrina (Virtual Media Net)"
-  },
-  "postUrl": "https://x.com/airina_xyz/status/2125878259632234612",
-  "createdAt": "2026-11-26T09:04:08.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125878259632234612/video.mp4",
-  "promptShared": true,
-  "promptText": "The traditional Thanksgiving interrogation.\n\nI wanted to push rapid conversational editing, multiple speaking characters, expressive caricature animation and precisely timed reaction shots.\n\nCreated with MAGI-2 at Higgsfield.\n\nPrompt:\n\nStyle: Vintage hand-drawn editorial caricature\n20-second fast-paced animated comedy with intricate pen-and-ink cross-hatching, colored-pencil shading, warm watercolor washes and exaggerated vintage caricature proportions. An awkward young adult man with enormous round glasses and a mustard sweater sits at a Thanksgiving dinner table surrounded by excessively curious elderly relatives.\n00:00–00:02: Extreme close-up of the young man's nervous eyes as an elderly aunt leans toward him.\n00:02–00:04: The aunt asks, \"So, are you dating anyone?\"\n00:04–00:06: Before he can answer, an uncle asks, \"How's your career?\"\n00:06–00:08: Another aunt interrupts, \"When are you buying a house?\"\n00:08–00:10: Rapid rotating camera around the increasingly overwhelmed young man.\n00:10–00:12: Close-up of sweat forming beneath his oversized glasses.\n00:12–00:14: His grandmother suddenly raises her hand to silence everyone.\n00:14–00:17: She gently asks, \"Would you like more potatoes?\"\n00:17–00:20: He grabs her hands, looks at her with enormous grateful eyes and whispers, \"You're my favorite.\"\nMaintain distinct caricature faces, clothing, seating arrangements and organic sketchy textures. Rapid conversational timing, expressive reaction animation and accurate speaker-specific lip-sync. SFX: overlapping room chatter, cutlery, nervous breathing and synchronized dialogue. No music.",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125878259632234612/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125878259632234612"
- },
- {
   "id": "2125878330507563502",
   "title": "Cinematic sword fight in the rain with sparks",
   "title_zh": "雨中火花飞溅的电影感剑战",
@@ -6287,22 +5562,22 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125878330507563502"
  },
  {
-  "id": "2125887186713067581",
-  "title": "Side by side comparison of MAGI-2 and Seedance",
-  "title_zh": "MAGI-2与Seedance同向画质对比",
-  "category": "comparison",
+  "id": "2125879014023917960",
+  "title": "Black and white manga animated into color anime",
+  "title_zh": "黑白漫画转全彩动态动漫场景",
+  "category": "anime",
   "author": {
-   "handle": "nicravesh",
-   "name": "KIKI"
+   "handle": "Maxime887812",
+   "name": "Maxime"
   },
-  "postUrl": "https://x.com/nicravesh/status/2125887186713067581",
-  "createdAt": "2026-11-26T09:39:37.000Z",
+  "postUrl": "https://x.com/Maxime887812/status/2125879014023917960",
+  "createdAt": "2026-11-26T09:07:08.000Z",
   "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125887186713067581/video.mp4",
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125879014023917960/video.mp4",
   "promptShared": false,
   "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125887186713067581/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125887186713067581"
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125739231477899698/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125879014023917960"
  },
  {
   "id": "2125889275002495136",
@@ -6395,23 +5670,22 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125906258326679808"
  },
  {
-  "id": "2125907956541849634",
-  "title": "Thanksgiving dinner filmed as a live sports broadcast",
-  "title_zh": "体育赛事直播风格的感恩节晚餐",
-  "category": "short-film",
+  "id": "2125909933619056873",
+  "title": "Cinematic action scene with collapsing road",
+  "title_zh": "道路坍塌的电影感动作场景",
+  "category": "action",
   "author": {
-   "handle": "airina_xyz",
-   "name": "AIrina (Virtual Media Net)"
+   "handle": "ViralOps_",
+   "name": "ViralOps"
   },
-  "postUrl": "https://x.com/airina_xyz/status/2125907956541849634",
-  "createdAt": "2026-11-26T11:02:08.000Z",
+  "postUrl": "https://x.com/ViralOps_/status/2125909933619056873",
+  "createdAt": "2026-11-26T11:10:00.000Z",
   "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125907956541849634/video.mp4",
-  "promptShared": true,
-  "promptText": "Thanksgiving dinner deserves professional sports coverage.\n\nThis experiment combines broadcast-style cinematography, slow-motion replay, coherent object trajectories, rapid commentary and ensemble performances.\n\nCreated with MAGI-2 at Higgsfield.\n\nPrompt:\n\n20-second absurdist Thanksgiving comedy filmed like a professional live sports broadcast. An original enthusiastic sports commentator wearing a navy blazer and a large headset provides dramatic commentary on an ordinary family passing dishes around the Thanksgiving dinner table. The family remains completely oblivious to the seriousness of the coverage.\n- 00:00–00:02: Extreme close-up of the commentator shouting, \"Here comes the opening pass!\"\n- 00:02–00:04: Slow-motion tracking shot of a grandmother passing a bowl of mashed potatoes across the table.\n- 00:04–00:06: Overhead shot following the bowl's trajectory between two relatives.\n- 00:06–00:08: The commentator excitedly announces, \"Beautiful technique!\"\n- 00:08–00:10: Macro shot of a guest catching a sliding breadbasket.\n- 00:10–00:12: A young adult reaches dramatically across the table for the gravy.\n- 00:12–00:14: Slow-motion replay of the gravy boat being intercepted by another relative.\n- 00:14–00:17: Close-up of the commentator shouting, \"An incredible interception!\"\n- 00:17–00:20: Wide reveal of the commentator sitting at the dinner table, talking into a spoon. His wife quietly says, \"Please stop.\"\nMaintain consistent family members, table geography, dish trajectories and natural reactions. Authentic sports-broadcast framing, dramatic slow-motion replay and accurate lip-sync. No broadcaster logos or graphics. SFX: cutlery, dishes sliding, energetic commentary and awkward silence. No music.",
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125909933619056873/video.mp4",
+  "promptShared": false,
   "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125907956541849634/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125907956541849634"
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125909933619056873/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125909933619056873"
  },
  {
   "id": "2125915609288335391",
@@ -6560,6 +5834,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125934203900747887/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125934203900747887"
+ },
+ {
+  "id": "2125937867998572778",
+  "title": "Small wings in a vast sky",
+  "title_zh": "小小翅膀与广阔天空",
+  "category": "showcase",
+  "author": {
+   "handle": "neco1751662",
+   "name": "neco - AI Anime"
+  },
+  "postUrl": "https://x.com/neco1751662/status/2125937867998572778",
+  "createdAt": "2026-11-26T13:01:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125937867998572778/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125937867998572778/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125937867998572778"
  },
  {
   "id": "2125939349527355783",
@@ -6726,6 +6018,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125947933606711714"
  },
  {
+  "id": "2125948941913018712",
+  "title": "Short scene generated with MAGI-2",
+  "title_zh": "MAGI-2生成的短剧镜头",
+  "category": "short-film",
+  "author": {
+   "handle": "neco1751662",
+   "name": "neco - AI Anime"
+  },
+  "postUrl": "https://x.com/neco1751662/status/2125948941913018712",
+  "createdAt": "2026-11-26T13:45:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125948941913018712/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125948941913018712/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125948941913018712"
+ },
+ {
   "id": "2125950365770342434",
   "title": "Cinematic music video sequence with atmospheric lighting",
   "title_zh": "具氛围感光影的电影级音乐视频片段",
@@ -6776,7 +6086,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2125952567184339333/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2125952567184339333/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125952567184339333"
  },
@@ -6983,6 +6293,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2125996946049663370"
  },
  {
+  "id": "2126002029009203509",
+  "title": "A goblin animation test for Ashveil Meridian",
+  "title_zh": "灰幕子午线的地精动画测试",
+  "category": "showcase",
+  "author": {
+   "handle": "TechyTricksAI",
+   "name": "TechyTricksAI"
+  },
+  "postUrl": "https://x.com/TechyTricksAI/status/2126002029009203509",
+  "createdAt": "2026-11-26T17:15:57.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126002029009203509/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126002029009203509/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126002029009203509"
+ },
+ {
   "id": "2126002457939702011",
   "title": "Storm of the black tide sea adventure",
   "title_zh": "黑潮风暴海上冒险动作场景",
@@ -6997,7 +6325,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126002457939702011/video.mp4",
   "promptShared": true,
   "promptText": "When the sea turns deadly, only the fearless survive. STORM OF THE BLACK TIDE  Adventure awaits.\n\nCreate it using MAGI-2 on @higgsfield\n\n#HiggsfieldPartner\nPrompt:\nGENRE: Cinematic sea adventure action\nDURATION: Exactly 30 seconds, 16:9, photorealistic live-action film look\n\nSTYLE: Shot like a real Hollywood sea adventure film. Natural real-time motion at normal speed, NO slow motion, NO time-lapse. Dynamic handheld camera, sweeping drone shots, low-angle deck shots, shallow depth of field, realistic skin texture, heavy rain, dark storm clouds, lightning flashes, cold blue and grey color grade with warm lantern highlights, subtle film grain, realistic water spray and motion blur.\n\nCHARACTERS (keep identical in every shot):\n- Captain Elena: 35-year-old woman, long dark brown hair tied back and wet from rain, dark red long coat, black tricorn hat, leather belt, determined expression.\n- Jack: 40-year-old man, short grey beard, brown vest, white shirt with rolled sleeves, first mate, strong and focused.\n(Generic fictional crew, no real movie characters.)\n\nSHIP: A large wooden 18th-century pirate sailing ship named \"Black Tide\" with dark sails and a carved figurehead.\n\nSETTING: Open ocean at night in a violent storm, huge waves, lightning in the sky, rocky sea cliffs ahead.\n\nSHOT 1 (0-6s): Wide drone shot of the Black Tide being tossed on huge waves, sails flapping, lightning cracking across the sky. Cut to deck level: crew members run across the wet deck pulling ropes. Elena stands at the helm holding the wheel with both hands.\n\nSHOT 2 (6-13s): Close-up of Elena's face, rain streaming down. She shouts: \"Hold the sails, Jack!\" Jack grabs a rope and hauls it with all his strength, boots sliding on the wet deck. A massive wave crashes over the bow and water floods the deck.\n\nSHOT 3 (13-20s): The main mast creaks. A thick rope snaps and whips across the deck. Jack ducks, then jumps and catches a loose rope, tying it fast around a post. Elena turns the wheel hard. Camera follows from behind as the ship tilts sharply.\n\nSHOT 4 (20-26s): Wide shot: giant rocky cliffs appear through the storm, with a narrow gap between them. Elena says: \"Hold on!\" The ship surges forward and squeezes through the gap, wood scraping rock, spray flying in all directions.\n\nSHOT 5 (26-30s): The ship exits into calmer water. Clouds break and a beam of golden sunrise light hits the sails. Close-up of Elena exhaling, a small smile on her face, Jack beside her nodding. Cut to black. White text on screen: \"STORM OF THE BLACK TIDE\".\n\nAUDIO: Thunder, roaring waves, howling wind, creaking wood, flapping sails, rope snapping, crew shouting, powerful orchestral action score. English dialogue with natural voice, no music lyrics.\n\nAVOID: Slow motion, blood, gore, guns, cannons firing, skeletons, ghosts, monsters, cartoon look, slideshow effect, static images, real movie characters, face or outfit changes between shots, ship changing shape or color between shots.",
-  "featured": null,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126002457939702011/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126002457939702011"
  },
@@ -7018,24 +6346,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126007866431799455/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126007866431799455"
- },
- {
-  "id": "2126008139573088257",
-  "title": "Storm dogfight model comparison",
-  "title_zh": "暴风雨空战模型对比",
-  "category": "comparison",
-  "author": {
-   "handle": "YouArtStudio",
-   "name": "YouArt"
-  },
-  "postUrl": "https://x.com/YouArtStudio/status/2126008139573088257",
-  "createdAt": "2026-11-26T17:40:14.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126008139573088257/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126008139573088257/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126008139573088257"
  },
  {
   "id": "2126012160967160033",
@@ -7235,5 +6545,733 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126058462056415470/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126058462056415470"
+ },
+ {
+  "id": "2126064741848404476",
+  "title": "A galaxy in the palm of a hand",
+  "title_zh": "手心之中的银河系",
+  "category": "showcase",
+  "author": {
+   "handle": "Pixel_Muse7",
+   "name": "Pixel Muse"
+  },
+  "postUrl": "https://x.com/Pixel_Muse7/status/2126064741848404476",
+  "createdAt": "2026-11-26T21:25:09.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126064741848404476/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126064741848404476/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126064741848404476"
+ },
+ {
+  "id": "2126067731535687702",
+  "title": "Driving on a rainbow road into another universe",
+  "title_zh": "在彩虹路上驾车驶入另一个宇宙",
+  "category": "short-film",
+  "author": {
+   "handle": "FenixTechX",
+   "name": "Fenix"
+  },
+  "postUrl": "https://x.com/FenixTechX/status/2126067731535687702",
+  "createdAt": "2026-11-26T21:37:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126067731535687702/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126067731535687702/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126067731535687702"
+ },
+ {
+  "id": "2126071651443810750",
+  "title": "A complex scene with cut transitions",
+  "title_zh": "多场景剪辑过渡镜头测试",
+  "category": "showcase",
+  "author": {
+   "handle": "_palemaster",
+   "name": "palemaster"
+  },
+  "postUrl": "https://x.com/_palemaster/status/2126071651443810750",
+  "createdAt": "2026-11-26T21:52:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126071651443810750/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126071651443810750/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126071651443810750"
+ },
+ {
+  "id": "2126083955183284351",
+  "title": "Characters switching places in a consistency test",
+  "title_zh": "角色交换位置的一致性测试视频",
+  "category": "comparison",
+  "author": {
+   "handle": "WuxiaRocks",
+   "name": "WuxIA Rocks"
+  },
+  "postUrl": "https://x.com/WuxiaRocks/status/2126083955183284351",
+  "createdAt": "2026-11-26T22:41:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126083955183284351/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126083955183284351/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126083955183284351"
+ },
+ {
+  "id": "2126084218660827582",
+  "title": "Anime test showcasing a sense of speed",
+  "title_zh": "展现疾走感的二维手绘动漫测试",
+  "category": "anime",
+  "author": {
+   "handle": "yachimat_manga",
+   "name": "yachimat - AI Short Anime"
+  },
+  "postUrl": "https://x.com/yachimat_manga/status/2126084218660827582",
+  "createdAt": "2026-11-26T22:42:33.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126084218660827582/video.mp4",
+  "promptShared": true,
+  "promptText": "MAGI-2疾走感テスト。結果はめちゃくちゃ良好！！\nてか絵柄保持力あるのにこの動きしてくれるの？？で、安いの？？？\n\n特に最後、〇〇スライドの前に来るバージョンですが、これでもなかなかでないんですよ。だから当時苦労したやつをあえてチャレンジしてみたんですが、いけました。\n\nプロンプトはちょっと雑なんですが（ｗ）貼っておきますね。キャラの描写とかスタイルちゃんと分けずにハードコードしちゃってるのでその辺は直して使ってください\n\n＜プロンプト＞\n\nKeep the exact art style, line art, colours, muted sepia-and-lavender palette and lighting of the start frame; same character, same outfit, same world. Beautiful anime compositing: soft diffusion bloom on the highlights, thin light rays, drifting dust and tiny sparkles catching the light, shallow depth of field with round bokeh, a slight handheld drift. Flat hand-drawn 2D anime, not 3D, not photoreal. No text, no logo, no watermark, no extra people.。\n\n参考<画像1>は主人公の人物設定。成人女性、銀白色の短いボブ、長い前髪が右目の一部へ自然に重なる。左右とも灰緑色の瞳が前髪の隙間から見え、目元は素肌と銀髪だけで構成する。黒いハイネックのライディングウェア、暗い下衣、黒い脚衣とブーツを全鏡頭で保つ。画像内のベージュ背景、設定画レイアウト、複数の人物像、立ちポーズは映像へ持ち込まない。\n\n参考<画像2>はバイクと舞台の設定。青黒色の重いスポーツバイク、太いタイヤ、一体型カウル、濡れたネオ東京高架高速道路、シアンとマゼンタのネオン、低い後方視点を使用する。バイク形状と色を全鏡頭で保つ。\n\n全体の運動ルール：主人公は同じ東向き高架高速道路を止まらず走り続ける。前の動作の反動と姿勢回復が、そのまま次の動作の準備になる。バイクは横へ瞬間移動しない。スロットル、制動荷重、カウンターステア、リーン、タイヤの接地、サスペンションの沈みと反発を順番に描く。シアンの高層ビルは進行方向の左、マゼンタの縦看板は右、中央高架は正面に保ち、背景と車線を途中でリセットしない。\n\n鏡頭1、約0.0〜2.6秒：路面40センチ、後輪の約2.5メートル後方からの低いFPV追跡。配送バンが前方で左から右へ横滑りする。主人公はスロットルを戻して前ブレーキを徐々にかけ、フォークが沈み、上体が前へ移る。バンの後方に一度だけ生まれた左側の隙間へカウンターステアし、滑らかな一つの円弧で回避する。回避の出口では反対方向へ振り返さず、車体を直立へ戻しながら加速する。カメラは後輪との距離を保って同じ円弧を追う。\n\n鏡頭2、約2.6〜4.6秒：低い左側面の平行追跡。前の回避から車体を戻す途中で、低く折れた標識梁と散らばった小さなコンクリート片へ入る。主人公は肘を曲げ、頭部と上体をタンクに沿わせて低くする。両輪は接地したまま梁の下を通る。瓦礫を踏むたびにタイヤが潰れ、フォークが短く沈み、上体と銀髪が一拍遅れて上下する。カメラは路面と平行に走り、跳躍や浮遊を見せない。\n\n鏡頭3、約4.6〜6.6秒：旋回外側からの斜め後方FPV追跡。ジャックナイフした大型車両の手前で主人公は小さく加速し、後輪サスペンションが沈む。左側の傾斜約20度の保守用道路へ現実的なカウンターステアから中程度のリーンで入り、両輪を斜面へ接地させたまま一つの長い円弧で大型車両を回避する。道路へ戻る際、車体の傾きと水平線が慣性を残して半拍遅れて水平へ戻る。左右へ蛇行しない。\n\n鏡頭4、約6.6〜10.1秒：高い斜め後方の広角FPV追跡から始める。前方左のガラス張り超高層ビルが重力で道路側へ回転し、下端の巨大な鉄骨梁と路面の隙間がバイク三台分から一台分へ連続して狭くなる。カメラは倒壊全体を一瞬だけ見せた後、主人公の後方へ高度を落とし、縮む隙間へ一直線に追随する。主人公は左右へ振らず、両輪を接地させたままスロットルを開け、上体をタンクへ伏せて最小シルエットになる。\n\n間一髪の成功を必ず時間順に描く。前輪、風防、主人公、後輪の順に梁の下を一度だけ通過する。通過中の全フレームで、銀髪・背中・バイク上端と梁の下端の間に、細く途切れないシアンの光の線を明確に残す。人物とバイクの輪郭を梁から完全に分離し、接触、擦過、火花を起こさない。後輪まで抜け切り、バイク全体が梁より前方へ完全に出て、梁との間にバイク二台分の水平距離が生まれる。そこで約0.35秒、明るく開けたネオン道路へ飛び出す姿を見せ、主人公の上体が少し起き、サスペンションが伸び、銀髪が後方へ解放される。観客が「抜けた」と確認した後、四〜六フレーム遅れて梁が主人公の背後の路面へ激突する。火花は梁と路面の衝突点だけから出る。粉塵と圧力波が背後から追い、カメラは衝撃に同期して一度だけ強く上下へ揺れる。粉塵が画面を覆った瞬間にハードカットする。同じ通過を繰り返さない。\n\n鏡頭5、約10.1〜10.8秒：主人公の顔の短い特写。銀白色の前髪が風で後ろへ流れ、左右の灰緑色の瞳が見える。主人公は前方の停止地点を認識し、瞳を絞り、息を止め、顎を締めたあと、左肩越しにカメラへ冷たい視線を返す。カメラは顔との距離を固定し、眼差しだけを主役にする。\n\n鏡頭6、約10.8〜15.0秒：道路中心線上、路面60センチの低い正面カメラ。カメラは主人公より前方にいて、一定速度で後退しながら、バイクが画面奥方向へ進む姿を正面から捉える。主人公が急ブレーキを開始すると、フロントフォークが深く沈み、タイヤが潰れ、上体と銀髪が遅れて前へ流れる。バイクは前進慣性を残したまま90度だけ鋭くヨーし、画面左向きの完全な側面姿勢へ入る。車体上部をカメラ側へ約40度深く傾ける。左脚は膝を伸ばし切って路面へ接地し、左ブーツが削れる。両輪はロックするが、バイクは横向きのまま画面奥へ約1.7秒滑り続ける。二本のタイヤと左ブーツから三本の独立した白煙、水煙、火花の軌跡が画面手前へ伸びる。主人公は左肩越しにカメラを見続ける。\n\n画面中央の中距離で停止する。停止の瞬間は、タイヤ変形、フォークの底付き、車体の前下方への沈み、上体の遅れ、銀髪の遅れ、強い一回の反発、小さな収束の順に見せる。停止後も車体をすぐ直立させず、約0.55秒だけ深い傾きと視線を保持する。白煙が手前へ流れ、火花と破片が遅れて止まり、速度の余韻だけが残る。\n\n画面：現代日本の劇場版フルカラー2Dアクションアニメ。精密な顔、銀白色のボブ、シャープな線画、深い黒、三段階のセル影、硬いシアンのリムライト、濡れた路面の反射。高速ピークだけ一〜二枚の不透明な黒・コバルト色の荒い作画スメアを使い、直後に精密な原画へ戻す。半透明の残像にしない。\n\n音：台詞とBGMなし。電動エンジン、濡れたタイヤ、風切り音、ドローンの空気抵抗、瓦礫の接触、ビル倒壊、長いロックタイヤ音。カメラの揺れは画面内の物理衝撃と同期させる。\n\n制約：参照するのは<画像1>と<画像2>だけ。動画の動き、動画のカメラ、動画の構図を参照しない。左右の灰緑色の瞳と自然な目元を維持し、目元へ装飾品や覆いを追加しない。主人公一人、バイク一台を維持する。バイク形状を変えない。実写、写実、3D、ゲームCG、水彩、紙質にしない。瞬間的な横移動、単調な左右反復、アーケードドリフト、垂直ウォールライド、大ジャンプ、浮遊、空中旋回をしない。背景をリセットしない。ランドマークの左右を交換しない。カメラを瞬間移動させない。ビルを静止したトンネルにしない。梁と人物・バイクを接触させない。成功確認より先に梁を路面へ落とさない。同じ通過を繰り返さない。最後を正面接近、横追跡、旋回、直立停止にしない。人物やバイクの複製、余分な手足や車輪、字幕、文字、ロゴ、水印を生成しない。\n\nーーー\nHiggsFieldのMAGI-2でつくりました",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126084218660827582/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126084218660827582"
+ },
+ {
+  "id": "2126111263314813252",
+  "title": "An anime courier delivering a cake",
+  "title_zh": "配送蛋糕的动漫快递员",
+  "category": "anime",
+  "author": {
+   "handle": "sunra_ai",
+   "name": "Sunra"
+  },
+  "postUrl": "https://x.com/sunra_ai/status/2126111263314813252",
+  "createdAt": "2026-11-27T00:30:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126111263314813252/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126111263314813252/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126111263314813252"
+ },
+ {
+  "id": "2126127498358649073",
+  "title": "Dart and arrow trend at a wedding banquet",
+  "title_zh": "婚礼宴会厅飞镖与箭矢追踪镜头",
+  "category": "action",
+  "author": {
+   "handle": "VeraVCreates",
+   "name": "Vera"
+  },
+  "postUrl": "https://x.com/VeraVCreates/status/2126127498358649073",
+  "createdAt": "2026-11-27T01:34:31.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126127498358649073/video.mp4",
+  "promptShared": true,
+  "promptText": "Viral Dart & Arrow trend in romantic wedding 💒\nMade with MAGI-2\n\nPrompt:\nSCENE CONTEXT\nOne continuous 30-second chase shot through a wedding banquet hall at , running from the head table, down the 2.5-meter aisle between the round tables, past the stage, to the dessert table at the far end where a bullseye cake stands 1.15 meters off the floor. The bride in @Image1 stands at the aisle mouth. The flight line runs along the aisle's center axis at 1.15 meters.\n\nACTIVE REFERENCES\n@Image1 (thrower) = The bride — face, hair and build 100% match the reference. She wears an ivory silk gown; the gown replaces the outfit in the reference. Reference pose, background and lighting are not inherited.\n\nLOCATION MAP\nForeground: dark parquet dance floor with an ivory aisle runner.\nMidground: eight round tables per side in ivory linen with gold chargers, wine-red napkins and tall floral centrepieces; a champagne tower on the left; crystal chandeliers hanging at 4 meters.\nBackground: the stage with a red-and-ivory floral arch, the dessert table with the bullseye cake, and 300 guests falling away into warm bokeh.\nThe camera runs on the aisle's center axis at 1.15 meters. Chandeliers at 2800K, stage wash at 3200K, a 5600K rim from the hall's rear windows for separation.\n\nFIRST FRAME / BLOCKING\nA stable shot from behind and just over the left shoulder of @Image1 standing at the aisle mouth, her veil and the back of her head filling the left third of the frame. Her right hand is raised beside her head with a small silver dart between two fingers, tip pointing down the aisle. Ahead on the right, a waiter in a black waistcoat walks away from camera with a tray. A flower girl is already running across the aisle 20 meters ahead. 300 guests are already moving, toasting and turning in their seats from frame one.\n\nFORMAT MODE\nOne continuous shot, the camera does not cut on its own. Real-time speed throughout.\n\nOPTICS\nRectilinear lens. FOV per segment, no drift mid-segment: 0–3s at 47°, 3–30s at 63°. The dart stays in sharp focus; background focus pulls to the next target as the dart nears it. Natural motion blur.\n\nCAMERA\nAt the release the camera swings forward past her hand and settles 45 centimeters behind the dart's tail and 10 centimeters above its line, matching its speed within 5%. The dart is a 12-centimeter silver dart with a star-shaped cross at the tail; it sits in the lower center of the frame, pointing away from the lens, filling about one fifth of the frame width. The camera travels a straight line with the dart, carrying a 1-centimeter handheld tremor, with no banking and no sideways drift. It passes between the tables on the same line the dart passes. Everything ahead of the dart stays in clear view above it.\n\nACTION\n0–3s — She winds her right arm back 40 centimeters and snaps her wrist forward; the dart leaves her fingers with a metallic tsk. Her veil lifts in the pressure wave. The camera pushes past her hand and locks in behind the dart. The dart accelerates from 0 to 70 km/h, then eases to 25 km/h.\nEND STATE: the dart is 4 meters up the aisle at chest height; the veil is still rising; the waiter's shoulder is starting to turn.\n\n3–6s — A champagne tower stands on the left at 1.15 meters, its coupes filled. At 5s the dart takes the top glass; champagne bursts in a gold ribbon across the lens. The waiter 40 centimeters to the left freezes with his mouth open and his tray still level.\nEND STATE: gold spray hangs across the lens; the top coupe tips over; the waiter's tray stays level.\n\n6–9s — A bridesmaid tosses the bouquet above the aisle; it spins and lands on the line at 1.15 meters. At 8s the dart passes through the bouquet's center; rose petals explode outward and tumble past the lens as streamers. The bridesmaids freeze mid-pose, eyes first, then mouths, then shoulders.\nEND STATE: petals fall in a slow spiral; six bridesmaids hold a frozen pose with open mouths.\n\n9–12s — A flower boy of nine in a tiny waistcoat holds a party confetti p…",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126127498358649073/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126127498358649073"
+ },
+ {
+  "id": "2126151430302228844",
+  "title": "Man holding champagne glass in video test",
+  "title_zh": "手持香槟酒杯的视频生成对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "rbmk0910",
+   "name": "popcornii"
+  },
+  "postUrl": "https://x.com/rbmk0910/status/2126151430302228844",
+  "createdAt": "2026-11-27T03:09:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126151430302228844/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126151430302228844/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126151430302228844"
+ },
+ {
+  "id": "2126183644649697303",
+  "title": "Turning a greybox animation into a photoreal tram",
+  "title_zh": "将灰模动画转化为写实电车场景",
+  "category": "comparison",
+  "author": {
+   "handle": "HexxRL",
+   "name": "Hexx ./"
+  },
+  "postUrl": "https://x.com/HexxRL/status/2126183644649697303",
+  "createdAt": "2026-11-27T05:17:38.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126183644649697303/video.mp4",
+  "promptShared": true,
+  "promptText": "can magi-2 turn a greybox into a photoreal tram and keep the camera move?\n\ni tested it with a 10s greybox and one still.\n\ngreybox → camera move + cut\nstill → tram design\n\nprompt → wet tracks, blue-hour light + wheel hum\nwatch the pillars, then the cut at 5s.\n\nthe consistency across and replication of assets is incredible.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126183644649697303/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126183644649697303"
+ },
+ {
+  "id": "2126184516800897482",
+  "title": "A battle between two warriors",
+  "title_zh": "两位战士之间的激烈战斗",
+  "category": "comparison",
+  "author": {
+   "handle": "vproject26",
+   "name": "@vq020111"
+  },
+  "postUrl": "https://x.com/vproject26/status/2126184516800897482",
+  "createdAt": "2026-11-27T05:21:06.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126184516800897482/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126184516800897482/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126184516800897482"
+ },
+ {
+  "id": "2126243684354068810",
+  "title": "Multi-reference video test with multiple shots",
+  "title_zh": "多参考多镜头一致性测试",
+  "category": "comparison",
+  "author": {
+   "handle": "xmliisu",
+   "name": "Melisa♡"
+  },
+  "postUrl": "https://x.com/xmliisu/status/2126243684354068810",
+  "createdAt": "2026-11-27T09:16:12.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126243684354068810/video.mp4",
+  "promptShared": true,
+  "promptText": "been testing MAGI-2 on Renoise and the multi-reference is the real deal\n\n6 refs, 4 shots, timed hard cuts, no face drift. prompt is in the video if you want to steal it\n\nBlack Friday pricing makes this kind of dumb cheap",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126243684354068810/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126243684354068810"
+ },
+ {
+  "id": "2126248599881453596",
+  "title": "A museum guard and living dinosaur after-party",
+  "title_zh": "博物馆警卫与复活霸王龙的派对",
+  "category": "short-film",
+  "author": {
+   "handle": "EaseMate_AI_",
+   "name": "EaseMate AI_Official"
+  },
+  "postUrl": "https://x.com/EaseMate_AI_/status/2126248599881453596",
+  "createdAt": "2026-11-27T09:35:44.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126248599881453596/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126248599881453596/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126248599881453596"
+ },
+ {
+  "id": "2126250264856551426",
+  "title": "Consistency comparison of a woman across three shots",
+  "title_zh": "多镜头下戴眼镜银发女性的一致性对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Creaa_ai",
+   "name": "Creaa"
+  },
+  "postUrl": "https://x.com/Creaa_ai/status/2126250264856551426",
+  "createdAt": "2026-11-27T09:42:21.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126250264856551426/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126250264856551426/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126250264856551426"
+ },
+ {
+  "id": "2126251416498884689",
+  "title": "A cartoon heist short in Looney Tunes style",
+  "title_zh": "乐一通风格的卡通劫案短片",
+  "category": "anime",
+  "author": {
+   "handle": "vladrooman",
+   "name": "Vlad Roman"
+  },
+  "postUrl": "https://x.com/vladrooman/status/2126251416498884689",
+  "createdAt": "2026-11-27T09:46:56.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126251416498884689/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126251416498884689/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126251416498884689"
+ },
+ {
+  "id": "2126252593265737912",
+  "title": "Sword fight in a Sengoku palace on a stormy night",
+  "title_zh": "暴风雨之夜战国宫殿中的剑斗",
+  "category": "comparison",
+  "author": {
+   "handle": "AI__TSUBAKI",
+   "name": "TSUBAKI"
+  },
+  "postUrl": "https://x.com/AI__TSUBAKI/status/2126252593265737912",
+  "createdAt": "2026-11-27T09:51:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126252593265737912/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126252593265737912/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126252593265737912"
+ },
+ {
+  "id": "2126289938475889078",
+  "title": "Commemorative video reproducing a storyboard",
+  "title_zh": "忠实还原分镜脚本的纪念视频",
+  "category": "showcase",
+  "author": {
+   "handle": "JasminaAi",
+   "name": "ジャスミーナ | AI Anime & Illustrations✨"
+  },
+  "postUrl": "https://x.com/JasminaAi/status/2126289938475889078",
+  "createdAt": "2026-11-27T12:20:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126289938475889078/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126289938475889078/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126289938475889078"
+ },
+ {
+  "id": "2126304231179309362",
+  "title": "A cat on a vintage Lisbon tram",
+  "title_zh": "里斯本老式电车上的猫咪",
+  "category": "short-film",
+  "author": {
+   "handle": "doctorwasif",
+   "name": "WasifAI"
+  },
+  "postUrl": "https://x.com/doctorwasif/status/2126304231179309362",
+  "createdAt": "2026-11-27T13:16:48.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126304231179309362/video.mp4",
+  "promptShared": true,
+  "promptText": "A Cat’s Day Out on the Lisbon Tram 🐈🚋\n\nMade With MAGI-2 1080p on @openart_ai \n\nPrompt:\n**고양이 × 리스본 트램**\n\nA young woman (Image 1 = her face and hair) is already settling into a varnished wooden window seat of a vintage yellow Lisbon tram waiting at a hillside stop, steep cobbled street, pastel tiled facades and warm afternoon light outside the open window, brass handrails and polished wood panelling around her, cradling a small fluffy cream-and-grey cat and nuzzling it; once seated she lifts it up to the camera, melting with adoration, and says: \"우리 애기에요.\" A beat later, hard cut to the exact same locked framing: she lowers the cat onto the wooden seat beside her, clips a small harness leash to the armrest, and the tram bell clangs twice as the carriage jolts and starts to creak forward, the cat's ears flick; she turns to it, mouth toward the camera, and coos: \"준비됐어?\", and the cat answers with a soft meow. Hard cut, same locked framing, now climbing a steep cobbled street: the window is fully open, terracotta rooftops, laundry lines and tiled walls slide past in motion blur, warm wind rushes in whipping her hair and ruffling the cat's fur; one hand on the window frame, the other clutching at her whipping hair, she scrunches her face and yelps half-laughing: \"으아, 내 머리!\" Hard cut, same locked framing: the tram rattles through a narrow alley, walls close on both sides and the light flickers between shade and sun, she fishes a cat treat from her bag and holds it up, the cat's eyes locking on it with an eager meow, and she says to it with a teasing smile: \"간식 줄까?!\" Hard cut, same locked framing: the tram slowing at a crest, wheels squealing softly and the carriage rocking at a lazy pace, she props an elbow on the window ledge, jaw on her hand in a loose pose, glances out at the open sky and river view then side-eyes the lens and sighs: \"오늘 날씨가 진짜..\" At the end, hard cut to arrival, same locked framing: the tram has pulled to a halt at a viewpoint stop, brakes hissing and the street outside stops moving past; she leans toward the camera, warm and playful with the cat on the seat beside her, reaches a hand toward the lens as if to switch off the cam, and says clearly: \"도착! 다녀올게요.\" — her hand grazes the lens and the clip cuts out.\n\nKeep her face and hair exactly as the reference and never copy its background. The vintage yellow tram interior, its wooden seats, brass rails and open window stay identical, the small cream-and-grey cat stays the same in every cut, and the window stays fully open from the third cut on; the first two cuts sit at the hillside stop and the rest happen on the moving tram and at the viewpoint stop.\n\nThe camera is one locked viewpoint low on the wooden seat between the woman and the cat, slightly wide-angle, seeing the woman at the window seat and the cat beside her; every cut returns to this exact position and focal length and the camera never moves, pans, tilts, zooms, dollies, drones or reframes — only the woman and the cat move, rhythm coming only from that and hard cuts; no camera, mount, tripod or filming rig is ever visible, no rig reflection or shadow.\n\nShot like real self-filmed vlog footage in live-action photorealism: true skin texture with pores and fine hairs, film grain, natural light falloff, no beauty filter or skin smoothing, no 3D-render, CGI or AI-plastic gloss, staying razor-sharp through wind and motion. Never render a reference sheet or duplicate a subject. No subtitles, no on-screen text, no logo, no watermark.\n\nDiegetic sound only and absolutely no background music, not even at the end: tram bell clangs, wheels grinding on steel rails, creaking wood, rushing window wind, brake squeal and hiss, distant street murmur, the cat's soft meows and collar bell; her spoken lines are all live and frontal with the lips clearly visible and the mouth matching the words, in Korean, no voiceover.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126304231179309362/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126304231179309362"
+ },
+ {
+  "id": "2126310681766994319",
+  "title": "A high-tech Japan scene",
+  "title_zh": "高科技日本测试场景",
+  "category": "comparison",
+  "author": {
+   "handle": "johnAGI168",
+   "name": "John"
+  },
+  "postUrl": "https://x.com/johnAGI168/status/2126310681766994319",
+  "createdAt": "2026-11-27T13:42:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/seedance-2-5/2126310681766994319/video.mp4",
+  "promptShared": true,
+  "promptText": "令人印象深刻的高科技日本！😮\n\n来个尺度一点的测试，这条视频的话，SEEDANCE 2.5 就没有通过审核，MAGI-2 审核还是稍微宽松一点点🤏\n\nMAGI-2 prompt 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/seedance-2-5/2126310681766994319/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126310681766994319"
+ },
+ {
+  "id": "2126317871207006223",
+  "title": "A magical transformation story compared across models",
+  "title_zh": "魔法转变故事的双模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HIX_AI_",
+   "name": "HIX.AI"
+  },
+  "postUrl": "https://x.com/HIX_AI_/status/2126317871207006223",
+  "createdAt": "2026-11-27T14:11:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126317871207006223/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126317871207006223/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126317871207006223"
+ },
+ {
+  "id": "2126344729273176433",
+  "title": "A video take titled Mosaic",
+  "title_zh": "名为Mosaic的视频片段",
+  "category": "showcase",
+  "author": {
+   "handle": "tarumainfo",
+   "name": "taruma sakti"
+  },
+  "postUrl": "https://x.com/tarumainfo/status/2126344729273176433",
+  "createdAt": "2026-11-27T15:57:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126344729273176433/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126344729273176433/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126344729273176433"
+ },
+ {
+  "id": "2126346676583780818",
+  "title": "A short animated film generation",
+  "title_zh": "四十一秒动画短片展示",
+  "category": "anime",
+  "author": {
+   "handle": "Mayz1169",
+   "name": "Kiki"
+  },
+  "postUrl": "https://x.com/Mayz1169/status/2126346676583780818",
+  "createdAt": "2026-11-27T16:05:27.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126346676583780818/video.mp4",
+  "promptShared": true,
+  "promptText": "It's crazy how far AI animation has come 🤯\n\nThis 41-second short took just two MAGI-2 generations on Renoise, from $0.033/sec.\n\nPrompt below ⤵️",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126346676583780818/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126346676583780818"
+ },
+ {
+  "id": "2126347084521787540",
+  "title": "Facial expressions and gestures test",
+  "title_zh": "面部表情与肢体动作测试",
+  "category": "showcase",
+  "author": {
+   "handle": "TomaAIbijo",
+   "name": "トーマ＠Grok愛好家"
+  },
+  "postUrl": "https://x.com/TomaAIbijo/status/2126347084521787540",
+  "createdAt": "2026-11-27T16:07:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126347084521787540/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126347084521787540/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126347084521787540"
+ },
+ {
+  "id": "2126347156080754782",
+  "title": "Music video generated for a new song",
+  "title_zh": "为新歌生成的音乐视频片段",
+  "category": "music-video",
+  "author": {
+   "handle": "resonancediva",
+   "name": "ゆーき@Resonance_Diva"
+  },
+  "postUrl": "https://x.com/resonancediva/status/2126347156080754782",
+  "createdAt": "2026-11-27T16:07:22.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126347156080754782/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126347156080754782/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126347156080754782"
+ },
+ {
+  "id": "2126353777321984081",
+  "title": "A short film about a dangerous potion",
+  "title_zh": "关于神秘危险魔药的故事短片",
+  "category": "short-film",
+  "author": {
+   "handle": "minuitIA",
+   "name": "Minuit"
+  },
+  "postUrl": "https://x.com/minuitIA/status/2126353777321984081",
+  "createdAt": "2026-11-27T16:33:40.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126353777321984081/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126353777321984081/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126353777321984081"
+ },
+ {
+  "id": "2126354913181442519",
+  "title": "Fashion editorial in a rain-soaked moss forest",
+  "title_zh": "雨后苔藓森林中的时尚大片",
+  "category": "comparison",
+  "author": {
+   "handle": "YouArtStudio",
+   "name": "YouArt"
+  },
+  "postUrl": "https://x.com/YouArtStudio/status/2126354913181442519",
+  "createdAt": "2026-11-27T16:38:11.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126354913181442519/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126354913181442519/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126354913181442519"
+ },
+ {
+  "id": "2126360402309328977",
+  "title": "Eating pumpkin pie comparison between video models",
+  "title_zh": "吃南瓜派视频模型一致性对比",
+  "category": "comparison",
+  "author": {
+   "handle": "omidaziz",
+   "name": "omid"
+  },
+  "postUrl": "https://x.com/omidaziz/status/2126360402309328977",
+  "createdAt": "2026-11-27T17:00:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126360402309328977/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126360402309328977/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126360402309328977"
+ },
+ {
+  "id": "2126362797646757983",
+  "title": "A bowling ball rolling into deep space",
+  "title_zh": "保龄球滚入深邃太空",
+  "category": "comparison",
+  "author": {
+   "handle": "YouArtStudio",
+   "name": "YouArt"
+  },
+  "postUrl": "https://x.com/YouArtStudio/status/2126362797646757983",
+  "createdAt": "2026-11-27T17:09:31.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126362797646757983/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126362797646757983/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126362797646757983"
+ },
+ {
+  "id": "2126365941764329928",
+  "title": "A first-person view of a meat bun",
+  "title_zh": "第一人称视角下的蒸肉包",
+  "category": "showcase",
+  "author": {
+   "handle": "midori_tatsuta",
+   "name": "みどり🐲Midori Tatsuta"
+  },
+  "postUrl": "https://x.com/midori_tatsuta/status/2126365941764329928",
+  "createdAt": "2026-11-27T17:22:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126365941764329928/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126365941764329928/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126365941764329928"
+ },
+ {
+  "id": "2126371057221210161",
+  "title": "Video comparison between MAGI-2 and Seedance 2.5",
+  "title_zh": "MAGI-2与Seedance 2.5视频生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "adamuchigabriel",
+   "name": "Gabriel Adamuchi - kairogen.ai"
+  },
+  "postUrl": "https://x.com/adamuchigabriel/status/2126371057221210161",
+  "createdAt": "2026-11-27T17:42:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126371057221210161/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126371057221210161/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126371057221210161"
+ },
+ {
+  "id": "2126371737445306817",
+  "title": "A fox video for Friday celebration",
+  "title_zh": "庆祝周五的狐狸主题视频",
+  "category": "showcase",
+  "author": {
+   "handle": "minuitIA",
+   "name": "Minuit"
+  },
+  "postUrl": "https://x.com/minuitIA/status/2126371737445306817",
+  "createdAt": "2026-11-27T17:45:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126371737445306817/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126371737445306817/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126371737445306817"
+ },
+ {
+  "id": "2126372683248189576",
+  "title": "The adventures of Mia Luna and Kuro",
+  "title_zh": "米亚与露娜和小黑的冒险故事",
+  "category": "short-film",
+  "author": {
+   "handle": "Dokko57932483",
+   "name": "Stan_Katayama"
+  },
+  "postUrl": "https://x.com/Dokko57932483/status/2126372683248189576",
+  "createdAt": "2026-11-27T17:48:48.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126372683248189576/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126372683248189576/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126372683248189576"
+ },
+ {
+  "id": "2126385335097803166",
+  "title": "Video generated from a Midjourney reference image",
+  "title_zh": "基于Midjourney参考图生成的视频测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Artedeingenio",
+   "name": "OscarAI"
+  },
+  "postUrl": "https://x.com/Artedeingenio/status/2126385335097803166",
+  "createdAt": "2026-11-27T18:39:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126385335097803166/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126385335097803166/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126385335097803166"
+ },
+ {
+  "id": "2126387173897519253",
+  "title": "A van splashing through a puddle",
+  "title_zh": "一辆货车溅起水坑中的水花",
+  "category": "comparison",
+  "author": {
+   "handle": "izesaki",
+   "name": "! Ze"
+  },
+  "postUrl": "https://x.com/izesaki/status/2126387173897519253",
+  "createdAt": "2026-11-27T18:46:23.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126387173897519253/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126387173897519253/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126387173897519253"
+ },
+ {
+  "id": "2126390084673090019",
+  "title": "Falcon flying over historic Cairo in 1480",
+  "title_zh": "一只猎鹰飞越1480年的历史开罗",
+  "category": "short-film",
+  "author": {
+   "handle": "Malzahran2",
+   "name": "Malzahran"
+  },
+  "postUrl": "https://x.com/Malzahran2/status/2126390084673090019",
+  "createdAt": "2026-11-27T18:57:57.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126390084673090019/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126390084673090019/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126390084673090019"
+ },
+ {
+  "id": "2126390543139692989",
+  "title": "A chrome and neon Mars diner test",
+  "title_zh": "镀铬与霓虹风格的火星餐厅测试",
+  "category": "comparison",
+  "author": {
+   "handle": "nicravesh",
+   "name": "KIKI"
+  },
+  "postUrl": "https://x.com/nicravesh/status/2126390543139692989",
+  "createdAt": "2026-11-27T18:59:46.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126390543139692989/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126390543139692989/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126390543139692989"
+ },
+ {
+  "id": "2126390576291414255",
+  "title": "A thirty second AI vlog demo",
+  "title_zh": "三十秒AI视频博客演示",
+  "category": "comparison",
+  "author": {
+   "handle": "deweytn",
+   "name": "Claudia Galeán (💫,💫)"
+  },
+  "postUrl": "https://x.com/deweytn/status/2126390576291414255",
+  "createdAt": "2026-11-27T18:59:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126390576291414255/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126390576291414255/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126390576291414255"
+ },
+ {
+  "id": "2126392321587720222",
+  "title": "Steampunk daily challenge video creation",
+  "title_zh": "蒸汽朋克主题每日挑战创作",
+  "category": "showcase",
+  "author": {
+   "handle": "minuitIA",
+   "name": "Minuit"
+  },
+  "postUrl": "https://x.com/minuitIA/status/2126392321587720222",
+  "createdAt": "2026-11-27T19:06:50.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126392321587720222/video.mp4",
+  "promptShared": true,
+  "promptText": "Toshi's @ToshiArte Daily Challenge: Steampunk\n\nI’ll leave the prompt for you in the comments 👇\n\nMade with Midjourney + Magi-2 + Suno + Capcut\nhttps://x.com/ToshiArte/status/2126345307214475774?a=tNHcaYRGXQvuV2tcjzI&s=20",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126392321587720222/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126392321587720222"
+ },
+ {
+  "id": "2126394125117489508",
+  "title": "Side-by-side comparison of AI influencer videos",
+  "title_zh": "AI网红视频的生成效果横向对比",
+  "category": "comparison",
+  "author": {
+   "handle": "simonecanciello",
+   "name": "Simone Canc"
+  },
+  "postUrl": "https://x.com/simonecanciello/status/2126394125117489508",
+  "createdAt": "2026-11-27T19:14:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126394125117489508/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126394125117489508/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126394125117489508"
+ },
+ {
+  "id": "2126408001200546234",
+  "title": "Anime style animation test with fast cuts",
+  "title_zh": "包含快速切镜的动漫风格动画测试",
+  "category": "anime",
+  "author": {
+   "handle": "maxescu",
+   "name": "Alex Patrascu"
+  },
+  "postUrl": "https://x.com/maxescu/status/2126408001200546234",
+  "createdAt": "2026-11-27T20:09:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126408001200546234/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126408001200546234/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126408001200546234"
+ },
+ {
+  "id": "2126409279511077171",
+  "title": "Surreal world where reality loses its rules",
+  "title_zh": "当现实失去规则的奇幻景象",
+  "category": "showcase",
+  "author": {
+   "handle": "os_orabi",
+   "name": "osama orabi"
+  },
+  "postUrl": "https://x.com/os_orabi/status/2126409279511077171",
+  "createdAt": "2026-11-27T20:14:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/magi-2/2126409279511077171/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/magi-2/2126409279511077171/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/magi-2/2126409279511077171"
  }
 ]
